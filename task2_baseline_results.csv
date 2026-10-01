@@ -1,0 +1,2 @@
+Model,Accuracy,Balanced accuracy,Macro F1,Train seconds
+Baseline eLCS (Task 2),0.6149155722326454,0.46093107421067714,0.4475348892150101,44.3

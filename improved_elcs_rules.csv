@@ -1,0 +1,880 @@
+Specified Values,Specified Attribute Names,mag_class,Fitness,Accuracy,Numerosity,Avg Match Set Size,TimeStamp GA,Iteration Initialized,Specificity,Deletion Probability,Correct Count,Match Count
+"5.0, 3.0, 2.0, 1.0, 2.0, 0.0","latitude, absolute_longitude, rms_log, depthError_log, nst_log, east_west",0.0,1.0,1.0,1,1.5,12191,49,0.5,7.214150583889292e-05,2,2
+"2.0, 4.0, 1.0, 1.0, 1.0","longitude, latitude, dmin_log, horizontalError_log, depthError_log",2.0,1.0,1.0,1,2.0,12316,174,0.4166666666666667,9.618867445185722e-05,2,2
+"1.0, 4.0, 3.0, 0.0, 7.0, 0.0","longitude, dmin_log, rms_log, net_us, nst_log, east_west",2.0,1.0,1.0,1,5.0,19196,7054,0.5,0.00024047168612964306,2,2
+"4.0, 4.0, 5.0, 4.0","latitude, absolute_longitude, rms_log, depthError_log",2.0,1.0,1.0,1,6.0,19280,7138,0.3333333333333333,0.0002885660233555717,3,3
+"0.0, 6.0, 5.0, 7.0, 5.0, 3.0, 2.0","longitude, absolute_longitude, horizontalError_log, depth_signed_log, depthError_log, nst_log, station_coverage",2.0,1.0,1.0,1,9.0,19485,7343,0.5833333333333334,0.00043284903503335747,2,2
+"3.0, 3.0, 2.0, 1.0, 7.0","latitude, dmin_log, rms_log, depthError_log, station_coverage",2.0,1.0,1.0,1,1.0,7936,7936,0.4166666666666667,4.809433722592861e-05,1,1
+"4.0, 5.0, 4.0, 1.0, 5.0","latitude, horizontalError_log, depthError_log, net_us, station_coverage",4.0,1.0,1.0,1,5.5,17217,8376,0.4166666666666667,0.00026451885474260736,4,4
+"4.0, 3.0, 1.0, 2.0, 0.0, 0.0, 4.0","latitude, dmin_log, rms_log, horizontalError_log, net_us, east_west, station_coverage",0.0,1.0,1.0,1,2.0,8469,8469,0.5833333333333334,9.618867445185722e-05,1,1
+"0.0, 6.0, 6.0, 5.0, 6.0, 0.0, 1.0","longitude, latitude, absolute_longitude, rms_log, depthError_log, net_us, station_coverage",2.0,1.0,1.0,1,8.56,18375,8901,0.5833333333333334,0.0004116875266539489,6,6
+"0.0, 5.0, 5.0, 4.0, 4.0, 0.0, 1.0","longitude, latitude, dmin_log, rms_log, horizontalError_log, net_us, station_coverage",0.0,0.03125,0.5,1,2.5,9453,9453,0.5833333333333334,0.00012023584306482153,1,2
+"4.0, 3.0, 3.0, 0.0, 0.0, 0.0, 5.0","longitude, absolute_longitude, rms_log, depth_signed_log, net_us, east_west, station_coverage",1.0,1.0,1.0,1,3.0,14126,9473,0.5833333333333334,0.00014428301167778584,2,2
+"4.0, 3.0, 0.0, 2.0, 2.0, 1.0, 4.0, 4.0","longitude, latitude, dmin_log, rms_log, horizontalError_log, depth_signed_log, nst_log, station_coverage",1.0,1.0,1.0,1,2.0,9765,9765,0.6666666666666666,9.618867445185722e-05,1,1
+"2.0, 5.0, 5.0","absolute_longitude, horizontalError_log, nst_log",1.0,1.0,1.0,1,2.0,10039,10039,0.25,9.618867445185722e-05,1,1
+"2.0, 6.0, 4.0, 6.0, 6.0, 0.0, 0.0, 3.0","longitude, latitude, absolute_longitude, dmin_log, depthError_log, net_us, east_west, station_coverage",3.0,1.0,1.0,1,7.8,17675,10387,0.6666666666666666,0.0003751358303622431,5,5
+"2.0, 7.0, 6.0, 4.0, 1.0, 0.0, 2.0","longitude, latitude, dmin_log, depth_signed_log, nst_log, east_west, station_coverage",1.0,1.0,1.0,1,2.0,10464,10464,0.5833333333333334,9.618867445185722e-05,1,1
+"7.0, 7.0, 7.0, 7.0, 0.0, 5.0, 0.0","latitude, absolute_longitude, dmin_log, depthError_log, net_us, nst_log, east_west",3.0,1.0,1.0,1,4.5,17826,11574,0.5833333333333334,0.00021642451751667874,2,2
+"2.0, 4.0, 3.0, 3.0, 2.0, 6.0, 0.0","longitude, latitude, dmin_log, rms_log, horizontalError_log, depth_signed_log, depthError_log",2.0,1.0,1.0,1,1.0,11615,11615,0.5833333333333334,4.809433722592861e-05,1,1
+"5.0, 2.0, 0.0","longitude, latitude, east_west",0,0.19558298140901342,0.7215496368038741,2,15.15486865773573,19985,11798,0.25,0.0014577267276795964,298,413
+"2.0, 4.0, 6.0, 5.0, 0.0, 2.0","longitude, horizontalError_log, depth_signed_log, nst_log, east_west, station_coverage",1.0,1.0,1.0,1,2.0,11949,11949,0.5,9.618867445185722e-05,1,1
+"2.0, 1.0, 1.0, 1.0","longitude, dmin_log, horizontalError_log, depthError_log",2.0,0.1,1.0,1,2.0,12316,12316,0.3333333333333333,9.618867445185722e-05,0,0
+"6.0, 5.0, 4.0, 5.0, 5.0, 0.0","absolute_longitude, dmin_log, rms_log, depth_signed_log, nst_log, east_west",1.0,1.0,1.0,1,1.0,12590,12590,0.5,4.809433722592861e-05,1,1
+"3.0, 3.0, 4.0, 2.0, 0.0, 4.0","latitude, absolute_longitude, rms_log, depth_signed_log, net_us, nst_log",1.0,1.0,1.0,1,4.0,14081,12623,0.5,0.00019237734890371444,3,3
+"3.0, 1.0, 6.0, 0.0","longitude, rms_log, nst_log, east_west",1.0,0.401877572016461,0.8333333333333334,1,5.4799999999999995,18828,12659,0.3333333333333333,0.00026355696799808877,5,6
+"5.0, 4.0, 3.0, 2.0, 6.0, 2.0, 1.0, 1.0","latitude, absolute_longitude, dmin_log, rms_log, depth_signed_log, depthError_log, nst_log, station_coverage",1.0,1.0,1.0,1,6.0,12744,12744,0.6666666666666666,0.0002885660233555717,1,1
+"4.0, 3.0, 3.0, 1.0, 3.0, 3.0, 2.0, 0.0","longitude, latitude, dmin_log, rms_log, horizontalError_log, depth_signed_log, depthError_log, east_west",2.0,1.0,1.0,1,8.0,13073,13073,0.6666666666666666,0.0003847546978074289,1,1
+"4.0, 6.0, 4.0, 2.0","absolute_longitude, rms_log, depth_signed_log, station_coverage",4.0,1.0,1.0,1,2.0,13150,13150,0.3333333333333333,9.618867445185722e-05,1,1
+"3.0, 3.0, 4.0, 2.0, 4.0","latitude, absolute_longitude, rms_log, depth_signed_log, nst_log",1.0,1.0,1.0,1,6.0,14081,13237,0.4166666666666667,0.0002885660233555717,1,1
+"1.0, 0.0, 6.0, 3.0, 4.0, 3.0, 3.0, 0.0, 5.0","longitude, latitude, dmin_log, rms_log, horizontalError_log, depth_signed_log, depthError_log, net_us, nst_log",1.0,1.0,1.0,1,1.0,13388,13388,0.75,4.809433722592861e-05,1,1
+"1.0, 6.0, 3.0, 3.0, 0.0, 0.0, 0.0, 6.0","longitude, absolute_longitude, dmin_log, horizontalError_log, depth_signed_log, net_us, east_west, station_coverage",1.0,1.0,1.0,1,1.0,13405,13405,0.6666666666666666,4.809433722592861e-05,1,1
+"7.0, 6.0, 0.0","latitude, depthError_log, east_west",1.0,0.1226534074466558,0.657258064516129,1,17.704983254600386,19938,13516,0.25,0.00085150943522617,163,248
+"1.0, 7.0, 6.0, 6.0, 5.0, 2.0, 0.0, 0.0, 6.0","longitude, latitude, dmin_log, rms_log, horizontalError_log, depth_signed_log, depthError_log, net_us, nst_log",2.0,1.0,1.0,1,3.0,13524,13524,0.75,0.00014428301167778584,1,1
+"4.0, 2.0, 2.0, 3.0","longitude, absolute_longitude, rms_log, nst_log",0.0,0.7385081737104511,0.9411764705882353,4,11.358293140899795,19967,13640,0.3333333333333333,0.0021850783225175465,32,34
+"2.0, 2.0","absolute_longitude, rms_log",0.0,0.22334956810034368,0.7409638554216867,1,13.661491082045407,19985,13682,0.16666666666666666,0.0006570403591089081,123,166
+"0.0, 5.0, 7.0, 6.0, 1.0, 0.0","longitude, latitude, absolute_longitude, horizontalError_log, net_us, east_west",3.0,0.25126003423796484,0.7586206896551724,2,13.564791934243022,19855,13689,0.5,0.0013047793553700806,44,58
+"4.0, 4.0, 6.0, 0.0, 0.0, 3.0","longitude, dmin_log, depthError_log, net_us, east_west, station_coverage",0,0.0,0.0,1,6.0,13721,13721,0.5,0.0002885660233555717,0,1
+"4.0, 3.0, 1.0, 3.0, 0.0, 6.0, 0.0","longitude, absolute_longitude, dmin_log, depthError_log, net_us, nst_log, east_west",1.0,1.0,1.0,1,3.0,13988,13988,0.5833333333333334,0.00014428301167778584,1,1
+"0.0, 5.0, 4.0","dmin_log, rms_log, nst_log",1.0,1.0,1.0,1,5.0,17319,14049,0.25,0.00024047168612964306,5,5
+"1.0, 5.0, 3.0, 5.0, 1.0, 4.0","longitude, dmin_log, rms_log, depth_signed_log, depthError_log, station_coverage",5.0,1.0,1.0,1,6.333333333333333,19327,14060,0.5,0.00030459746909754785,3,3
+"2.0, 7.0, 4.0, 4.0, 0.0, 2.0","longitude, latitude, absolute_longitude, nst_log, east_west, station_coverage",2.0,1.0,1.0,1,2.0,16538,14127,0.5,9.618867445185722e-05,2,2
+"3.0, 4.0, 1.0, 0.0, 0.0, 1.0, 1.0, 0.0, 0.0, 7.0","longitude, absolute_longitude, dmin_log, rms_log, horizontalError_log, depth_signed_log, depthError_log, net_us, east_west, station_coverage",1.0,1.0,1.0,1,3.0,14159,14159,0.8333333333333334,0.00014428301167778584,1,1
+"0.0, 6.0, 5.0, 5.0, 0.0, 4.0","longitude, horizontalError_log, depth_signed_log, depthError_log, net_us, nst_log",1.0,0.0,0.0,1,10.0,14179,14179,0.5,0.0004809433722592861,0,1
+"7.0, 7.0, 6.0","dmin_log, rms_log, station_coverage",5.0,0.09585749962978335,0.6256410256410256,1,13.47673050224683,19999,14212,0.25,0.0006481544214780173,122,195
+"3.0, 4.0, 4.0, 1.0, 4.0, 0.0, 0.0, 3.0","longitude, latitude, absolute_longitude, dmin_log, horizontalError_log, depth_signed_log, net_us, nst_log",1.0,1.0,1.0,1,1.0,14357,14357,0.6666666666666666,4.809433722592861e-05,1,1
+"1.0, 7.0, 6.0, 6.0, 2.0, 4.0","longitude, latitude, absolute_longitude, rms_log, depth_signed_log, station_coverage",2.0,1.0,1.0,1,4.0,18744,14372,0.5,0.00019237734890371444,2,2
+"3.0, 5.0, 1.0, 2.0, 1.0, 0.0, 2.0","longitude, latitude, dmin_log, horizontalError_log, depth_signed_log, east_west, station_coverage",0.0,1.0,1.0,1,8.666666666666666,17350,14398,0.5833333333333334,0.00041681758929138125,3,3
+"4.0, 5.0, 2.0, 0.0, 2.0, 0.0, 2.0","longitude, dmin_log, horizontalError_log, net_us, nst_log, east_west, station_coverage",1.0,0.03125,0.5,1,5.5,14399,14399,0.5833333333333334,0.00026451885474260736,1,2
+"2.0, 7.0, 0.0, 5.0, 5.0","longitude, rms_log, depth_signed_log, depthError_log, station_coverage",2.0,1.0,1.0,1,3.0,14428,14428,0.4166666666666667,0.00014428301167778584,1,1
+"5.0, 3.0, 5.0, 5.0, 4.0","longitude, dmin_log, rms_log, depth_signed_log, station_coverage",2.0,1.0,1.0,1,2.0,14429,14429,0.4166666666666667,9.618867445185722e-05,1,1
+"5.0, 1.0, 1.0, 2.0, 4.0, 4.0, 4.0, 4.0","longitude, latitude, absolute_longitude, horizontalError_log, depth_signed_log, depthError_log, nst_log, station_coverage",0.0,1.0,1.0,1,1.0,14434,14434,0.6666666666666666,4.809433722592861e-05,1,1
+"6.0, 6.0, 1.0, 0.0, 1.0","latitude, absolute_longitude, horizontalError_log, net_us, nst_log",0.0,1.0,1.0,1,10.2,18348,14545,0.4166666666666667,0.0004905622397044718,5,5
+"6.0, 1.0, 0.0, 4.0, 4.0, 0.0","longitude, latitude, absolute_longitude, dmin_log, horizontalError_log, east_west",1.0,0.14323194797439662,0.6779661016949152,1,16.438105619283455,19971,14629,0.5,0.0007905797950092505,40,59
+"4.0, 1.0, 0.0","depthError_log, nst_log, east_west",0.0,0.17448415198261455,0.7052631578947368,1,13.369481621888303,19976,14706,0.25,0.000642996357658951,67,95
+"0.0, 6.0, 7.0, 5.0, 5.0, 5.0, 0.0, 2.0","longitude, dmin_log, rms_log, horizontalError_log, depthError_log, nst_log, east_west, station_coverage",3.0,1.0,1.0,1,5.5,15232,14853,0.6666666666666666,0.00026451885474260736,2,2
+"6.0, 4.0, 6.0, 7.0, 6.0, 5.0, 1.0, 7.0, 0.0, 6.0","latitude, absolute_longitude, dmin_log, rms_log, horizontalError_log, depthError_log, net_us, nst_log, east_west, station_coverage",4.0,1.0,1.0,1,6.0,19625,14904,0.8333333333333334,0.0002885660233555717,2,2
+"4.0, 2.0, 2.0, 0.0, 1.0, 0.0, 7.0","longitude, latitude, rms_log, horizontalError_log, depthError_log, net_us, nst_log",2.0,1.0,1.0,1,7.0,19846,14962,0.5833333333333334,0.0003366603605815003,2,2
+"0.0, 0.0, 0.0","latitude, absolute_longitude, net_us",3.0,0.17703971667429347,0.7073170731707317,3,13.296350195772362,19949,15021,0.25,0.0019184374505685537,145,205
+"7.0, 2.0, 7.0, 5.0, 0.0, 6.0","rms_log, depth_signed_log, depthError_log, nst_log, east_west, station_coverage",3.0,1.0,1.0,1,5.0,15047,15047,0.5,0.00024047168612964306,1,1
+"7.0, 5.0, 4.0, 1.0, 0.0, 1.0","latitude, absolute_longitude, horizontalError_log, nst_log, east_west, station_coverage",0.0,1.0,1.0,2,8.5,18416,15056,0.5,0.0008176037328407864,2,2
+"7.0, 7.0, 5.0, 7.0, 0.0, 7.0, 7.0","latitude, rms_log, horizontalError_log, depth_signed_log, net_us, nst_log, station_coverage",3.0,0.06285491210937498,0.575,1,19.82138447477103,19926,15111,0.5833333333333334,0.0009532963492144237,23,40
+"4.0, 2.0, 2.0, 4.0, 2.0, 0.0, 3.0, 0.0","longitude, latitude, absolute_longitude, dmin_log, horizontalError_log, depth_signed_log, nst_log, east_west",1.0,1.0,1.0,1,4.0,15198,15198,0.6666666666666666,0.00019237734890371444,1,1
+"6.0, 5.0, 7.0, 6.0, 5.0, 5.0, 1.0","latitude, absolute_longitude, dmin_log, horizontalError_log, depth_signed_log, depthError_log, station_coverage",3.0,1.0,1.0,1,11.0,18753,15217,0.5833333333333334,0.0005290377094852147,2,2
+"2.0, 5.0, 4.0, 7.0, 7.0, 5.0, 5.0, 0.0, 1.0","longitude, latitude, absolute_longitude, dmin_log, horizontalError_log, depth_signed_log, nst_log, east_west, station_coverage",2.0,1.0,1.0,1,7.333333333333333,18083,15229,0.75,0.00035269180632347644,3,3
+"6.0, 6.0, 7.0, 6.0, 0.0, 0.0","latitude, absolute_longitude, rms_log, horizontalError_log, net_us, east_west",3.0,0.2567458542283846,0.7619047619047619,1,12.585898181529435,19686,15291,0.5,0.0006053104314336784,16,21
+"1.0, 2.0, 0.0, 5.0, 0.0","absolute_longitude, depth_signed_log, net_us, nst_log, east_west",1.0,0.3276800000000001,0.8,1,10.8,19115,15306,0.4166666666666667,0.000519418842040029,4,5
+"3.0, 1.0, 0.0, 4.0, 0.0","latitude, absolute_longitude, rms_log, horizontalError_log, net_us",1.0,0.061865234375,0.875,1,10.5,15404,15404,0.4166666666666667,0.0005049905408722504,0,0
+"6.0, 2.0, 4.0, 7.0, 1.0, 0.0, 0.0, 4.0","absolute_longitude, rms_log, horizontalError_log, depth_signed_log, depthError_log, net_us, east_west, station_coverage",2.0,1.0,1.0,1,5.0,15442,15442,0.6666666666666666,0.00024047168612964306,1,1
+"0.0, 1.0, 3.0","latitude, net_us, station_coverage",4.0,0.4524739208954734,0.8533333333333334,1,14.406553690736917,19977,15458,0.25,0.0006928736514657478,64,75
+"0.0, 7.0, 7.0","latitude, horizontalError_log, depth_signed_log",4.0,0.10737418240000002,0.64,2,17.761374767899458,19993,15522,0.25,0.001708443095366912,128,200
+"0.0, 6.0, 6.0, 7.0, 5.0, 5.0, 2.0","longitude, latitude, absolute_longitude, rms_log, horizontalError_log, depth_signed_log, station_coverage",2.0,0.0,0.0,1,6.0,15526,15526,0.5833333333333334,0.0002885660233555717,0,1
+"0.0, 7.0, 1.0, 4.0","latitude, dmin_log, net_us, station_coverage",4.0,0.427630752325058,0.84375,1,16.831178699733222,19993,15552,0.3333333333333333,0.0008094843842948362,81,96
+"0.0, 7.0, 5.0, 7.0, 6.0, 0.0, 3.0","longitude, absolute_longitude, dmin_log, horizontalError_log, nst_log, east_west, station_coverage",3.0,1.0,1.0,2,11.0,19165,15585,0.5833333333333334,0.0010580754189704294,4,4
+"1.0, 1.0, 4.0, 0.0, 1.0, 0.0","dmin_log, horizontalError_log, depthError_log, net_us, nst_log, east_west",0.0,0.1,1.0,1,14.456,15630,15630,0.5,0.000695251738938024,0,0
+"0.0, 7.0, 7.0, 1.0, 0.0","latitude, dmin_log, horizontalError_log, net_us, east_west",5.0,0.07775999999999998,0.6,1,16.312193707746612,19968,15891,0.4166666666666667,0.0007845241450750363,114,190
+"7.0, 5.0, 0.0, 0.0","latitude, rms_log, net_us, east_west",1.0,0.26150027784488145,0.7647058823529411,1,10.711206879696189,19845,15905,0.3333333333333333,0.000515148395768795,26,34
+"6.0, 1.0, 7.0, 7.0, 1.0, 0.0, 7.0","longitude, absolute_longitude, rms_log, horizontalError_log, net_us, east_west, station_coverage",3.0,1.0,1.0,1,6.0,19092,15930,0.5833333333333334,0.0002885660233555717,3,3
+"5.0, 5.0, 0.0, 0.0, 4.0","dmin_log, depthError_log, net_us, east_west, station_coverage",1.0,0.401877572016461,0.8333333333333334,1,6.720000000000001,18756,15946,0.4166666666666667,0.0003231939461582403,5,6
+"1.0, 0.0, 3.0, 0.0, 6.0, 6.0","absolute_longitude, dmin_log, depthError_log, net_us, nst_log, station_coverage",2.0,0.0003200000000000001,0.2,1,9.8,16017,16017,0.5,0.0004713245048141004,1,5
+"1.0, 6.0, 3.0, 3.0, 0.0, 0.0, 4.0","longitude, dmin_log, rms_log, horizontalError_log, net_us, east_west, station_coverage",2.0,1.0,1.0,1,2.0,16042,16042,0.5833333333333334,9.618867445185722e-05,1,1
+"1.0, 4.0","latitude, dmin_log",1.0,0.12575636989388722,0.6605504587155964,1,13.457293381838017,19971,16056,0.16666666666666666,0.0006472196060543749,72,109
+"3.0, 1.0, 0.0, 0.0","dmin_log, rms_log, net_us, east_west",0.0,0.10904145145623527,0.6419753086419753,2,9.353475330620444,19975,16121,0.3333333333333333,0.0008996983935705275,52,81
+"7.0, 7.0, 4.0, 7.0, 6.0, 0.0","longitude, absolute_longitude, dmin_log, rms_log, depthError_log, net_us",2.0,1.0,1.0,1,5.5,16800,16125,0.5,0.00026451885474260736,2,2
+"2.0, 7.0, 5.0, 1.0, 4.0, 0.0, 2.0","longitude, rms_log, depthError_log, net_us, nst_log, east_west, station_coverage",4.0,0.03125,0.5,1,2.0,16173,16173,0.5833333333333334,9.618867445185722e-05,1,2
+"7.0, 5.0, 7.0, 1.0","longitude, latitude, absolute_longitude, east_west",3.0,0.2743165142200294,0.7720588235294118,2,13.08651267951281,19969,16175,0.3333333333333333,0.0012587743078397594,105,136
+"0.0, 0.0, 5.0, 4.0","absolute_longitude, dmin_log, rms_log, nst_log",1.0,0.1,1.0,1,6.0,16247,16247,0.3333333333333333,0.0002885660233555717,0,0
+"0.0, 5.0, 7.0, 6.0, 1.0, 0.0","longitude, latitude, absolute_longitude, dmin_log, net_us, east_west",3.0,0.3066820026178275,0.7894736842105263,1,14.370823418791318,19748,16270,0.5,0.0006911552277176219,30,38
+"0.0, 6.0, 7.0, 6.0, 6.0, 1.0, 5.0, 0.0","absolute_longitude, dmin_log, rms_log, horizontalError_log, depthError_log, net_us, nst_log, east_west",4.0,1.0,1.0,1,3.5,17919,16278,0.6666666666666666,0.00016833018029075014,2,2
+"1.0, 6.0, 1.0, 2.0, 0.0, 0.0","longitude, absolute_longitude, dmin_log, horizontalError_log, net_us, east_west",1,0.07775999999999998,0.6,1,6.6,19260,16323,0.5,0.00031742262569112883,3,5
+"2.0, 3.0, 1.0","absolute_longitude, dmin_log, rms_log",0.0,0.5549289573066435,0.8888888888888888,2,11.650557496360959,19642,16372,0.25,0.001120651682200109,16,18
+"2.0, 3.0, 3.0, 6.0, 6.0","dmin_log, rms_log, horizontalError_log, depth_signed_log, nst_log",2.0,1.0,1.0,1,8.0,16375,16375,0.4166666666666667,0.0003847546978074289,1,1
+"6.0, 0.0, 1.0","horizontalError_log, net_us, station_coverage",2,0.09091180653955425,0.6190476190476191,1,16.05523622255526,19639,16387,0.25,0.0007721659451295168,13,21
+"0.0, 5.0, 5.0, 7.0, 0.0","latitude, rms_log, horizontalError_log, depth_signed_log, net_us",3.0,1.0,1.0,1,15.24,18411,16393,0.4166666666666667,0.000732957699323152,6,6
+"7.0, 5.0, 7.0, 7.0, 1.0, 7.0","longitude, absolute_longitude, dmin_log, nst_log, east_west, station_coverage",5.0,0.5734249721032963,0.8947368421052632,1,19.008112491523416,19939,16410,0.5,0.0009141825721957133,34,38
+"0.0, 6.0, 0.0","longitude, dmin_log, net_us",2,0.3242524150977795,0.7983193277310925,2,14.290481732048367,19996,16449,0.25,0.001374582495084213,95,119
+"1.0, 0.0, 0.0, 1.0","dmin_log, depthError_log, net_us, nst_log",0.0,0.03125,0.5,1,19.0,18537,16461,0.3333333333333333,0.0009137924072926436,1,2
+"0.0, 5.0, 7.0, 0.0","latitude, rms_log, depth_signed_log, net_us",3.0,1.0,1.0,2,16.2335616,19526,16470,0.3333333333333333,0.0015614847719365706,11,11
+"1.0, 5.0, 7.0, 5.0, 1.0, 0.0","longitude, horizontalError_log, depth_signed_log, depthError_log, net_us, east_west",3.0,1.0,1.0,1,4.0,19365,16489,0.5,0.00019237734890371444,2,2
+"2.0, 6.0, 6.0, 7.0, 7.0, 5.0, 2.0","longitude, latitude, rms_log, horizontalError_log, depthError_log, nst_log, station_coverage",3.0,1.0,1.0,2,2.25,19771,16495,0.5833333333333334,0.00021642451751667874,4,4
+"6.0, 2.0, 1.0, 4.0, 6.0, 6.0, 5.0, 1.0, 0.0","longitude, latitude, absolute_longitude, dmin_log, rms_log, horizontalError_log, depth_signed_log, net_us, east_west",3.0,1.0,1.0,1,1.3333333333333333,17426,16496,0.75,6.412578296790481e-05,3,3
+"3.0, 7.0, 2.0, 1.0","absolute_longitude, depthError_log, nst_log, station_coverage",1.0,1.0,1.0,1,1.0,16515,16515,0.3333333333333333,4.809433722592861e-05,1,1
+"7.0, 1.0, 6.0, 1.0","dmin_log, net_us, nst_log, east_west",4.0,0.29773026984416995,0.7848101265822784,3,12.058147446620548,19898,16530,0.3333333333333333,0.0017397858288532159,62,79
+"6.0, 7.0, 0.0, 0.0","latitude, absolute_longitude, nst_log, station_coverage",0.0,0.4303684562600565,0.8448275862068966,4,17.32874447907189,19897,16533,0.3333333333333333,0.003333657922713728,49,58
+"2.0, 5.0, 1.0, 2.0, 5.0, 5.0","absolute_longitude, dmin_log, rms_log, horizontalError_log, depthError_log, nst_log",2.0,1.0,1.0,1,1.0,16543,16543,0.5,4.809433722592861e-05,1,1
+"7.0, 0.0","dmin_log, depthError_log",3.0,0.19649623617673456,0.7222222222222222,1,10.171492690953198,19848,16546,0.16666666666666666,0.0004891911995697711,26,36
+"7.0, 1.0, 0.0, 7.0, 0.0, 1.0","longitude, latitude, absolute_longitude, depthError_log, east_west, station_coverage",3.0,1.0,1.0,2,7.0528,19755,16558,0.5,0.0006783994831740586,8,8
+"2.0, 3.0, 0.0, 2.0, 3.0","dmin_log, depthError_log, net_us, nst_log, station_coverage",1.0,0.2373046875,0.75,1,4.0,18122,16560,0.4166666666666667,0.00019237734890371444,3,4
+"5.0, 1.0, 5.0, 3.0, 2.0, 6.0, 0.0, 3.0","latitude, absolute_longitude, dmin_log, rms_log, horizontalError_log, depth_signed_log, east_west, station_coverage",1.0,1.0,1.0,1,4.0,16565,16565,0.6666666666666666,0.00019237734890371444,1,1
+"4.0, 3.0, 1.0, 0.0, 0.0, 6.0","absolute_longitude, dmin_log, rms_log, net_us, east_west, station_coverage",0.0,0.2994492622121735,0.7857142857142857,1,13.334867456,19864,16566,0.5,0.0006413316122919247,11,14
+"3.0, 2.0, 1.0, 1.0","latitude, absolute_longitude, rms_log, station_coverage",1.0,0.03125,0.5,2,9.5,19344,16567,0.3333333333333333,0.0009137924072926436,2,4
+"0.0, 6.0, 6.0, 7.0, 0.0","longitude, absolute_longitude, rms_log, nst_log, east_west",3.0,1.0,1.0,1,9.136,19555,16574,0.4166666666666667,0.0004393898648960837,7,7
+"6.0, 3.0, 5.0, 6.0","longitude, latitude, depth_signed_log, depthError_log",0.0,1.0,1.0,1,3.0,16595,16595,0.3333333333333333,0.00014428301167778584,1,1
+"1.0, 6.0, 6.0, 5.0, 6.0, 5.0, 0.0","longitude, absolute_longitude, rms_log, horizontalError_log, depth_signed_log, nst_log, east_west",1.0,1.0,1.0,1,3.0,16661,16661,0.5833333333333334,0.00014428301167778584,1,1
+"7.0, 0.0, 0.0, 0.0","longitude, latitude, absolute_longitude, net_us",3.0,0.12620105251171496,0.6610169491525424,2,13.291008486245925,19949,16669,0.3333333333333333,0.0012784444884203809,78,118
+"7.0, 7.0, 7.0, 7.0, 1.0","horizontalError_log, depth_signed_log, depthError_log, nst_log, east_west",4.0,0.06355277623596342,0.576271186440678,1,14.393873157116698,19933,16680,0.4166666666666667,0.0006922637896056122,34,59
+"7.0, 5.0, 2.0, 0.0","latitude, absolute_longitude, nst_log, east_west",0.0,2.6932907434290447e-06,0.07692307692307693,1,8.982797824,16686,16686,0.3333333333333333,0.00043202170777979375,1,13
+"1.0, 7.0, 0.0, 2.0, 0.0, 3.0","absolute_longitude, depthError_log, net_us, nst_log, east_west, station_coverage",2.0,1.0,1.0,1,3.0,16699,16699,0.5,0.00014428301167778584,1,1
+"4.0, 0.0, 5.0, 0.0, 4.0","rms_log, depth_signed_log, nst_log, east_west, station_coverage",3.0,1.0,1.0,1,2.3333333333333335,19427,16708,0.4166666666666667,0.00011222012019383344,3,3
+"4.0, 0.0, 6.0, 0.0","horizontalError_log, net_us, nst_log, east_west",2.0,0.040386107340619246,0.5263157894736842,2,12.816388869914624,19907,16709,0.3333333333333333,0.001232791456656624,10,19
+"7.0, 0.0, 7.0, 5.0, 3.0","longitude, latitude, dmin_log, depth_signed_log, nst_log",4.0,1.0,1.0,1,6.192,19316,16747,0.4166666666666667,0.00029780013610294996,7,7
+"0.0, 6.0, 4.0","longitude, horizontalError_log, depthError_log",2,0.02373046875,0.75,1,11.7392,16759,16759,0.25,0.0005645890435626212,0,0
+"1.0, 0.0, 1.0, 0.0","dmin_log, net_us, nst_log, east_west",0.0,0.16581708354279173,0.6981132075471698,1,15.409011049509227,19976,16783,0.3333333333333333,0.0007410861737331568,37,53
+"6.0, 1.0, 2.0, 4.0, 0.0","longitude, latitude, rms_log, depth_signed_log, net_us",0.0,0.008894625649883995,0.3888888888888889,1,12.12393451749376,19850,16794,0.4166666666666667,0.000583092595189421,7,18
+"7.0, 4.0, 7.0, 6.0, 0.0","absolute_longitude, dmin_log, rms_log, depthError_log, net_us",2.0,0.1,1.0,1,5.5,16800,16800,0.4166666666666667,0.00026451885474260736,0,0
+"4.0, 2.0, 1.0, 0.0, 3.0, 0.0, 4.0","longitude, absolute_longitude, dmin_log, net_us, nst_log, east_west, station_coverage",1.0,1.0,1.0,1,7.0,16813,16813,0.5833333333333334,0.0003366603605815003,1,1
+"3.0, 1.0","longitude, horizontalError_log",1,0.08147990881454181,0.6056338028169014,1,13.239950838335151,19879,16830,0.16666666666666666,0.000636766660473607,43,71
+"3.0, 6.0, 7.0, 5.0, 5.0, 0.0","absolute_longitude, dmin_log, rms_log, horizontalError_log, depthError_log, east_west",2.0,1.0,1.0,1,1.0,16850,16850,0.5,4.809433722592861e-05,1,1
+"0.0, 7.0, 0.0","longitude, horizontalError_log, net_us",2.0,0.202266658350261,0.7264150943396226,2,11.87955223040122,19996,16897,0.25,0.0011426783821238972,77,106
+"1.0, 0.0, 0.0","absolute_longitude, dmin_log, depthError_log",1.0,0.15601271289092586,0.6896551724137931,3,7.878631616992302,19917,16905,0.25,0.001136752697599473,20,29
+"4.0, 2.0, 2.0, 2.0","longitude, absolute_longitude, rms_log, depth_signed_log",0.0,0.18593443208187066,0.7142857142857143,1,11.576,18730,16917,0.3333333333333333,0.0005567400477273496,5,7
+"1.0, 5.0, 6.0, 0.0, 0.0","longitude, horizontalError_log, depthError_log, net_us, east_west",1.0,0.11602906250000002,0.65,2,8.789427733764505,19820,16919,0.4166666666666667,0.0008454434029011991,13,20
+"3.0, 7.0, 0.0, 0.0, 3.0","rms_log, depth_signed_log, net_us, east_west, station_coverage",3.0,0.13168724279835387,0.6666666666666666,1,6.333333333333333,18703,16948,0.4166666666666667,0.00030459746909754785,2,3
+"3.0, 3.0, 1.0, 1.0, 2.0, 0.0, 4.0","latitude, absolute_longitude, rms_log, horizontalError_log, depth_signed_log, east_west, station_coverage",1.0,1.0,1.0,1,6.0,16970,16970,0.5833333333333334,0.0002885660233555717,1,1
+"0.0, 5.0, 5.0, 5.0, 0.0, 1.0","longitude, rms_log, depth_signed_log, depthError_log, east_west, station_coverage",2.0,1.0,1.0,2,6.0,19816,16993,0.5,0.0005771320467111434,2,2
+"1.0, 1.0, 0.0, 3.0","dmin_log, rms_log, net_us, station_coverage",0.0,0.13168724279835387,0.6666666666666666,1,5.666666666666667,18940,16999,0.3333333333333333,0.00027253457761359547,2,3
+"7.0, 1.0, 7.0, 0.0, 7.0","dmin_log, net_us, nst_log, east_west, station_coverage",5.0,0.6506963713669756,0.9176470588235294,1,20.10406667079386,19891,17013,0.4166666666666667,0.0009668917620777117,78,85
+"2.0, 6.0, 5.0, 0.0, 5.0, 0.0","longitude, dmin_log, horizontalError_log, depth_signed_log, depthError_log, net_us",3.0,0.06092699470458736,0.5714285714285714,2,6.144,19634,17019,0.5,0.0005909832158322107,4,7
+"1.0, 0.0, 7.0, 0.0","longitude, depthError_log, nst_log, east_west",3.0,0.095367431640625,0.625,1,8.8368,19833,17029,0.3333333333333333,0.00042500003919808594,5,8
+"3.0, 0.0, 0.0, 7.0, 0.0, 7.0","absolute_longitude, horizontalError_log, net_us, nst_log, east_west, station_coverage",2.0,0.03125,0.5,1,5.010934078036771,19896,17030,0.5,0.0033528817424709955,11,22
+"7.0, 6.0, 0.0, 0.0, 7.0","latitude, depth_signed_log, net_us, east_west, station_coverage",1.0,0.0003200000000000001,0.2,1,11.218835619839998,18956,17036,0.4166666666666667,0.0005395624635828447,3,15
+"7.0, 5.0, 5.0, 4.0, 5.0, 3.0","latitude, absolute_longitude, dmin_log, horizontalError_log, depth_signed_log, depthError_log",3.0,1.0,1.0,1,3.0,17037,17037,0.5,0.00014428301167778584,1,1
+"1.0, 6.0, 6.0","longitude, horizontalError_log, depthError_log",1.0,0.20030418945312498,0.725,1,12.13078071214974,19790,17046,0.25,0.00058342185838392,29,40
+"4.0, 2.0, 7.0, 0.0, 7.0, 0.0","longitude, horizontalError_log, depthError_log, net_us, nst_log, east_west",1.0,0.13168724279835387,0.6666666666666666,1,5.0,19306,17051,0.5,0.00024047168612964306,2,3
+"3.0, 3.0, 1.0, 2.0","rms_log, horizontalError_log, nst_log, station_coverage",1.0,0.03125,0.5,1,10.75,19792,17052,0.3333333333333333,0.0005170141251787325,2,4
+"2.0, 4.0, 7.0, 0.0, 0.0","absolute_longitude, rms_log, depthError_log, net_us, east_west",2.0,3.0517578125e-05,0.125,1,8.620800000000001,17065,17065,0.4166666666666667,0.0004146116623572854,1,8
+"2.0, 4.0, 1.0, 4.0, 4.0","absolute_longitude, dmin_log, rms_log, depth_signed_log, station_coverage",1.0,1.0,1.0,1,3.0,17073,17073,0.4166666666666667,0.00014428301167778584,1,1
+"0.0, 4.0, 3.0, 4.0, 2.0","longitude, dmin_log, rms_log, depth_signed_log, depthError_log",1.0,1.0,1.0,1,1.0,17126,17126,0.4166666666666667,4.809433722592861e-05,1,1
+"4.0, 2.0, 2.0, 6.0, 6.0","longitude, latitude, horizontalError_log, nst_log, station_coverage",1.0,1.0,1.0,1,1.5,17449,17131,0.4166666666666667,7.214150583889292e-05,2,2
+"2.0, 4.0, 3.0, 3.0, 2.0, 0.0","longitude, rms_log, horizontalError_log, depthError_log, nst_log, east_west",0.0,1.0,1.0,1,2.0,17133,17133,0.5,9.618867445185722e-05,1,1
+"0.0, 1.0, 0.0","rms_log, depth_signed_log, net_us",0.0,0.13168724279835387,0.6666666666666666,2,15.174575470473755,19970,17147,0.25,0.0014596222998745382,48,72
+"0.0, 1.0, 0.0, 3.0","rms_log, depth_signed_log, net_us, station_coverage",0.0,1.0,1.0,1,17.0272,19476,17189,0.3333333333333333,0.0008189118988133317,8,8
+"0.0, 6.0, 3.0, 0.0, 6.0, 0.0","latitude, absolute_longitude, horizontalError_log, net_us, nst_log, east_west",1.0,0.5549289573066435,0.8888888888888888,1,9.208639999999999,19689,17206,0.5,0.0004428834375521752,8,9
+"3.0, 3.0, 3.0, 2.0, 0.0, 4.0, 0.0","longitude, absolute_longitude, rms_log, horizontalError_log, net_us, nst_log, east_west",0.0,1.0,1.0,1,2.0,17207,17207,0.5833333333333334,9.618867445185722e-05,1,1
+"6.0, 1.0, 0.0, 5.0","longitude, depth_signed_log, net_us, station_coverage",2.0,1.0,1.0,1,3.0,17213,17213,0.3333333333333333,0.00014428301167778584,1,1
+"7.0, 4.0, 7.0, 5.0, 4.0, 1.0, 5.0","longitude, latitude, rms_log, horizontalError_log, depthError_log, net_us, station_coverage",4.0,0.1,1.0,1,9.0,17217,17217,0.5833333333333334,0.00043284903503335747,0,0
+"6.0, 1.0, 2.0, 4.0, 2.0, 3.0","longitude, latitude, rms_log, depth_signed_log, depthError_log, nst_log",1.0,1.0,1.0,1,4.0,17250,17250,0.5,0.00019237734890371444,1,1
+"0.0, 0.0, 2.0, 5.0, 2.0, 0.0, 1.0, 0.0","latitude, absolute_longitude, dmin_log, depth_signed_log, depthError_log, net_us, nst_log, east_west",2.0,1.0,1.0,1,12.5,18100,17261,0.6666666666666666,0.0006011792153241076,2,2
+"3.0, 4.0, 2.0, 3.0, 0.0","longitude, absolute_longitude, rms_log, nst_log, east_west",1.0,1.0,1.0,1,1.0,17262,17262,0.4166666666666667,4.809433722592861e-05,1,1
+"4.0, 2.0, 2.0, 3.0, 0.0, 0.0, 2.0, 0.0","longitude, latitude, absolute_longitude, dmin_log, depth_signed_log, net_us, nst_log, east_west",1.0,1.0,1.0,1,2.0,17280,17280,0.6666666666666666,9.618867445185722e-05,1,1
+"1.0, 3.0, 0.0","absolute_longitude, horizontalError_log, net_us",1.0,0.07204491900081343,0.5909090909090909,1,12.271492185457266,19803,17282,0.25,0.0005901892834327294,26,44
+"1.0, 2.0, 0.0, 6.0","latitude, depth_signed_log, east_west, station_coverage",1.0,0.3276800000000001,0.8,1,8.8,19603,17286,0.3333333333333333,0.00042323016758817177,4,5
+"7.0, 7.0, 1.0, 1.0","longitude, dmin_log, east_west, station_coverage",3.0,0.36417049091528547,0.8170731707317073,1,11.385131561909777,19969,17297,0.3333333333333333,0.0005475603567000521,67,82
+"1.0, 4.0, 0.0","latitude, depthError_log, net_us",1,0.11798236980223087,0.6521739130434783,1,14.923591361515111,19971,17306,0.25,0.0007177402355626628,30,46
+"1.0, 6.0, 6.0, 7.0, 6.0, 0.0, 1.0","longitude, absolute_longitude, dmin_log, rms_log, depth_signed_log, net_us, station_coverage",2.0,1.0,1.0,1,4.0,17317,17317,0.5833333333333334,0.00019237734890371444,1,1
+"0.0, 0.0","rms_log, east_west",0.0,0.12324861859319845,0.6578947368421053,2,15.550356623288092,19970,17338,0.16666666666666666,0.00149576819084774,125,190
+"0.0, 6.0, 6.0, 0.0","longitude, dmin_log, horizontalError_log, net_us",2,0.3591654751124945,0.8148148148148148,1,14.643877220997743,19913,17360,0.3333333333333333,0.0007042875693617597,22,27
+"2.0, 6.0, 7.0, 7.0, 5.0, 2.0","longitude, rms_log, horizontalError_log, depthError_log, nst_log, station_coverage",3.0,1.0,1.0,1,3.0,19771,17363,0.5,0.00014428301167778584,1,1
+"5.0, 0.0","depthError_log, nst_log",0.0,0.06754356352880661,0.5833333333333334,1,13.66843648,19726,17365,0.16666666666666666,0.0006573743934203046,7,12
+"0.0, 0.0","net_us, nst_log",0.0,0.1381412888330443,0.6730769230769231,2,16.271608682893888,19970,17381,0.16666666666666666,0.0015651444704068934,140,208
+"6.0, 6.0, 6.0, 6.0, 1.0","latitude, absolute_longitude, dmin_log, rms_log, net_us",3.0,0.001903968584518355,0.2857142857142857,1,8.272,19555,17382,0.4166666666666667,0.0003978363575328815,2,7
+"1.0, 6.0, 0.0, 3.0","longitude, depthError_log, net_us, nst_log",1.0,0.401877572016461,0.8333333333333334,1,12.64,19820,17414,0.3333333333333333,0.0006079124225357377,5,6
+"3.0, 1.0, 0.0, 1.0, 0.0, 0.0, 4.0","latitude, absolute_longitude, dmin_log, depth_signed_log, net_us, east_west, station_coverage",1.0,0.07775999999999998,0.6,1,10.0,19382,17441,0.5833333333333334,0.0004809433722592861,3,5
+"4.0, 2.0, 4.0, 2.0, 6.0, 6.0","longitude, latitude, rms_log, horizontalError_log, nst_log, station_coverage",1.0,0.1,1.0,1,1.5,17449,17449,0.5,7.214150583889292e-05,0,0
+"6.0, 0.0, 2.0","longitude, net_us, station_coverage",1.0,0.023847592523562257,0.47368421052631576,1,10.982398108598272,19834,17465,0.25,0.0005281911581843258,9,19
+"3.0, 3.0, 4.0, 2.0, 0.0, 2.0, 5.0, 0.0, 3.0","longitude, absolute_longitude, rms_log, horizontalError_log, depth_signed_log, depthError_log, nst_log, east_west, station_coverage",1.0,1.0,1.0,1,2.0,17482,17482,0.75,9.618867445185722e-05,1,1
+"1.0, 7.0, 0.0","longitude, dmin_log, depthError_log",3.0,1.0,1.0,1,9.0,18758,17499,0.25,0.00043284903503335747,1,1
+"4.0, 5.0, 7.0, 1.0, 7.0","latitude, dmin_log, nst_log, east_west, station_coverage",5.0,0.0,0.0,1,8.333333333333334,17513,17513,0.4166666666666667,0.0004007861435494051,0,3
+"0.0, 7.0, 7.0, 6.0","latitude, dmin_log, depth_signed_log, nst_log",4.0,0.3666478320532007,0.8181818181818182,1,18.430752411590852,19438,17520,0.3333333333333333,0.0008864148218106474,18,22
+"4.0, 5.0, 3.0, 5.0, 3.0, 1.0, 5.0","longitude, latitude, absolute_longitude, dmin_log, depth_signed_log, depthError_log, nst_log",1.0,0.03125,0.5,1,2.5,17533,17533,0.5833333333333334,0.00012023584306482153,1,2
+"0.0, 6.0, 5.0, 5.0, 4.0, 0.0, 2.0","latitude, absolute_longitude, dmin_log, horizontalError_log, depth_signed_log, net_us, nst_log",2.0,1.0,1.0,1,9.0,17553,17553,0.5833333333333334,0.00043284903503335747,1,1
+"0.0, 0.0, 7.0, 5.0, 1.0","longitude, latitude, dmin_log, depth_signed_log, net_us",5.0,0.19075113096875485,0.717948717948718,1,17.084637286750784,19968,17565,0.4166666666666667,0.0008216743070516662,28,39
+"3.0, 2.0, 4.0, 0.0, 1.0","absolute_longitude, dmin_log, horizontalError_log, depth_signed_log, nst_log",2.0,1.0,1.0,1,4.0,17597,17597,0.4166666666666667,0.00019237734890371444,1,1
+"4.0, 0.0, 0.0, 0.0, 4.0, 0.0, 6.0","latitude, rms_log, depth_signed_log, depthError_log, nst_log, east_west, station_coverage",1.0,1.0,1.0,1,6.0,17598,17598,0.5833333333333334,0.0002885660233555717,1,1
+"1.0, 6.0, 7.0, 0.0, 0.0","longitude, absolute_longitude, depthError_log, net_us, east_west",1.0,0.023847592523562257,0.47368421052631576,2,8.07080972173312,19809,17610,0.4166666666666667,0.0007763204888866714,9,19
+"6.0, 7.0, 7.0, 1.0, 1.0","latitude, absolute_longitude, dmin_log, east_west, station_coverage",2.0,3.0517578125e-05,0.125,1,13.204355977216,18572,17617,0.4166666666666667,0.0006350547492194324,2,16
+"4.0, 6.0, 5.0, 1.0, 6.0","absolute_longitude, rms_log, depthError_log, net_us, nst_log",4.0,1.0,1.0,1,8.5,19773,17624,0.4166666666666667,0.0004088018664203932,2,2
+"3.0, 7.0, 1.0","latitude, dmin_log, net_us",4.0,0.2935778904262872,0.782608695652174,1,12.07267019114,19898,17641,0.25,0.0005806270713901031,18,23
+"6.0, 7.0, 7.0, 7.0, 7.0","rms_log, horizontalError_log, depth_signed_log, depthError_log, nst_log",4.0,0.3666478320532007,0.8181818181818182,1,13.783445608956429,19933,17658,0.4166666666666667,0.0006629056812523954,18,22
+"6.0, 1.0, 5.0, 2.0, 4.0, 4.0","longitude, absolute_longitude, horizontalError_log, depth_signed_log, depthError_log, nst_log",3.0,1.0,1.0,1,1.0,17663,17663,0.5,4.809433722592861e-05,1,1
+"7.0, 5.0, 5.0, 1.0, 2.0","longitude, latitude, rms_log, east_west, station_coverage",2.0,0.03125,0.5,1,7.75,18027,17668,0.4166666666666667,0.0003727311135009467,2,4
+"4.0, 2.0, 3.0, 1.0, 0.0","longitude, latitude, rms_log, horizontalError_log, east_west",0.0,0.03125,0.5,1,7.373312,19307,17678,0.4166666666666667,0.0003546145537999861,5,10
+"7.0, 5.0, 5.0, 7.0, 1.0, 0.0","absolute_longitude, rms_log, horizontalError_log, depthError_log, nst_log, station_coverage",2.0,1.0,1.0,1,4.0,17682,17682,0.5,0.00019237734890371444,1,1
+"6.0, 7.0, 5.0, 7.0, 7.0","latitude, rms_log, horizontalError_log, depth_signed_log, station_coverage",3.0,1.0,1.0,1,8.25,19842,17692,0.4166666666666667,0.00039677828211391104,4,4
+"5.0, 5.0, 3.0, 4.0, 0.0","longitude, dmin_log, rms_log, depth_signed_log, net_us",3.0,1.0,1.0,1,12.0,18613,17693,0.4166666666666667,0.0005771320467111434,2,2
+"3.0, 5.0, 2.0, 0.0, 0.0","latitude, dmin_log, rms_log, net_us, east_west",3.0,1.0,1.0,1,10.333333333333334,18947,17700,0.4166666666666667,0.0004969748180012623,3,3
+"4.0, 2.0, 4.0, 1.0, 2.0, 5.0, 6.0","longitude, absolute_longitude, rms_log, horizontalError_log, depth_signed_log, nst_log, station_coverage",1.0,1.0,1.0,1,5.0,17703,17703,0.5833333333333334,0.00024047168612964306,1,1
+"5.0, 1.0, 3.0","absolute_longitude, net_us, station_coverage",4.0,0.03125,0.5,1,10.0,17872,17718,0.25,0.0004809433722592861,1,2
+"0.0, 1.0, 0.0","rms_log, nst_log, east_west",0.0,0.512908935546875,0.875,5,17.68520914447479,19932,17721,0.25,0.004252792062527234,42,48
+"0.0, 6.0, 6.0, 6.0, 7.0, 0.0","longitude, absolute_longitude, rms_log, depthError_log, nst_log, east_west",3.0,1.0,1.0,1,5.0,18508,17723,0.5,0.00024047168612964306,1,1
+"5.0, 1.0, 0.0","longitude, latitude, dmin_log",1.0,0.028117236439550927,0.6319444444444444,1,9.1456,17728,17728,0.25,0.0004398515705334527,0,0
+"0.0, 0.0, 2.0, 0.0","latitude, absolute_longitude, rms_log, net_us",3.0,0.010240000000000003,0.4,1,17.6,19594,17742,0.3333333333333333,0.0008464603351763435,2,5
+"1.0, 1.0, 0.0, 7.0","dmin_log, depth_signed_log, east_west, station_coverage",3.0,0.0009765625,0.25,1,7.5,17743,17743,0.3333333333333333,0.00036070752919446455,1,4
+"6.0, 1.0, 4.0, 3.0, 0.0","longitude, latitude, dmin_log, depth_signed_log, east_west",1.0,0.1590361251087416,0.6923076923076923,1,18.220989793923213,19753,17763,0.4166666666666667,0.0008763264277391465,18,26
+"3.0, 7.0, 7.0, 6.0, 1.0, 2.0, 1.0, 2.0","absolute_longitude, dmin_log, rms_log, depthError_log, net_us, nst_log, east_west, station_coverage",4.0,1.0,1.0,1,3.0,17805,17805,0.6666666666666666,0.00014428301167778584,1,1
+"7.0, 1.0, 3.0","dmin_log, net_us, station_coverage",4.0,0.3392169036785128,0.8055555555555556,1,13.986446617312263,19977,17824,0.25,0.0006726688802054645,29,36
+"0.0, 0.0, 6.0, 0.0","latitude, absolute_longitude, rms_log, net_us",3.0,1.0,1.0,1,13.333333333333334,18593,17832,0.3333333333333333,0.0006412578296790481,3,3
+"0.0, 3.0, 6.0, 5.0, 5.0, 1.0, 1.0","latitude, absolute_longitude, rms_log, depth_signed_log, depthError_log, net_us, nst_log",4.0,1.0,1.0,1,4.0,17866,17866,0.5833333333333334,0.00019237734890371444,1,1
+"7.0, 7.0, 7.0, 1.0, 3.0","longitude, rms_log, depthError_log, net_us, station_coverage",4.0,1.0,1.0,1,16.6,19965,17872,0.4166666666666667,0.000798365997950415,5,5
+"0.0, 6.0, 6.0, 5.0, 7.0, 5.0, 2.0","longitude, latitude, absolute_longitude, rms_log, depth_signed_log, nst_log, station_coverage",1.0,0.03125,0.5,1,10.0,17894,17894,0.5833333333333334,0.0004809433722592861,1,2
+"1.0, 0.0, 6.0, 1.0, 2.0, 0.0, 0.0","longitude, latitude, absolute_longitude, dmin_log, rms_log, net_us, east_west",1.0,1.0,1.0,1,4.0,18347,17895,0.5833333333333334,0.00019237734890371444,1,1
+"6.0, 1.0, 6.0, 5.0, 1.0, 0.0, 7.0","longitude, absolute_longitude, rms_log, horizontalError_log, net_us, east_west, station_coverage",2.0,1.0,1.0,1,2.0,17917,17917,0.5833333333333334,9.618867445185722e-05,1,1
+"2.0, 3.0, 0.0, 5.0","latitude, absolute_longitude, net_us, station_coverage",1,1.0,1.0,1,5.0,18466,17930,0.3333333333333333,0.00024047168612964306,1,1
+"7.0, 4.0, 7.0","dmin_log, depthError_log, nst_log",5.0,1.0,1.0,1,21.87750521163361,19922,17960,0.25,0.0010521841133103176,55,55
+"1.0, 5.0","longitude, depth_signed_log",2.0,9.813824083770476e-05,0.15789473684210525,1,8.439862847635457,19400,17973,0.16666666666666666,0.00040590960993476576,3,19
+"2.0, 0.0, 3.0","longitude, east_west, station_coverage",1.0,0.07775999999999998,0.6,1,10.438779394308977,19624,17984,0.25,0.0005020461764169707,15,25
+"3.0, 2.0, 2.0, 4.0, 0.0, 6.0","latitude, dmin_log, rms_log, depth_signed_log, net_us, station_coverage",2.0,1.0,1.0,1,3.0,17998,17998,0.5,0.00014428301167778584,1,1
+"1.0, 4.0, 7.0, 0.0","longitude, rms_log, depth_signed_log, net_us",2.0,0.0,0.0,1,12.0,18019,18019,0.3333333333333333,0.0005771320467111434,0,2
+"3.0, 4.0, 0.0","absolute_longitude, depth_signed_log, east_west",1.0,0.13168724279835387,0.6666666666666666,3,9.12022437888,19893,18065,0.25,0.00131589344056197,10,15
+"3.0, 1.0, 2.0, 5.0, 0.0, 0.0","longitude, dmin_log, rms_log, depth_signed_log, net_us, east_west",0.0,1.0,1.0,1,5.666666666666667,19612,18070,0.5,0.00027253457761359547,3,3
+"1.0, 6.0, 6.0, 0.0, 0.0, 0.0","longitude, latitude, absolute_longitude, net_us, nst_log, east_west",0.0,1.0,1.0,1,17.53185882554368,19957,18092,0.5,0.0008431831305530704,18,18
+"7.0, 0.0, 0.0, 2.0, 5.0, 2.0, 0.0, 1.0","longitude, latitude, absolute_longitude, dmin_log, depth_signed_log, depthError_log, net_us, nst_log",2.0,0.1,1.0,1,12.5,18100,18100,0.6666666666666666,0.0006011792153241076,0,0
+"7.0, 7.0, 1.0, 4.0, 0.0","dmin_log, horizontalError_log, net_us, nst_log, east_west",2,0.00012860082304526745,0.16666666666666666,1,12.68,18413,18106,0.4166666666666667,0.0006098361960247747,1,6
+"0.0, 6.0, 7.0","longitude, dmin_log, depthError_log",2,0.11798236980223087,0.6521739130434783,2,13.96021525830148,19991,18118,0.25,0.001342814600758611,30,46
+"0.0, 6.0, 4.0","latitude, absolute_longitude, station_coverage",3.0,0.0029802322387695312,0.3125,2,7.541141856256,19703,18119,0.25,0.0007253724390066826,5,16
+"3.0, 1.0, 0.0","longitude, horizontalError_log, net_us",1,0.10255278437793762,0.6341463414634146,1,13.240759347528327,19879,18122,0.25,0.0006368055451873938,26,41
+"6.0, 5.0, 1.0, 1.0, 0.0, 2.0, 0.0","longitude, latitude, absolute_longitude, rms_log, net_us, nst_log, east_west",0.0,1.0,1.0,1,6.0,18124,18124,0.5833333333333334,0.0002885660233555717,1,1
+"4.0, 3.0, 0.0, 6.0, 6.0","absolute_longitude, dmin_log, net_us, nst_log, station_coverage",0.0,0.5549289573066435,0.8888888888888888,2,13.75456,19864,18142,0.4166666666666667,0.0013230328940685371,8,9
+"0.0, 5.0, 4.0, 5.0, 0.0","longitude, latitude, rms_log, depth_signed_log, east_west",1.0,0.00528037158203125,0.5125,1,12.2048,18160,18160,0.4166666666666667,0.0005869817669750135,0,0
+"4.0, 7.0, 0.0, 0.0","horizontalError_log, depth_signed_log, net_us, east_west",2.0,1.0000000000000003e-05,0.1,1,12.858495999999999,18505,18167,0.3333333333333333,0.0006184208428422541,1,10
+"4.0, 2.0, 3.0, 1.0","longitude, absolute_longitude, dmin_log, rms_log",3,0.0,0.0,1,11.522496,18169,18169,0.3333333333333333,0.0005541668083084135,0,10
+"7.0, 4.0, 4.0","longitude, absolute_longitude, station_coverage",4.0,1.0,1.0,1,18.159769599999997,19993,18170,0.25,0.0008733820830875666,12,12
+"6.0, 7.0, 7.0, 0.0","latitude, horizontalError_log, depthError_log, net_us",2,0.06600153808263474,0.5806451612903226,1,12.577286004090054,19844,18228,0.3333333333333333,0.0006048962344676591,18,31
+"5.0, 2.0, 1.0","longitude, rms_log, horizontalError_log",0.0,0.21208362139917689,0.7333333333333333,1,14.160568832000001,19985,18236,0.25,0.000681043172717182,11,15
+"5.0, 7.0, 1.0, 0.0","latitude, absolute_longitude, net_us, east_west",3.0,0.18593443208187066,0.7142857142857143,1,12.081397937392842,19855,18245,0.3333333333333333,0.0005810468265616096,20,28
+"0.0, 6.0, 7.0, 7.0, 0.0","longitude, dmin_log, depth_signed_log, depthError_log, east_west",2,0.014458261438686257,0.42857142857142855,1,15.4251572224,19818,18251,0.4166666666666667,0.0007418627132170739,6,14
+"0.0, 3.0, 0.0","rms_log, horizontalError_log, east_west",0.0,0.2373046875,0.75,2,18.512824907385976,19970,18256,0.25,0.0017807240882007835,21,28
+"6.0, 0.0, 0.0, 5.0, 7.0","longitude, latitude, absolute_longitude, depth_signed_log, nst_log",5.0,0.11602906250000002,0.65,1,15.817537463536844,19718,18263,0.4166666666666667,0.0007607339808551005,13,20
+"1.0, 4.0, 7.0, 5.0, 1.0, 7.0","latitude, absolute_longitude, dmin_log, depthError_log, net_us, nst_log",4.0,0.13168724279835387,0.6666666666666666,1,7.666666666666667,19381,18276,0.5,0.0003687232520654527,2,3
+"5.0, 2.0, 0.0","dmin_log, rms_log, net_us",3.0,0.0009765625,0.25,1,11.062302945279999,19594,18280,0.25,0.0005320341283456796,4,16
+"0.0, 7.0, 1.0, 6.0, 4.0","latitude, dmin_log, net_us, nst_log, station_coverage",4.0,0.3666478320532007,0.8181818181818182,1,15.699264,19559,18284,0.4166666666666667,0.0007550456970148809,9,11
+"2.0, 3.0, 7.0, 1.0, 0.0","longitude, dmin_log, depth_signed_log, depthError_log, net_us",2.0,1.0,1.0,1,6.0,18290,18290,0.4166666666666667,0.0002885660233555717,1,1
+"1.0, 0.0, 6.0, 1.0, 0.0, 0.0","longitude, latitude, absolute_longitude, dmin_log, depth_signed_log, depthError_log",1.0,1.0,1.0,1,5.0,18295,18295,0.5,0.00024047168612964306,1,1
+"2.0, 6.0, 5.0, 0.0, 5.0, 0.0, 5.0","longitude, dmin_log, horizontalError_log, depth_signed_log, depthError_log, net_us, nst_log",3.0,1.0,1.0,2,5.0,19634,18320,0.5833333333333334,0.0004809433722592861,2,2
+"5.0, 4.0, 0.0","latitude, depthError_log, nst_log",0.0,0.28462802079628785,0.7777777777777778,1,15.89088,19738,18321,0.25,0.0007642613415367644,7,9
+"1.0, 3.0, 2.0, 2.0, 0.0, 2.0","absolute_longitude, dmin_log, rms_log, depthError_log, net_us, nst_log",0.0,1.0,1.0,1,3.0,18325,18325,0.5,0.00014428301167778584,1,1
+"4.0, 0.0, 1.0, 0.0, 0.0, 3.0","absolute_longitude, rms_log, depth_signed_log, net_us, east_west, station_coverage",0.0,1.0,1.0,1,18.666666666666668,19476,18329,0.5,0.0008977609615506675,3,3
+"5.0, 2.0, 2.0, 5.0, 0.0, 5.0, 6.0","longitude, latitude, absolute_longitude, depth_signed_log, net_us, nst_log, station_coverage",0.0,1.0,1.0,1,20.648,19866,18338,0.5833333333333334,0.000993051875040974,7,7
+"0.0, 6.0, 0.0, 7.0","horizontalError_log, depth_signed_log, east_west, station_coverage",2.0,0.13168724279835387,0.6666666666666666,1,13.0,18708,18340,0.3333333333333333,0.0006252263839370719,2,3
+"0.0, 7.0, 7.0, 2.0","latitude, dmin_log, horizontalError_log, nst_log",5,0.0,0.0,1,10.2784,18345,18345,0.3333333333333333,0.0004943328357429846,0,9
+"7.0, 6.0, 7.0, 1.0, 7.0, 1.0, 7.0","dmin_log, horizontalError_log, depth_signed_log, net_us, nst_log, east_west, station_coverage",5.0,0.48045708347045346,0.8636363636363636,1,19.92481539103077,19939,18346,0.5833333333333334,0.0009582707905806064,19,22
+"6.0, 6.0, 1.0, 1.0, 0.0, 1.0","latitude, absolute_longitude, horizontalError_log, depthError_log, net_us, nst_log",0.0,0.04234790289079717,0.8421052631578947,1,13.848358218301442,18348,18348,0.5,0.0006660276101764494,0,0
+"6.0, 0.0, 7.0, 6.0","longitude, latitude, dmin_log, nst_log",4.0,1.0,1.0,1,18.5,19438,18356,0.3333333333333333,0.0008897452386796793,2,2
+"4.0, 3.0, 1.0, 0.0, 6.0, 0.0, 6.0","absolute_longitude, dmin_log, rms_log, net_us, nst_log, east_west, station_coverage",0.0,0.512908935546875,0.875,2,13.6112,19864,18365,0.5833333333333334,0.001309243285699119,7,8
+"4.0, 3.0, 0.0","absolute_longitude, dmin_log, net_us",0.0,0.1473475405306393,0.6818181818181818,1,13.243963168238338,19881,18365,0.25,0.0006369596308210325,15,22
+"7.0, 6.0, 6.0, 3.0","dmin_log, rms_log, nst_log, station_coverage",2.0,0.004115226337448558,0.3333333333333333,1,13.0,18367,18367,0.3333333333333333,0.0006252263839370719,1,3
+"6.0, 5.0, 5.0, 0.0","dmin_log, horizontalError_log, depth_signed_log, east_west",3.0,0.004115226337448558,0.3333333333333333,1,10.17408,19584,18369,0.3333333333333333,0.0004893156344835757,3,9
+"1.0, 5.0, 6.0, 0.0","longitude, horizontalError_log, depthError_log, net_us",1.0,0.512908935546875,0.875,1,7.68,19820,18373,0.3333333333333333,0.0003693645098951317,7,8
+"5.0, 2.0, 3.0, 0.0, 4.0","longitude, latitude, rms_log, net_us, nst_log",0.0,0.401877572016461,0.8333333333333334,1,17.4,19725,18387,0.4166666666666667,0.0008368414677311577,5,6
+"0.0, 5.0, 7.0, 6.0, 1.0","longitude, latitude, absolute_longitude, horizontalError_log, net_us",3.0,0.3540925979614258,0.8125,1,13.69408438272,19855,18388,0.4166666666666667,0.0006586079123028581,13,16
+"1.0, 4.0, 0.0, 2.0, 0.0","latitude, dmin_log, net_us, nst_log, east_west",1.0,0.18593443208187066,0.7142857142857143,1,15.544,19971,18404,0.4166666666666667,0.0007475783778398343,5,7
+"7.0, 5.0, 1.0, 1.0","absolute_longitude, depthError_log, net_us, east_west",3.0,0.1043582467665522,0.6363636363636364,1,13.560381673523612,19969,18405,0.3333333333333333,0.0006521775691187467,21,33
+"6.0, 7.0, 6.0, 0.0","latitude, rms_log, horizontalError_log, east_west",3.0,0.095367431640625,0.625,1,12.028337696768,19686,18406,0.3333333333333333,0.0005784949294557096,10,16
+"1.0, 0.0, 6.0, 4.0, 4.0, 1.0","longitude, latitude, absolute_longitude, horizontalError_log, depthError_log, station_coverage",1.0,1.0,1.0,2,5.5,19676,18427,0.5,0.0005290377094852147,2,2
+"7.0, 7.0, 7.0, 0.0, 7.0","latitude, rms_log, depth_signed_log, net_us, nst_log",3.0,0.022132674897119342,0.4666666666666667,1,19.54645069824,19926,18438,0.4166666666666667,0.0009400735914511423,7,15
+"2.0, 4.0, 4.0, 3.0","longitude, absolute_longitude, dmin_log, rms_log",2.0,1.0,1.0,1,9.0,18439,18439,0.3333333333333333,0.00043284903503335747,1,1
+"7.0, 6.0, 6.0, 1.0, 7.0, 1.0, 7.0","dmin_log, horizontalError_log, depth_signed_log, net_us, nst_log, east_west, station_coverage",5.0,1.0,1.0,1,16.3888,19876,18441,0.5833333333333334,0.0007882084739282988,8,8
+"4.0, 5.0, 4.0, 0.0","dmin_log, rms_log, depthError_log, net_us",1.0,1.0,1.0,1,17.0,19659,18447,0.3333333333333333,0.0008176037328407864,2,2
+"5.0, 2.0, 4.0, 1.0, 0.0, 7.0, 7.0","longitude, latitude, rms_log, depthError_log, net_us, nst_log, station_coverage",3.0,0.0,0.0,1,12.25,18448,18448,0.5833333333333334,0.0005891556310176255,0,4
+"3.0, 0.0, 1.0, 6.0","latitude, absolute_longitude, rms_log, station_coverage",1.0,1.0,1.0,2,3.0,18966,18453,0.3333333333333333,0.0002885660233555717,2,2
+"0.0, 6.0, 1.0, 0.0","longitude, horizontalError_log, net_us, east_west",3.0,0.08356049390158359,0.6086956521739131,1,11.281213932565375,19855,18460,0.3333333333333333,0.0005425625071906434,14,23
+"3.0, 7.0, 1.0, 1.0","latitude, dmin_log, net_us, east_west",4.0,1.0,1.0,1,14.06270208,19898,18462,0.3333333333333333,0.0006763363361432876,13,13
+"3.0, 7.0, 7.0, 1.0","latitude, dmin_log, depth_signed_log, net_us",4.0,1.0,1.0,2,14.0,19863,18462,0.3333333333333333,0.0013466414423260011,7,7
+"1.0, 0.0, 6.0, 3.0, 0.0, 6.0, 0.0","longitude, latitude, absolute_longitude, horizontalError_log, net_us, nst_log, east_west",4,0.0,0.0,1,9.4,18470,18470,0.5833333333333334,0.000452086769923729,0,5
+"0.0, 7.0, 5.0, 1.0, 2.0, 0.0","longitude, dmin_log, depth_signed_log, net_us, nst_log, east_west",4.0,1.0,1.0,1,11.0,19655,18476,0.5,0.0005290377094852147,1,1
+"5.0, 7.0, 1.0, 6.0, 0.0","latitude, absolute_longitude, net_us, nst_log, east_west",3.0,0.46266436603796024,0.8571428571428571,2,13.632000000000001,19748,18489,0.4166666666666667,0.0013112440101277177,6,7
+"2.0, 6.0, 6.0, 0.0, 0.0","longitude, rms_log, horizontalError_log, net_us, east_west",1.0,0.048282842081079885,0.5454545454545454,1,13.812224,19938,18513,0.4166666666666667,0.0006642897588960646,6,11
+"1.0, 1.0, 0.0","longitude, rms_log, nst_log",0.0,1.0,1.0,2,17.6528,19401,18519,0.25,0.001697999432363745,8,8
+"1.0, 1.0, 3.0, 1.0, 5.0","latitude, absolute_longitude, dmin_log, horizontalError_log, depth_signed_log",2.0,1.0,1.0,1,5.0,18525,18525,0.4166666666666667,0.00024047168612964306,1,1
+"3.0, 4.0, 0.0, 0.0","absolute_longitude, depth_signed_log, net_us, east_west",1.0,0.1043582467665522,0.6363636363636364,1,9.557606400000001,19893,18539,0.3333333333333333,0.00045966674527429357,7,11
+"1.0, 1.0, 0.0","latitude, dmin_log, net_us",1,0.2373046875,0.75,1,7.704,19903,18549,0.25,0.000370518773988554,6,8
+"0.0, 0.0, 6.0, 6.0, 0.0","latitude, absolute_longitude, rms_log, depthError_log, net_us",3.0,1.0,1.0,1,12.0,18593,18552,0.4166666666666667,0.0005771320467111434,1,1
+"1.0, 6.0, 6.0, 7.0, 0.0, 0.0","longitude, absolute_longitude, dmin_log, depthError_log, net_us, east_west",1.0,0.03125,0.5,1,9.75,19809,18558,0.5,0.00046891978795280396,2,4
+"3.0, 0.0, 1.0, 0.0","absolute_longitude, net_us, nst_log, east_west",0.0,0.12171569466590881,0.65625,1,14.203106273553383,19974,18587,0.3333333333333333,0.0006830889827759786,21,32
+"7.0, 0.0, 7.0, 1.0, 3.0","longitude, latitude, dmin_log, net_us, station_coverage",4.0,0.7385081737104511,0.9411764705882353,2,15.0770159583232,19977,18591,0.4166666666666667,0.0014502381797206064,16,17
+"0.0, 7.0, 6.0","latitude, depth_signed_log, nst_log",4.0,0.21208362139917689,0.7333333333333333,1,14.202284544,19785,18596,0.25,0.0006830494622377297,11,15
+"5.0, 2.0, 0.0, 0.0, 0.0","absolute_longitude, dmin_log, net_us, nst_log, east_west",0.0,1.0,1.0,1,14.0,19629,18597,0.4166666666666667,0.0006733207211630006,3,3
+"0.0, 3.0, 7.0, 6.0","latitude, dmin_log, depth_signed_log, nst_log",4.0,1.0,1.0,1,9.0,19283,18617,0.3333333333333333,0.00043284903503335747,2,2
+"7.0, 7.0, 7.0, 1.0","longitude, absolute_longitude, dmin_log, east_west",3.0,0.22481780895283973,0.7419354838709677,1,12.55533070889108,19969,18629,0.3333333333333333,0.0006038403090964649,46,62
+"7.0, 0.0, 4.0, 7.0, 1.0, 3.0","longitude, latitude, absolute_longitude, dmin_log, net_us, station_coverage",4.0,1.0,1.0,1,13.953280000000001,19977,18632,0.5,0.0006710737537278052,9,9
+"7.0, 0.0, 7.0, 1.0, 5.0, 3.0","longitude, latitude, dmin_log, net_us, nst_log, station_coverage",4.0,1.0,1.0,1,19.0,19465,18632,0.5,0.0009137924072926436,1,1
+"3.0, 4.0, 1.0, 0.0, 0.0, 1.0, 0.0, 0.0","longitude, absolute_longitude, dmin_log, rms_log, horizontalError_log, depth_signed_log, depthError_log, net_us",1.0,1.0,1.0,1,8.0,18641,18641,0.6666666666666666,0.0003847546978074289,1,1
+"2.0, 6.0, 6.0, 4.0","longitude, horizontalError_log, depthError_log, station_coverage",4,0.0,0.0,1,14.0,18651,18651,0.3333333333333333,0.0006733207211630006,0,2
+"4.0, 3.0, 2.0, 3.0, 3.0, 1.0, 0.0","longitude, latitude, absolute_longitude, dmin_log, rms_log, depth_signed_log, net_us",0.0,0.007415771484375,0.375,1,6.3104,19958,18652,0.5833333333333334,0.0003034945056304999,3,8
+"3.0, 2.0, 0.0, 4.0","longitude, horizontalError_log, east_west, station_coverage",1,0.06092699470458736,0.5714285714285714,1,11.272,19675,18657,0.3333333333333333,0.0005421193692106673,4,7
+"5.0, 2.0, 3.0, 2.0, 0.0","longitude, latitude, rms_log, depth_signed_log, east_west",0,0.13168724279835387,0.6666666666666666,2,17.0,19725,18659,0.4166666666666667,0.0016352074656815728,2,3
+"7.0, 0.0, 0.0, 7.0, 5.0, 7.0, 1.0","longitude, latitude, absolute_longitude, dmin_log, depth_signed_log, nst_log, east_west",5.0,0.1,1.0,1,21.5,18667,18667,0.5833333333333334,0.001034028250357465,0,0
+"5.0, 2.0, 3.0, 4.0","longitude, latitude, rms_log, nst_log",0,0.13168724279835387,0.6666666666666666,1,19.666666666666668,19725,18673,0.3333333333333333,0.000945855298776596,2,3
+"0.0, 0.0, 4.0, 5.0, 0.0, 0.0","latitude, absolute_longitude, rms_log, horizontalError_log, net_us, east_west",3.0,1.0,1.0,1,13.0,19179,18678,0.5,0.0006252263839370719,2,2
+"3.0, 4.0, 1.0, 0.0, 7.0","absolute_longitude, dmin_log, horizontalError_log, east_west, station_coverage",2.0,0.03125,0.5,1,6.5,18680,18680,0.4166666666666667,0.00031261319196853595,1,2
+"7.0, 0.0, 7.0, 5.0, 1.0, 1.0, 3.0","longitude, latitude, dmin_log, depth_signed_log, net_us, east_west, station_coverage",4.0,0.46266436603796024,0.8571428571428571,1,11.616,19977,18683,0.5833333333333334,0.0005586638212163867,6,7
+"6.0, 1.0, 5.0, 0.0","longitude, latitude, depthError_log, east_west",0,0.0009765625,0.25,1,11.80071424,19812,18694,0.3333333333333333,0.0005675475301653778,3,12
+"1.0, 3.0, 7.0, 0.0, 0.0, 3.0","longitude, rms_log, depth_signed_log, net_us, east_west, station_coverage",3.0,0.013168724279835387,0.6666666666666666,1,6.333333333333333,18703,18703,0.5,0.00030459746909754785,0,0
+"6.0, 6.0, 1.0, 0.0","absolute_longitude, rms_log, net_us, east_west",3.0,0.0009765625,0.25,1,9.0,19555,18716,0.3333333333333333,0.00043284903503335747,1,4
+"5.0, 5.0, 2.0, 0.0, 0.0","absolute_longitude, horizontalError_log, depth_signed_log, net_us, east_west",5.0,0.0003200000000000001,0.2,1,7.6,18718,18718,0.4166666666666667,0.0003655169629170574,1,5
+"0.0, 7.0, 7.0, 1.0, 6.0","absolute_longitude, dmin_log, rms_log, net_us, station_coverage",5.0,0.0063582343481257495,0.36363636363636365,1,16.083430400000005,19351,18720,0.4166666666666667,0.0007735219254073521,4,11
+"3.0, 0.0, 3.0, 0.0, 7.0","absolute_longitude, horizontalError_log, depth_signed_log, net_us, nst_log",1,0.0002757929721271342,0.3076923076923077,1,10.073493504000002,18724,18724,0.4166666666666667,0.0004844779936245773,0,0
+"1.0, 1.0","absolute_longitude, dmin_log",1.0,0.21208362139917689,0.7333333333333333,3,10.69022451712,19959,18726,0.16666666666666666,0.0015424177888417774,11,15
+"4.0, 2.0, 2.0, 3.0, 4.0","longitude, absolute_longitude, rms_log, nst_log, station_coverage",0.0,1.0,1.0,1,11.0,19967,18730,0.4166666666666667,0.0005290377094852147,2,2
+"3.0, 2.0, 0.0","rms_log, horizontalError_log, net_us",0,0.07775999999999998,0.6,1,10.648959999999999,19506,18731,0.25,0.0005121546733454247,6,10
+"7.0, 1.0","absolute_longitude, east_west",3.0,0.18593443208187066,0.7142857142857143,1,12.043757571136677,19969,18734,0.16666666666666666,0.0005792365380935782,50,70
+"5.0, 6.0, 5.0, 0.0","dmin_log, depth_signed_log, depthError_log, net_us",2.0,0.03125,0.5,1,7.5,19460,18739,0.3333333333333333,0.00036070752919446455,1,2
+"6.0, 0.0, 0.0, 4.0","longitude, net_us, east_west, station_coverage",1.0,0.016028404235839844,0.4375,1,13.659332624384,19666,18756,0.3333333333333333,0.0006569365495182525,7,16
+"0.0, 6.0, 5.0, 0.0, 3.0, 1.0","longitude, dmin_log, depth_signed_log, net_us, nst_log, station_coverage",2,0.04018775720164611,0.8333333333333334,1,15.48,18762,18762,0.5,0.000744500340257375,0,0
+"3.0, 1.0, 0.0, 0.0, 5.0","longitude, horizontalError_log, net_us, east_west, station_coverage",1.0,0.18593443208187066,0.7142857142857143,1,17.192,19879,18766,0.4166666666666667,0.0008268378455881647,5,7
+"1.0, 6.0, 3.0, 4.0, 0.0","longitude, latitude, dmin_log, depthError_log, nst_log",0.0,1.0,1.0,1,18.0,19714,18767,0.4166666666666667,0.0008656980700667149,1,1
+"1.0, 4.0, 0.0, 0.0","longitude, depth_signed_log, net_us, east_west",1.0,0.00012860082304526745,0.16666666666666666,1,12.72,19288,18774,0.3333333333333333,0.0006117599695138119,1,6
+"2.0, 5.0, 5.0, 5.0, 4.0, 0.0, 0.0","longitude, absolute_longitude, horizontalError_log, depth_signed_log, depthError_log, net_us, east_west",2.0,1.0,1.0,2,4.5,19378,18776,0.5833333333333334,0.00043284903503335747,2,2
+"1.0, 3.0","absolute_longitude, station_coverage",1.0,0.401877572016461,0.8333333333333334,1,8.8,19758,18777,0.16666666666666666,0.00042323016758817177,5,6
+"1.0, 1.0, 3.0","absolute_longitude, dmin_log, station_coverage",1.0,1.0,1.0,1,5.0,19585,18777,0.25,0.00024047168612964306,1,1
+"7.0, 0.0, 0.0, 0.0, 6.0, 0.0, 0.0","longitude, latitude, absolute_longitude, rms_log, depthError_log, net_us, east_west",3.0,0.1,1.0,1,14.666666666666666,18792,18792,0.5833333333333334,0.0007053836126469529,0,0
+"3.0, 2.0, 0.0, 0.0","rms_log, horizontalError_log, depth_signed_log, net_us",5,0.0,0.0,1,6.0,18794,18794,0.3333333333333333,0.0002885660233555717,0,1
+"3.0, 7.0, 5.0, 1.0","latitude, dmin_log, depthError_log, net_us",4.0,0.07775999999999998,0.6,1,10.8,19898,18804,0.3333333333333333,0.000519418842040029,3,5
+"3.0, 7.0, 1.0, 1.0","latitude, dmin_log, net_us, east_west",0,0.0,0.0,1,13.9952,18804,18804,0.3333333333333333,0.0006730898683443161,0,8
+"2.0, 6.0, 7.0, 5.0, 0.0, 4.0, 0.0","longitude, dmin_log, rms_log, horizontalError_log, depthError_log, nst_log, east_west",1.0,1.0,1.0,1,1.0,18808,18808,0.5833333333333334,4.809433722592861e-05,1,1
+"0.0, 0.0","nst_log, east_west",0.0,0.15563440872163395,0.6893203883495146,2,15.793796099762165,19970,18817,0.16666666666666666,0.001519184311399035,71,103
+"1.0, 3.0, 4.0, 1.0, 0.0, 0.0","longitude, rms_log, horizontalError_log, depthError_log, nst_log, east_west",0.0,0.061865234375,0.875,1,14.43572992,18817,18817,0.5,0.0006942768628749074,0,0
+"3.0, 1.0, 0.0, 2.0, 2.0, 0.0, 3.0, 0.0","latitude, absolute_longitude, dmin_log, rms_log, horizontalError_log, net_us, nst_log, east_west",1.0,1.0,1.0,1,3.75,19867,18819,0.6666666666666666,0.00018035376459723227,4,4
+"7.0, 0.0, 0.0, 3.0, 4.0, 0.0","longitude, latitude, absolute_longitude, rms_log, depth_signed_log, east_west",2.0,1.0,1.0,1,19.0,18820,18820,0.5,0.0009137924072926436,1,1
+"5.0, 1.0, 5.0, 4.0, 0.0","longitude, absolute_longitude, dmin_log, horizontalError_log, east_west",1.0,1.0,1.0,1,3.0,18823,18823,0.4166666666666667,0.00014428301167778584,1,1
+"0.0, 7.0, 7.0, 1.0, 7.0, 0.0, 7.0","latitude, dmin_log, horizontalError_log, net_us, nst_log, east_west, station_coverage",5.0,0.8083193429703577,0.9583333333333334,1,21.859483882805414,19891,18830,0.5833333333333334,0.0010513173894443949,23,24
+"0.0, 0.0, 5.0","net_us, east_west, station_coverage",1.0,0.040127884995133076,0.5256410256410257,1,12.69041034311247,19938,18832,0.25,0.006612702175911092,41,78
+"2.0, 2.0, 4.0, 0.0, 2.0, 0.0","absolute_longitude, dmin_log, rms_log, depth_signed_log, nst_log, east_west",1.0,1.0,1.0,1,2.0,18833,18833,0.5,9.618867445185722e-05,1,1
+"7.0, 5.0, 1.0, 1.0, 5.0","absolute_longitude, depthError_log, net_us, east_west, station_coverage",3.0,0.03125,0.5,1,7.0,19015,18839,0.4166666666666667,0.0003366603605815003,1,2
+"7.0, 6.0, 5.0, 0.0, 3.0","absolute_longitude, rms_log, horizontalError_log, east_west, station_coverage",3.0,1.0,1.0,1,6.0,18840,18840,0.4166666666666667,0.0002885660233555717,1,1
+"0.0, 7.0, 7.0, 5.0, 6.0, 1.0, 5.0","latitude, dmin_log, rms_log, depthError_log, nst_log, east_west, station_coverage",4.0,0.13168724279835387,0.6666666666666666,1,12.666666666666666,19564,18847,0.5833333333333334,0.0006091949381950957,2,3
+"5.0, 1.0, 4.0, 0.0, 0.0, 7.0","longitude, latitude, dmin_log, horizontalError_log, net_us, nst_log",1.0,0.04018775720164611,0.8333333333333334,1,10.879999999999999,18848,18848,0.5,0.0005232663890181032,0,0
+"7.0, 0.0, 5.0","latitude, east_west, station_coverage",1.0,0.2693290743429045,0.7692307692307693,2,13.171390464,19938,18851,0.25,0.0012669385894199926,10,13
+"0.0, 5.0, 7.0, 7.0","latitude, absolute_longitude, nst_log, station_coverage",5.0,0.18593443208187066,0.7142857142857143,1,22.688,19939,18852,0.3333333333333333,0.0010911643229818682,5,7
+"2.0, 5.0, 0.0, 3.0","longitude, depthError_log, east_west, station_coverage",5,0.0,0.0,1,6.0,18858,18858,0.3333333333333333,0.0002885660233555717,0,1
+"3.0, 2.0, 4.0, 0.0","absolute_longitude, dmin_log, depthError_log, net_us",1,0.0,0.0,1,8.5,18865,18865,0.3333333333333333,0.0004088018664203932,0,2
+"7.0, 0.0, 0.0, 7.0, 7.0, 5.0, 5.0, 7.0","longitude, latitude, absolute_longitude, dmin_log, rms_log, depth_signed_log, depthError_log, nst_log",5.0,1.0,1.0,1,22.080000000000002,19507,18869,0.6666666666666666,0.0010619229659485038,6,6
+"7.0, 5.0, 1.0","absolute_longitude, horizontalError_log, east_west",2,0.0,0.0,1,9.0,18875,18875,0.25,0.00043284903503335747,0,1
+"4.0, 3.0, 2.0, 3.0, 3.0, 0.0","longitude, latitude, absolute_longitude, dmin_log, rms_log, net_us",0.0,0.00012860082304526745,0.16666666666666666,1,6.720000000000001,19958,18878,0.5,0.0003231939461582403,1,6
+"7.0, 0.0, 5.0, 5.0, 5.0, 0.0","longitude, absolute_longitude, rms_log, depth_signed_log, nst_log, east_west",2.0,0.03125,0.5,1,5.0,18885,18885,0.5,0.00024047168612964306,1,2
+"4.0, 3.0, 0.0, 6.0, 0.0","absolute_longitude, dmin_log, net_us, nst_log, east_west",0.0,0.46266436603796024,0.8571428571428571,1,14.344,19881,18888,0.4166666666666667,0.0006898651731687199,6,7
+"4.0, 4.0, 0.0, 0.0, 2.0, 0.0","latitude, absolute_longitude, rms_log, net_us, nst_log, east_west",0.0,1.0,1.0,1,16.25,19476,18889,0.5,0.0007815329799213399,4,4
+"4.0, 2.0, 3.0, 1.0, 5.0, 0.0","longitude, latitude, dmin_log, depthError_log, nst_log, east_west",1.0,0.03125,0.5,1,6.5,18897,18897,0.5,0.00031261319196853595,1,2
+"6.0, 5.0, 7.0, 6.0, 0.0, 3.0","latitude, absolute_longitude, rms_log, horizontalError_log, east_west, station_coverage",2.0,1.0,1.0,1,8.0,18901,18901,0.5,0.0003847546978074289,1,1
+"1.0, 1.0, 3.0, 0.0","latitude, absolute_longitude, horizontalError_log, net_us",0,0.0,0.0,1,11.793600000000001,18904,18904,0.3333333333333333,0.0005672053755077117,0,8
+"5.0, 7.0, 7.0, 7.0, 7.0, 0.0","latitude, absolute_longitude, horizontalError_log, depth_signed_log, depthError_log, net_us",1.0,0.010240000000000003,0.4,1,15.2,19309,18911,0.5,0.0007310339258341149,2,5
+"5.0, 1.0, 3.0, 3.0, 7.0, 0.0, 1.0, 0.0, 1.0","longitude, latitude, horizontalError_log, depth_signed_log, depthError_log, net_us, nst_log, east_west, station_coverage",3.0,1.0,1.0,1,13.0,18913,18913,0.75,0.0006252263839370719,1,1
+"2.0, 5.0, 6.0, 6.0, 6.0, 0.0","longitude, absolute_longitude, rms_log, horizontalError_log, depthError_log, east_west",1.0,0.03125,0.5,1,15.25,19938,18927,0.5,0.0007334386426954113,2,4
+"2.0, 7.0, 6.0, 4.0, 0.0","longitude, depth_signed_log, depthError_log, nst_log, east_west",1.0,1.0,1.0,1,11.666666666666666,19432,18927,0.4166666666666667,0.000561100600969167,3,3
+"7.0, 3.0, 7.0, 1.0, 1.0, 4.0","longitude, absolute_longitude, dmin_log, net_us, east_west, station_coverage",4.0,0.13168724279835387,0.6666666666666666,2,16.08,19806,18931,0.5,0.001546713885185864,4,6
+"3.0, 0.0","dmin_log, rms_log",0.0,0.07775999999999998,0.6,1,18.4,19881,18937,0.16666666666666666,0.0008849358049570863,3,5
+"6.0, 1.0, 6.0","longitude, net_us, nst_log",4.0,0.03125,0.5,1,9.5,19785,18938,0.25,0.0004568962036463218,2,4
+"0.0, 7.0, 7.0, 1.0, 6.0, 5.0","latitude, dmin_log, depth_signed_log, net_us, nst_log, station_coverage",4.0,0.03125,0.5,1,18.5,19055,18938,0.5,0.0008897452386796793,1,2
+"7.0, 0.0, 7.0, 6.0, 4.0, 1.0, 7.0, 1.0, 7.0","longitude, latitude, dmin_log, horizontalError_log, depthError_log, net_us, nst_log, east_west, station_coverage",5.0,1.0,1.0,1,27.578944,19767,18943,0.75,0.0013263910330710005,11,11
+"0.0, 0.0, 0.0, 0.0","dmin_log, rms_log, net_us, east_west",0.0,0.13168724279835387,0.6666666666666666,1,17.066343198186956,19970,18945,0.3333333333333333,0.0008207944649870364,20,30
+"3.0, 1.0, 1.0, 0.0, 5.0","longitude, horizontalError_log, depth_signed_log, net_us, nst_log",1,0.2373046875,0.75,1,20.75,19879,18952,0.4166666666666667,0.0009979574974380186,3,4
+"3.0, 4.0, 0.0, 1.0","longitude, latitude, rms_log, horizontalError_log",1,0.06092699470458736,0.5714285714285714,1,14.17480997342806,19879,18952,0.3333333333333333,0.0006817280909755053,12,21
+"2.0, 0.0, 1.0","longitude, net_us, nst_log",0,0.014458261438686257,0.42857142857142855,1,10.504,19618,18962,0.25,0.0005051829182211541,3,7
+"2.0, 0.0, 0.0, 1.0","latitude, nst_log, east_west, station_coverage",1.0,1.0,1.0,1,11.0,18963,18963,0.3333333333333333,0.0005290377094852147,1,1
+"3.0, 0.0, 1.0, 3.0, 6.0","latitude, absolute_longitude, rms_log, horizontalError_log, station_coverage",1.0,0.1,1.0,1,3.0,18966,18966,0.4166666666666667,0.00014428301167778584,0,0
+"2.0, 2.0, 2.0, 0.0, 3.0","absolute_longitude, dmin_log, rms_log, net_us, nst_log",0.0,1.0,1.0,1,10.5,19516,18967,0.4166666666666667,0.0005049905408722504,2,2
+"5.0, 6.0, 6.0, 0.0, 0.0","absolute_longitude, horizontalError_log, depthError_log, net_us, east_west",2.0,0.0015088388150337464,0.2727272727272727,2,14.164006400000002,19972,18970,0.4166666666666667,0.0013624170005436223,3,11
+"7.0, 7.0, 1.0, 4.0","longitude, dmin_log, east_west, station_coverage",4.0,0.5904900000000001,0.9,1,16.04614901263237,19993,18972,0.3333333333333333,0.0007717289017910426,18,20
+"5.0, 5.0, 0.0","latitude, depthError_log, east_west",3.0,0.01734152991583261,0.4444444444444444,1,10.84544,19748,18976,0.25,0.0005216042487235752,4,9
+"5.0, 5.0, 1.0, 5.0, 0.0","latitude, depthError_log, net_us, nst_log, east_west",3.0,1.0,1.0,1,16.333333333333332,19595,18976,0.4166666666666667,0.0007855408413568339,3,3
+"0.0, 0.0, 4.0, 0.0, 1.0","latitude, absolute_longitude, horizontalError_log, net_us, nst_log",3.0,0.03125,0.5,1,15.25,19707,18978,0.4166666666666667,0.0007334386426954113,2,4
+"2.0, 4.0, 1.0, 0.0","longitude, latitude, rms_log, east_west",1.0,0.007415771484375,0.375,1,12.913599999999999,19376,18979,0.3333333333333333,0.0006210710332007517,3,8
+"5.0, 2.0","longitude, latitude",0.0,0.1043582467665522,0.6363636363636364,2,15.1548990920483,19985,18983,0.16666666666666666,0.0014577296551157805,35,55
+"5.0, 6.0, 6.0, 2.0, 2.0","latitude, horizontalError_log, depthError_log, nst_log, station_coverage",1.0,1.0,1.0,1,6.0,18984,18984,0.4166666666666667,0.0002885660233555717,1,1
+"0.0, 5.0, 7.0, 3.0, 4.0, 2.0, 5.0, 0.0, 2.0, 1.0","longitude, latitude, absolute_longitude, dmin_log, horizontalError_log, depth_signed_log, depthError_log, net_us, nst_log, station_coverage",0.0,1.0,1.0,1,2.0,18986,18986,0.8333333333333334,9.618867445185722e-05,1,1
+"5.0, 2.0","longitude, absolute_longitude",0.0,0.0713372140882071,0.5897435897435898,1,16.21639000990597,19985,18991,0.16666666666666666,0.0007799165297235976,23,39
+"2.0, 0.0, 1.0, 0.0, 7.0","absolute_longitude, horizontalError_log, depth_signed_log, net_us, station_coverage",3.0,0.2373046875,0.75,2,5.25,19852,18996,0.4166666666666667,0.0005049905408722504,3,4
+"7.0, 1.0, 0.0, 5.0, 7.0, 3.0, 0.0, 1.0","longitude, latitude, absolute_longitude, horizontalError_log, depthError_log, nst_log, east_west, station_coverage",3.0,1.0,1.0,1,10.0,19719,18997,0.6666666666666666,0.0004809433722592861,2,2
+"0.0, 6.0, 6.0, 7.0, 1.0","longitude, latitude, absolute_longitude, dmin_log, station_coverage",3.0,0.0,0.0,1,7.5,19005,19005,0.4166666666666667,0.00036070752919446455,0,4
+"3.0, 5.0, 5.0, 1.0, 5.0","absolute_longitude, depthError_log, nst_log, east_west, station_coverage",5.0,1.0,1.0,2,8.0,19732,19012,0.4166666666666667,0.0007695093956148577,4,4
+"6.0, 1.0, 2.0, 2.0, 0.0","longitude, latitude, rms_log, horizontalError_log, net_us",1,0.1,1.0,1,12.0,19013,19013,0.4166666666666667,0.0005771320467111434,0,0
+"2.0, 2.0, 0.0","latitude, dmin_log, east_west",0.0,0.09091180653955425,0.6190476190476191,1,15.810699690158327,19759,19014,0.25,0.0007604051226763595,13,21
+"7.0, 5.0, 1.0","absolute_longitude, depthError_log, east_west",3.0,0.019403791345598595,0.45454545454545453,1,13.2374528,19969,19015,0.25,0.0006366465189755129,5,11
+"7.0, 7.0, 1.0, 6.0","longitude, rms_log, net_us, nst_log",4.0,0.512908935546875,0.875,2,11.957200105472001,19898,19016,0.3333333333333333,0.001150147228300959,14,16
+"7.0, 0.0, 7.0, 1.0, 1.0, 4.0","longitude, latitude, dmin_log, net_us, east_west, station_coverage",4.0,0.48894551440329226,0.8666666666666667,1,16.63635644416,19993,19018,0.5,0.0008001145370361816,13,15
+"3.0, 1.0, 0.0, 3.0, 0.0","absolute_longitude, rms_log, net_us, nst_log, east_west",0.0,0.004115226337448558,0.3333333333333333,1,10.0,19472,19021,0.4166666666666667,0.0004809433722592861,1,3
+"2.0, 3.0, 4.0, 5.0, 2.0, 1.0","latitude, rms_log, horizontalError_log, depth_signed_log, depthError_log, nst_log",1.0,1.0,1.0,1,6.0,19022,19022,0.5,0.0002885660233555717,1,1
+"3.0, 3.0, 5.0, 3.0, 7.0, 0.0, 7.0","latitude, absolute_longitude, rms_log, depthError_log, nst_log, east_west, station_coverage",2.0,1.0,1.0,1,7.0,19027,19027,0.5833333333333334,0.0003366603605815003,1,1
+"6.0, 1.0, 2.0, 4.0","longitude, latitude, rms_log, station_coverage",0,0.13168724279835387,0.6666666666666666,2,12.0,19850,19028,0.3333333333333333,0.0011542640934222867,2,3
+"7.0, 5.0, 4.0, 0.0, 0.0, 0.0","latitude, horizontalError_log, depthError_log, net_us, nst_log, east_west",0.0,0.1,1.0,1,18.0,19031,19031,0.5,0.0008656980700667149,0,0
+"0.0, 7.0, 7.0, 5.0","latitude, horizontalError_log, depth_signed_log, station_coverage",4.0,1.0,1.0,1,16.0,19813,19050,0.3333333333333333,0.0007695093956148577,2,2
+"5.0, 2.0, 2.0","longitude, latitude, rms_log",1,4.0386107340619247e-07,0.05263157894736842,1,17.778997446737918,19262,19052,0.25,0.0008550690987423372,1,19
+"3.0, 3.0, 0.0, 1.0, 0.0","longitude, absolute_longitude, net_us, nst_log, east_west",0.0,0.18593443208187066,0.7142857142857143,1,17.3301583872,19932,19054,0.4166666666666667,0.0008334824816527519,10,14
+"5.0, 0.0, 1.0, 0.0","latitude, net_us, nst_log, east_west",0.0,0.014458261438686257,0.42857142857142855,1,10.9372926976,19976,19054,0.3333333333333333,0.0005260218433370609,6,14
+"7.0, 1.0, 1.0","depthError_log, east_west, station_coverage",3.0,0.7241964340209961,0.9375,1,14.757630889984,19963,19056,0.25,0.0007097584766786715,15,16
+"7.0, 7.0, 7.0, 7.0, 1.0, 1.0","longitude, absolute_longitude, dmin_log, depthError_log, east_west, station_coverage",3.0,1.0,1.0,1,15.45943861248,19963,19056,0.5,0.000743511453952155,15,15
+"5.0, 2.0, 0.0, 0.0","longitude, latitude, net_us, east_west",0.0,0.09161328319999999,0.62,1,15.154902467823604,19985,19058,0.3333333333333333,0.0007288649899135661,31,50
+"7.0, 7.0, 7.0, 1.0, 1.0, 3.0","dmin_log, rms_log, depthError_log, net_us, east_west, station_coverage",4.0,1.0,1.0,1,13.0,19965,19063,0.5,0.0006252263839370719,2,2
+"7.0, 7.0, 7.0, 2.0, 1.0, 1.0","longitude, dmin_log, depthError_log, nst_log, east_west, station_coverage",3.0,1.0,1.0,1,17.72448,19963,19066,0.5,0.0008524471182742271,9,9
+"7.0, 6.0, 6.0, 7.0, 1.0, 7.0, 1.0","longitude, dmin_log, horizontalError_log, depth_signed_log, net_us, nst_log, east_west",4.0,0.03125,0.5,1,9.0,19068,19068,0.5833333333333334,0.00043284903503335747,1,2
+"3.0, 3.0, 0.0, 0.0, 1.0, 0.0","longitude, absolute_longitude, depth_signed_log, net_us, nst_log, east_west",0.0,0.16806999999999994,0.7,1,17.175808,19932,19070,0.5,0.0008260591020798024,7,10
+"3.0, 4.0, 3.0, 0.0, 6.0","latitude, rms_log, depth_signed_log, east_west, station_coverage",2.0,1.0,1.0,1,2.0,19071,19071,0.4166666666666667,9.618867445185722e-05,1,1
+"7.0, 6.0, 0.0, 5.0","latitude, dmin_log, east_west, station_coverage",1.0,1.0,1.0,1,10.75,19857,19073,0.3333333333333333,0.0005170141251787325,4,4
+"0.0, 7.0, 7.0, 0.0","longitude, absolute_longitude, horizontalError_log, net_us",2.0,0.18593443208187066,0.7142857142857143,2,13.142077425774756,19996,19075,0.3333333333333333,0.0012641190071289497,15,21
+"0.0, 7.0, 7.0, 1.0, 7.0","latitude, dmin_log, nst_log, east_west, station_coverage",5.0,0.3951121110236596,0.8305084745762712,1,22.294999966207126,19946,19076,0.4166666666666667,0.0010722632468268324,49,59
+"7.0, 6.0, 7.0, 7.0, 7.0, 7.0","longitude, rms_log, horizontalError_log, depth_signed_log, depthError_log, nst_log",4.0,0.16806999999999994,0.7,2,12.585024,19933,19080,0.5,0.00121053677650481,7,10
+"3.0, 0.0, 0.0, 0.0, 1.0","latitude, dmin_log, rms_log, net_us, nst_log",0.0,1.0,1.0,1,21.0,19932,19082,0.4166666666666667,0.0010099810817445008,2,2
+"3.0, 4.0, 2.0, 7.0","longitude, absolute_longitude, depthError_log, nst_log",1.0,1.0,1.0,1,8.0,19086,19086,0.3333333333333333,0.0003847546978074289,1,1
+"1.0, 6.0, 6.0, 0.0, 0.0","longitude, latitude, absolute_longitude, net_us, nst_log",0.0,1.0,1.0,3,17.770422783999997,19957,19090,0.4166666666666667,0.002563970118063063,13,13
+"2.0, 7.0, 5.0, 7.0","longitude, latitude, absolute_longitude, nst_log",2.0,0.11602906250000002,0.65,2,18.381722142834686,19998,19091,0.3333333333333333,0.0017681134870616208,13,20
+"7.0, 7.0, 7.0, 7.0","latitude, depth_signed_log, nst_log, station_coverage",2.0,0.08825375108068294,0.6153846153846154,1,19.361283072,19998,19091,0.3333333333333333,0.000931168077191431,8,13
+"6.0, 1.0, 7.0, 7.0, 1.0, 0.0, 7.0","longitude, absolute_longitude, rms_log, horizontalError_log, net_us, east_west, station_coverage",5,0.1,1.0,1,6.0,19092,19092,0.5833333333333334,0.0002885660233555717,0,0
+"3.0, 1.0, 1.0, 0.0","latitude, dmin_log, nst_log, east_west",1.0,0.18593443208187066,0.7142857142857143,1,11.936,19937,19093,0.3333333333333333,0.0005740540091286839,5,7
+"3.0, 4.0, 1.0, 0.0","longitude, latitude, horizontalError_log, net_us",1,0.07042962777237427,0.5882352941176471,2,14.2669930283008,19879,19094,0.3333333333333333,0.001372323147806142,10,17
+"3.0, 1.0, 2.0","longitude, horizontalError_log, nst_log",1,0.03125,0.5,1,11.0,19457,19094,0.25,0.0005290377094852147,1,2
+"7.0, 0.0, 0.0, 7.0, 5.0, 7.0","longitude, latitude, absolute_longitude, dmin_log, depth_signed_log, nst_log",5.0,1.0,1.0,2,20.288,19682,19096,0.5,0.0019514758272792792,7,7
+"7.0, 0.0, 7.0, 4.0, 1.0, 7.0, 1.0, 7.0","longitude, latitude, dmin_log, depthError_log, net_us, nst_log, east_west, station_coverage",5.0,1.0,1.0,2,24.9531403264,19922,19100,0.6666666666666666,0.0024002094914076,14,14
+"6.0, 7.0, 5.0, 7.0, 0.0, 7.0","latitude, rms_log, horizontalError_log, depth_signed_log, east_west, station_coverage",3.0,1.0,1.0,2,9.666666666666666,19842,19102,0.5,0.0009298238530346197,3,3
+"3.0, 1.0, 1.0","latitude, dmin_log, depth_signed_log",2.0,0.0009765625,0.25,2,10.3024,19754,19104,0.25,0.0009909741996728138,2,8
+"1.0, 1.0, 0.0","absolute_longitude, dmin_log, east_west",1.0,0.13168724279835387,0.6666666666666666,1,11.22172672,19959,19106,0.25,0.0005397015091288937,8,12
+"5.0, 3.0, 1.0, 1.0","longitude, latitude, dmin_log, nst_log",1.0,0.3276800000000001,0.8,1,12.6,19937,19106,0.3333333333333333,0.0006059886490467005,4,5
+"5.0, 1.0, 0.0, 0.0, 0.0","longitude, rms_log, depthError_log, net_us, east_west",0.0,0.007415771484375,0.375,1,10.086400000000001,19950,19110,0.4166666666666667,0.00048509872299560636,3,8
+"6.0, 1.0, 0.0, 0.0","longitude, latitude, net_us, east_west",1,0.10135100721691906,0.6326530612244898,1,16.952529420851768,19971,19111,0.3333333333333333,0.0008153206667989211,31,49
+"7.0, 1.0, 5.0","longitude, net_us, nst_log",4.0,0.21720617794361205,0.7368421052631579,1,13.925343457312767,19993,19112,0.25,0.0006697301642228788,14,19
+"2.0, 5.0, 4.0, 0.0","dmin_log, depth_signed_log, depthError_log, nst_log",0.0,1.0,1.0,1,23.5,19318,19113,0.3333333333333333,0.0011302169248093223,2,2
+"5.0, 5.0, 5.0, 0.0, 4.0, 0.0","longitude, rms_log, depthError_log, net_us, nst_log, east_west",2.0,1.0,1.0,1,6.0,19114,19114,0.5,0.0002885660233555717,1,1
+"7.0, 7.0, 7.0, 7.0, 6.0","rms_log, horizontalError_log, depthError_log, nst_log, station_coverage",4.0,0.2373046875,0.75,1,14.5,19923,19119,0.4166666666666667,0.0006973678897759649,3,4
+"4.0, 3.0, 0.0, 3.0, 0.0","absolute_longitude, dmin_log, rms_log, depthError_log, net_us",0.0,1.0,1.0,1,13.0,19881,19126,0.4166666666666667,0.0006252263839370719,1,1
+"1.0, 6.0, 5.0, 5.0, 1.0, 0.0","latitude, horizontalError_log, depth_signed_log, depthError_log, net_us, east_west",3.0,1.0,1.0,1,6.0,19135,19135,0.5,0.0002885660233555717,1,1
+"1.0, 3.0, 0.0, 2.0","absolute_longitude, horizontalError_log, net_us, nst_log",1.0,0.03125,0.5,1,7.0,19803,19137,0.3333333333333333,0.0003366603605815003,1,2
+"2.0, 7.0, 5.0, 5.0, 7.0","longitude, latitude, absolute_longitude, horizontalError_log, nst_log",2.0,0.0852316508323596,0.6111111111111112,1,18.394916282367998,19998,19141,0.4166666666666667,0.0008846913069269315,11,18
+"7.0, 4.0, 7.0, 7.0, 5.0, 1.0, 1.0","longitude, absolute_longitude, dmin_log, horizontalError_log, depth_signed_log, net_us, east_west",4.0,0.15359020233154297,0.6875,1,13.581828079616,19977,19153,0.5833333333333334,0.0006532090198056383,11,16
+"1.0, 3.0","latitude, horizontalError_log",1,0.21720617794361205,0.7368421052631579,1,16.598953423732738,19905,19157,0.16666666666666666,0.0007983156635584846,14,19
+"6.0, 0.0, 0.0, 7.0, 6.0, 5.0, 5.0, 7.0, 0.0","longitude, latitude, absolute_longitude, dmin_log, rms_log, horizontalError_log, depth_signed_log, nst_log, east_west",4.0,1.0,1.0,1,9.0,19158,19158,0.75,0.00043284903503335747,1,1
+"2.0, 4.0, 6.0, 0.0","longitude, latitude, nst_log, east_west",1.0,5.949901826619859e-05,0.14285714285714285,1,9.616,19376,19162,0.3333333333333333,0.0004624751467645295,1,7
+"0.0, 7.0, 6.0, 1.0, 7.0, 1.0, 6.0","latitude, dmin_log, depth_signed_log, net_us, nst_log, east_west, station_coverage",5.0,1.0,1.0,1,11.040000000000001,19927,19163,0.5833333333333334,0.0005309614829742519,6,6
+"7.0, 0.0","absolute_longitude, nst_log",0.0,0.3066820026178275,0.7894736842105263,1,17.759730563481604,19897,19167,0.16666666666666666,0.0008541424707617154,15,19
+"1.0, 2.0, 1.0, 0.0, 0.0, 1.0","longitude, dmin_log, rms_log, depth_signed_log, nst_log, station_coverage",0.0,1.0,1.0,1,20.333333333333332,19310,19168,0.5,0.0009779181902605483,3,3
+"2.0, 7.0, 5.0, 5.0, 5.0, 6.0, 6.0","longitude, latitude, absolute_longitude, dmin_log, horizontalError_log, nst_log, station_coverage",2.0,0.0003200000000000001,0.2,1,6.4,19170,19170,0.5833333333333334,0.00030780375824594313,1,5
+"2.0, 3.0, 3.0, 1.0","absolute_longitude, dmin_log, rms_log, depth_signed_log",2.0,0.004115226337448558,0.3333333333333333,1,6.88,19615,19172,0.3333333333333333,0.0003308890401143888,2,6
+"3.0, 2.0, 4.0, 0.0, 4.0","longitude, horizontalError_log, nst_log, east_west, station_coverage",1,1.0,1.0,1,9.0,19675,19176,0.4166666666666667,0.00043284903503335747,1,1
+"2.0, 7.0, 5.0, 6.0, 4.0, 0.0, 6.0","longitude, latitude, horizontalError_log, depth_signed_log, depthError_log, net_us, station_coverage",3.0,1.0,1.0,2,7.0,19386,19180,0.5833333333333334,0.0006733207211630006,2,2
+"1.0, 0.0, 4.0, 5.0, 0.0, 5.0","latitude, absolute_longitude, dmin_log, rms_log, net_us, nst_log",1,0.1,1.0,1,13.0,19181,19181,0.5,0.0006252263839370719,0,0
+"0.0, 7.0, 2.0, 1.0, 2.0","latitude, rms_log, nst_log, east_west, station_coverage",4.0,1.0,1.0,1,3.0,19182,19182,0.4166666666666667,0.00014428301167778584,1,1
+"5.0, 0.0, 0.0, 1.0","absolute_longitude, nst_log, east_west, station_coverage",0.0,1.0,1.0,1,17.0,19629,19186,0.3333333333333333,0.0008176037328407864,1,1
+"3.0, 1.0, 0.0, 0.0, 0.0","dmin_log, rms_log, horizontalError_log, net_us, east_west",0.0,0.07775999999999998,0.6,1,10.6,19864,19187,0.4166666666666667,0.0005097999745948432,3,5
+"5.0, 7.0, 1.0","absolute_longitude, nst_log, east_west",5.0,0.17525145137855438,0.7058823529411765,2,14.602050573107201,19999,19190,0.25,0.0014045518889061637,12,17
+"7.0, 7.0, 6.0, 1.0, 7.0, 7.0","longitude, dmin_log, horizontalError_log, net_us, nst_log, station_coverage",5.0,0.7685738168758914,0.9487179487179487,1,21.658648374775137,19939,19190,0.5,0.0010416583387942461,37,39
+"3.0, 0.0, 6.0, 5.0, 5.0, 1.0, 3.0, 0.0, 2.0","latitude, absolute_longitude, dmin_log, rms_log, depth_signed_log, net_us, nst_log, east_west, station_coverage",2.0,1.0,1.0,1,8.0,19197,19197,0.75,0.0003847546978074289,1,1
+"7.0, 7.0, 5.0, 1.0, 6.0, 5.0","dmin_log, rms_log, depthError_log, net_us, nst_log, station_coverage",4.0,0.03125,0.5,1,12.5,19775,19201,0.5,0.0006011792153241076,2,4
+"6.0, 6.0, 7.0, 7.0, 7.0","absolute_longitude, rms_log, depth_signed_log, depthError_log, nst_log",4.0,0.010240000000000003,0.4,1,8.0,19933,19206,0.4166666666666667,0.0003847546978074289,2,5
+"1.0, 1.0, 4.0, 3.0, 1.0, 0.0, 7.0, 0.0, 7.0","latitude, absolute_longitude, dmin_log, depth_signed_log, depthError_log, net_us, nst_log, east_west, station_coverage",3.0,1.0,1.0,1,12.0,19208,19208,0.75,0.0005771320467111434,1,1
+"5.0, 2.0, 1.0, 4.0","longitude, latitude, absolute_longitude, dmin_log",0,0.010240000000000003,0.4,1,10.6,19854,19209,0.3333333333333333,0.0005097999745948432,2,5
+"0.0, 7.0, 1.0, 7.0","latitude, dmin_log, net_us, nst_log",5.0,0.3362128763497534,0.8041237113402062,2,18.21527732360557,19999,19212,0.3333333333333333,0.0017521033805305932,78,97
+"5.0, 1.0, 2.0, 7.0","latitude, dmin_log, horizontalError_log, depthError_log",1.0,1.0,1.0,1,16.0,19213,19213,0.3333333333333333,0.0007695093956148577,1,1
+"1.0, 6.0, 6.0, 7.0, 0.0","longitude, absolute_longitude, dmin_log, depthError_log, east_west",1.0,0.03125,0.5,1,10.5,19809,19217,0.4166666666666667,0.0005049905408722504,1,2
+"2.0, 6.0, 0.0","longitude, depthError_log, east_west",1.0,0.11950274109665414,0.6538461538461539,1,17.21861252247662,19938,19220,0.25,0.0008281177572185877,17,26
+"6.0, 5.0, 3.0, 0.0, 5.0","longitude, dmin_log, depthError_log, net_us, station_coverage",2.0,1.0,1.0,1,12.0,19225,19225,0.4166666666666667,0.0005771320467111434,1,1
+"4.0, 1.0, 2.0, 0.0, 6.0","longitude, dmin_log, rms_log, net_us, station_coverage",2.0,1.0,1.0,1,4.0,19230,19230,0.4166666666666667,0.00019237734890371444,1,1
+"3.0, 3.0, 0.0, 0.0","latitude, absolute_longitude, depthError_log, east_west",1.0,1.6935087808430282e-05,0.1111111111111111,1,8.62912,19420,19231,0.3333333333333333,0.0004150118072430051,1,9
+"3.0, 4.0, 1.0, 5.0","longitude, latitude, horizontalError_log, nst_log",1,0.2373046875,0.75,1,19.75,19879,19232,0.3333333333333333,0.00094986316021209,3,4
+"7.0, 7.0, 7.0, 1.0, 3.0, 1.0","longitude, absolute_longitude, dmin_log, depth_signed_log, nst_log, east_west",3.0,0.1,1.0,1,18.0,19234,19234,0.5,0.0008656980700667149,0,0
+"7.0, 7.0, 6.0, 1.0, 7.0","longitude, dmin_log, horizontalError_log, net_us, nst_log",5.0,0.5904900000000001,0.9,1,18.63313273024303,19939,19236,0.4166666666666667,0.0008961481691037961,45,50
+"6.0, 1.0, 7.0, 1.0, 7.0","horizontalError_log, net_us, nst_log, east_west, station_coverage",5.0,0.6552182189430005,0.918918918918919,1,21.492710344667877,19939,19236,0.4166666666666667,0.0010336776592156612,34,37
+"4.0, 0.0, 2.0, 0.0, 0.0","longitude, horizontalError_log, depthError_log, net_us, east_west",1.0,0.07775999999999998,0.6,1,7.2,19837,19239,0.4166666666666667,0.000346279228026686,3,5
+"4.0, 2.0, 1.0, 3.0, 4.0","longitude, absolute_longitude, depth_signed_log, nst_log, station_coverage",0.0,1.0,1.0,1,11.0,19642,19242,0.4166666666666667,0.0005290377094852147,1,1
+"0.0, 1.0, 4.0","latitude, net_us, station_coverage",4.0,0.3066820026178275,0.7894736842105263,1,16.759528959115265,19993,19243,0.25,0.0008060384375074059,15,19
+"1.0, 5.0, 2.0, 0.0, 0.0","longitude, dmin_log, rms_log, net_us, east_west",3.0,0.0,0.0,1,11.0,19245,19245,0.4166666666666667,0.0005290377094852147,0,1
+"5.0, 2.0, 3.0, 0.0, 0.0","dmin_log, rms_log, horizontalError_log, net_us, east_west",3.0,0.03125,0.5,1,18.0,19594,19245,0.4166666666666667,0.0008656980700667149,1,2
+"0.0, 6.0, 6.0, 0.0, 3.0","longitude, latitude, dmin_log, net_us, nst_log",2.0,1.0,1.0,1,19.5,19639,19251,0.4166666666666667,0.0009378395759056079,2,2
+"5.0, 2.0, 6.0","longitude, latitude, station_coverage",0.0,1.0,1.0,1,18.42309236736,19985,19254,0.25,0.0008860464170602433,15,15
+"5.0, 2.0, 2.0, 5.0, 0.0, 5.0, 0.0","longitude, latitude, absolute_longitude, depth_signed_log, net_us, nst_log, east_west",0,1.0,1.0,1,21.664,19984,19254,0.5833333333333334,0.0010419157216625175,7,7
+"5.0, 2.0, 2.0, 0.0, 5.0","longitude, latitude, rms_log, horizontalError_log, station_coverage",1.0,0.0,0.0,1,22.5,19262,19262,0.4166666666666667,0.0010821225875833936,0,2
+"7.0, 0.0, 7.0, 1.0, 1.0, 3.0","longitude, latitude, dmin_log, net_us, east_west, station_coverage",4.0,0.5549289573066435,0.8888888888888888,1,13.92256,19977,19268,0.5,0.0006695962956882246,8,9
+"5.0, 7.0, 7.0, 6.0, 5.0, 1.0, 1.0","latitude, absolute_longitude, dmin_log, horizontalError_log, depth_signed_log, net_us, east_west",2.0,0.007415771484375,0.375,2,13.9264,19961,19271,0.5833333333333334,0.0013395619558863442,3,8
+"4.0, 0.0, 1.0","depthError_log, nst_log, station_coverage",0.0,0.2373046875,0.75,1,17.75,19629,19277,0.25,0.0008536744857602328,3,4
+"0.0, 5.0, 0.0, 1.0","latitude, depth_signed_log, net_us, nst_log",2.0,1.0,1.0,1,10.0,19952,19284,0.3333333333333333,0.0004809433722592861,1,1
+"6.0, 6.0, 0.0, 0.0","latitude, horizontalError_log, net_us, east_west",3.0,0.03125,0.5,1,10.72594944,19686,19291,0.3333333333333333,0.0005158574294356202,6,12
+"7.0, 4.0, 4.0, 0.0","absolute_longitude, rms_log, depthError_log, nst_log",0.0,0.0,0.0,1,17.0,19297,19297,0.3333333333333333,0.0008176037328407864,0,1
+"4.0, 1.0, 0.0","depthError_log, nst_log, east_west",2,0.0,0.0,1,13.5678336,19300,19300,0.25,0.0006525359645836849,0,12
+"0.0, 5.0, 0.0, 2.0","longitude, rms_log, net_us, nst_log",2,0.13168724279835387,0.6666666666666666,1,9.333333333333334,19860,19304,0.3333333333333333,0.00044888048077533374,2,3
+"0.0, 6.0, 7.0, 0.0","longitude, dmin_log, horizontalError_log, net_us",2.0,0.620921323059155,0.9090909090909091,1,16.6161792,19996,19304,0.3333333333333333,0.0007991441258512607,10,11
+"2.0, 3.0, 4.0, 0.0, 0.0","latitude, rms_log, depth_signed_log, net_us, east_west",0,0.0,0.0,1,18.0,19307,19307,0.4166666666666667,0.0008656980700667149,0,1
+"7.0, 0.0, 7.0, 5.0, 3.0","longitude, latitude, dmin_log, depth_signed_log, nst_log",5,0.0,0.0,1,14.0,19312,19312,0.4166666666666667,0.0006733207211630006,0,1
+"7.0, 0.0, 7.0, 7.0, 5.0, 3.0","longitude, latitude, dmin_log, horizontalError_log, depth_signed_log, nst_log",4.0,0.1,1.0,1,14.0,19316,19316,0.5,0.0006733207211630006,0,0
+"0.0, 0.0, 1.0, 0.0","rms_log, net_us, nst_log, east_west",0.0,0.620921323059155,0.9090909090909091,1,17.9974656,19932,19319,0.3333333333333333,0.0008655761797784497,10,11
+"4.0, 5.0, 3.0, 0.0","dmin_log, horizontalError_log, depth_signed_log, east_west",1.0,0.13168724279835387,0.6666666666666666,1,14.666666666666666,19753,19321,0.3333333333333333,0.0007053836126469529,2,3
+"5.0, 7.0","horizontalError_log, station_coverage",3.0,0.03125,0.5,1,16.164327454477185,19926,19323,0.16666666666666666,0.01081576359964269,14,28
+"3.0, 0.0, 3.0, 2.0","longitude, rms_log, horizontalError_log, nst_log",0.0,0.019817040630437082,0.7211538461538461,1,14.213759999999999,19329,19329,0.3333333333333333,0.000683601366688415,0,0
+"6.0, 0.0, 0.0, 7.0, 6.0, 0.0","longitude, latitude, absolute_longitude, rms_log, nst_log, east_west",5.0,0.004115226337448558,0.3333333333333333,1,11.333333333333334,19331,19331,0.5,0.0005450691552271909,1,3
+"0.0, 6.0","longitude, dmin_log",2,0.22481780895283973,0.7419354838709677,2,12.708319494098138,19996,19333,0.16666666666666666,0.0012223964066479967,23,31
+"4.0, 3.0, 0.0, 6.0","absolute_longitude, dmin_log, net_us, station_coverage",0.0,1.0,1.0,1,15.0,19864,19334,0.3333333333333333,0.0007214150583889291,1,1
+"2.0, 1.0, 1.0, 0.0, 7.0","latitude, absolute_longitude, depthError_log, east_west, station_coverage",1.0,0.13168724279835387,0.6666666666666666,2,11.0,19868,19338,0.4166666666666667,0.0010580754189704294,2,3
+"2.0, 1.0, 0.0","latitude, dmin_log, net_us",1.0,0.03125,0.5,1,10.75,19873,19338,0.25,0.0005170141251787325,2,4
+"2.0, 2.0","latitude, absolute_longitude",0.0,0.06872850940451601,0.5853658536585366,1,12.969394910953433,19985,19347,0.16666666666666666,0.0006237544524636368,24,41
+"7.0, 7.0, 5.0, 1.0, 4.0","longitude, dmin_log, nst_log, east_west, station_coverage",4.0,0.18593443208187066,0.7142857142857143,1,18.016,19993,19350,0.4166666666666667,0.0008664675794623298,5,7
+"0.0, 7.0, 7.0, 7.0, 7.0","latitude, dmin_log, rms_log, horizontalError_log, nst_log",5.0,0.2084017036410597,0.7307692307692307,1,18.74567058868005,19999,19351,0.4166666666666667,0.0009015606028181499,19,26
+"7.0, 5.0, 1.0, 7.0","rms_log, depth_signed_log, net_us, nst_log",5.0,0.5241073981293608,0.8787878787878788,2,21.296419172025473,19946,19352,0.3333333333333333,0.002048474330728249,29,33
+"7.0, 5.0, 0.0, 5.0","latitude, depthError_log, east_west, station_coverage",1.0,0.0,0.0,1,10.0,19354,19354,0.3333333333333333,0.0004809433722592861,0,1
+"1.0, 4.0, 0.0, 0.0, 3.0","latitude, rms_log, net_us, east_west, station_coverage",1,0.03125,0.5,1,17.75,19971,19360,0.4166666666666667,0.0008536744857602328,2,4
+"6.0, 4.0, 4.0","longitude, rms_log, depthError_log",1,0.03125,0.5,1,15.921600000000002,19971,19360,0.25,0.000765738799576345,4,8
+"2.0, 5.0, 7.0, 6.0, 4.0, 0.0","longitude, absolute_longitude, depth_signed_log, depthError_log, nst_log, east_west",1.0,1.0,1.0,1,10.0,19432,19361,0.5,0.0004809433722592861,1,1
+"2.0, 7.0, 6.0, 4.0, 0.0","longitude, depth_signed_log, depthError_log, nst_log, east_west",3,0.0,0.0,1,10.0,19361,19361,0.4166666666666667,0.0004809433722592861,0,1
+"0.0, 7.0, 0.0, 6.0","longitude, horizontalError_log, net_us, nst_log",2.0,0.0,0.0,1,9.0,19362,19362,0.3333333333333333,0.00043284903503335747,0,1
+"0.0, 0.0, 0.0, 0.0","latitude, absolute_longitude, net_us, east_west",3.0,0.1473475405306393,0.6818181818181818,1,13.333472106847406,19949,19363,0.3333333333333333,0.0006412645038992319,15,22
+"0.0, 0.0, 6.0, 6.0, 0.0, 0.0","latitude, absolute_longitude, dmin_log, depth_signed_log, net_us, east_west",3.0,1.0,1.0,1,13.333333333333334,19677,19363,0.5,0.0006412578296790481,3,3
+"1.0, 4.0, 3.0, 6.0, 0.0, 0.0","absolute_longitude, rms_log, horizontalError_log, depthError_log, net_us, east_west",1.0,0.05187409396409079,0.7592592592592593,1,10.916397550217305,19364,19364,0.5,0.000525016905072452,0,0
+"5.0, 1.0, 4.0, 0.0","depthError_log, net_us, nst_log, east_west",3.0,0.0,0.0,1,4.0,19365,19365,0.3333333333333333,0.00019237734890371444,0,2
+"7.0, 5.0, 7.0, 7.0, 1.0","longitude, latitude, absolute_longitude, horizontalError_log, east_west",3.0,0.43375716751999094,0.8461538461538461,3,13.307782656,19951,19367,0.4166666666666667,0.0019200869603610837,11,13
+"0.0, 7.0, 7.0, 5.0, 7.0, 7.0","latitude, dmin_log, horizontalError_log, depthError_log, nst_log, station_coverage",5.0,0.2373046875,0.75,2,22.6208,19946,19369,0.5,0.0021758647670405717,6,8
+"7.0, 5.0, 7.0","rms_log, horizontalError_log, station_coverage",3.0,0.05032843750000002,0.55,1,16.530494086119425,19926,19371,0.25,0.0007950231570890463,11,20
+"2.0, 4.0, 1.0, 6.0, 0.0","longitude, latitude, depthError_log, nst_log, east_west",1.0,0.0,0.0,2,10.5,19376,19376,0.4166666666666667,0.0010099810817445008,0,2
+"0.0, 7.0, 7.0, 7.0","latitude, dmin_log, rms_log, horizontalError_log",5.0,0.08123088727470104,0.6052631578947368,1,17.35975120422766,19999,19380,0.3333333333333333,0.0008349057285743453,23,38
+"1.0, 7.0, 5.0, 1.0, 7.0","latitude, dmin_log, depthError_log, net_us, nst_log",4.0,0.0,0.0,1,6.25,19381,19381,0.4166666666666667,0.0003005896076620538,0,4
+"1.0, 4.0, 7.0, 5.0, 5.0, 1.0, 7.0, 1.0","latitude, absolute_longitude, dmin_log, depth_signed_log, depthError_log, net_us, nst_log, east_west",4.0,0.013168724279835387,0.6666666666666666,1,7.666666666666667,19381,19381,0.6666666666666666,0.0003687232520654527,0,0
+"0.0, 0.0","dmin_log, depthError_log",1.0,0.0063582343481257495,0.36363636363636365,1,11.6503552,19917,19382,0.16666666666666666,0.0005603161117906509,4,11
+"2.0, 7.0, 6.0, 4.0, 0.0, 6.0","longitude, latitude, depth_signed_log, depthError_log, net_us, station_coverage",3.0,0.1,1.0,1,7.0,19386,19386,0.5,0.0003366603605815003,0,0
+"7.0, 4.0, 6.0, 2.0, 0.0","latitude, absolute_longitude, dmin_log, depth_signed_log, depthError_log",1.0,1.0,1.0,1,1.0,19387,19387,0.4166666666666667,4.809433722592861e-05,1,1
+"0.0, 6.0, 3.0, 4.0, 0.0, 0.0","longitude, latitude, rms_log, depthError_log, net_us, nst_log",1.0,1.0,1.0,1,20.0,19388,19388,0.5,0.0009618867445185722,1,1
+"6.0, 1.0, 0.0, 3.0","longitude, latitude, absolute_longitude, depth_signed_log",0,0.00023174285888671875,0.1875,1,18.608546013184,19982,19392,0.3333333333333333,0.0008949656872422807,3,16
+"7.0, 5.0, 2.0, 0.0, 0.0, 0.0","latitude, absolute_longitude, dmin_log, net_us, nst_log, east_west",0.0,1.0,1.0,1,17.0,19629,19401,0.5,0.0008176037328407864,1,1
+"5.0, 2.0, 5.0, 0.0","latitude, rms_log, depth_signed_log, east_west",0.0,1.0,1.0,1,6.5,19612,19411,0.3333333333333333,0.00031261319196853595,2,2
+"3.0, 1.0, 2.0, 0.0","longitude, dmin_log, rms_log, net_us",0.0,1.0,1.0,1,8.0,19612,19411,0.3333333333333333,0.0003847546978074289,1,1
+"0.0, 7.0, 7.0, 7.0, 1.0, 3.0","latitude, dmin_log, horizontalError_log, depth_signed_log, east_west, station_coverage",4.0,1.0,1.0,1,18.5,19930,19413,0.5,0.0008897452386796793,2,2
+"7.0, 7.0, 0.0, 2.0","depth_signed_log, depthError_log, east_west, station_coverage",4.0,0.0003200000000000001,0.2,1,12.4,19671,19414,0.3333333333333333,0.0005963697816015148,1,5
+"0.0, 6.0, 6.0, 7.0","longitude, dmin_log, horizontalError_log, depthError_log",2,1.0,1.0,1,14.0,19991,19415,0.3333333333333333,0.0006733207211630006,2,2
+"3.0, 3.0, 3.0, 4.0, 0.0","longitude, latitude, absolute_longitude, depth_signed_log, net_us",1.0,1.0,1.0,1,12.0,19627,19420,0.4166666666666667,0.0005771320467111434,1,1
+"0.0, 6.0, 6.0, 1.0","longitude, latitude, horizontalError_log, net_us",3.0,0.03125,0.5,1,12.0,19532,19421,0.3333333333333333,0.0005771320467111434,1,2
+"2.0, 7.0, 6.0, 0.0","longitude, rms_log, depthError_log, east_west",1.0,0.03125,0.5,1,15.25,19924,19432,0.3333333333333333,0.0007334386426954113,2,4
+"7.0, 5.0, 7.0, 7.0, 1.0","longitude, latitude, absolute_longitude, rms_log, east_west",3.0,0.095367431640625,0.625,2,16.9104,19848,19433,0.4166666666666667,0.0016265889604506862,5,8
+"4.0, 3.0, 2.0, 1.0, 0.0","longitude, latitude, absolute_longitude, depthError_log, net_us",1.0,0.004115226337448558,0.3333333333333333,1,5.666666666666667,19434,19434,0.4166666666666667,0.00027253457761359547,1,3
+"6.0, 0.0, 7.0, 6.0","longitude, latitude, dmin_log, horizontalError_log",4.0,0.004115226337448558,0.3333333333333333,1,15.76,19671,19438,0.3333333333333333,0.0007579667546806348,2,6
+"7.0, 4.0, 6.0","latitude, dmin_log, depthError_log",1.0,0.0,0.0,1,23.0,19440,19440,0.25,0.001106169756196358,0,2
+"0.0, 6.0, 0.0, 3.0","latitude, nst_log, east_west, station_coverage",1.0,1.0,1.0,1,9.0,19689,19443,0.3333333333333333,0.00043284903503335747,1,1
+"7.0, 6.0, 1.0, 7.0, 7.0","dmin_log, horizontalError_log, net_us, nst_log, station_coverage",5.0,0.8337362106376808,0.9642857142857143,2,21.504717603648533,19939,19444,0.4166666666666667,0.002068510280756472,27,28
+"7.0, 7.0, 4.0","longitude, dmin_log, station_coverage",4.0,0.43375716751999094,0.8461538461538461,1,16.248346624,19993,19454,0.25,0.0007814534618984346,11,13
+"0.0, 0.0","nst_log, station_coverage",0.0,0.0852316508323596,0.6111111111111112,1,15.037265123425328,19957,19455,0.16666666666666666,0.0007232072998017128,22,36
+"3.0, 3.0, 1.0, 2.0","longitude, dmin_log, horizontalError_log, nst_log",1,0.013168724279835387,0.6666666666666666,1,14.68759882832326,19457,19457,0.3333333333333333,0.0007063903310885328,0,0
+"0.0, 6.0, 6.0","longitude, absolute_longitude, dmin_log",2,0.06092699470458736,0.5714285714285714,1,16.272,19818,19458,0.25,0.0007825910553403103,4,7
+"1.0, 0.0, 1.0, 0.0","dmin_log, rms_log, nst_log, east_west",0.0,1.0,1.0,1,17.0,19869,19459,0.3333333333333333,0.0008176037328407864,4,4
+"1.0, 1.0, 0.0, 2.0, 0.0, 7.0, 7.0","dmin_log, horizontalError_log, depth_signed_log, depthError_log, net_us, nst_log, station_coverage",2.0,1.0,1.0,1,3.0,19464,19464,0.5833333333333334,0.00014428301167778584,1,1
+"2.0, 5.0, 6.0, 7.0, 0.0, 6.0","longitude, absolute_longitude, dmin_log, rms_log, net_us, station_coverage",2.0,0.004115226337448558,0.3333333333333333,1,5.666666666666667,19466,19466,0.5,0.00027253457761359547,1,3
+"5.0, 0.0","latitude, nst_log",0.0,0.014458261438686257,0.42857142857142855,1,16.024,19738,19468,0.16666666666666666,0.0007706636597082801,3,7
+"7.0, 5.0, 7.0, 0.0, 1.0, 1.0","longitude, latitude, horizontalError_log, net_us, east_west, station_coverage",3.0,0.13168724279835387,0.6666666666666666,1,16.28,19693,19470,0.5,0.0007829758100381178,4,6
+"3.0, 2.0, 1.0, 2.0, 4.0, 3.0, 0.0","absolute_longitude, dmin_log, rms_log, horizontalError_log, depthError_log, nst_log, east_west",0.0,0.003125,0.5,1,9.0,19472,19472,0.5833333333333334,0.00043284903503335747,0,0
+"3.0, 4.0, 0.0, 1.0, 0.0, 3.0","longitude, absolute_longitude, rms_log, depth_signed_log, east_west, station_coverage",0.0,0.1,1.0,1,22.0,19476,19476,0.5,0.0010580754189704294,0,0
+"6.0, 1.0, 4.0, 3.0, 0.0","longitude, latitude, dmin_log, horizontalError_log, east_west",1.0,1.0,1.0,1,18.5,19728,19477,0.4166666666666667,0.0008897452386796793,2,2
+"7.0, 7.0, 5.0, 7.0, 7.0","latitude, rms_log, horizontalError_log, nst_log, station_coverage",3.0,0.008416533573215765,0.38461538461538464,1,17.677188096000002,19926,19479,0.4166666666666667,0.000850172645495195,5,13
+"5.0, 5.0, 7.0, 0.0, 7.0","dmin_log, horizontalError_log, depth_signed_log, net_us, station_coverage",3.0,0.014458261438686257,0.42857142857142855,1,17.008,19926,19479,0.4166666666666667,0.0008179884875385938,3,7
+"0.0, 6.0, 0.0, 0.0","longitude, dmin_log, net_us, station_coverage",2,1.0,1.0,1,17.0,19996,19480,0.3333333333333333,0.0008176037328407864,2,2
+"7.0, 6.0, 6.0, 6.0","longitude, absolute_longitude, rms_log, station_coverage",5.0,0.004115226337448558,0.3333333333333333,1,7.0,19481,19481,0.3333333333333333,0.0003366603605815003,1,3
+"1.0, 4.0, 4.0, 0.0, 2.0, 0.0","absolute_longitude, dmin_log, rms_log, horizontalError_log, depthError_log, net_us",3.0,1.0,1.0,2,9.5,19978,19482,0.5,0.0009137924072926436,2,2
+"7.0, 5.0, 7.0, 0.0, 7.0","latitude, absolute_longitude, nst_log, east_west, station_coverage",2.0,0.13168724279835387,0.6666666666666666,1,18.4679307264,19998,19486,0.4166666666666667,0.0008882028882205703,10,15
+"7.0, 5.0, 7.0","latitude, absolute_longitude, nst_log",2.0,0.13168724279835387,0.6666666666666666,2,18.4679307264,19998,19486,0.25,0.0017764057764411405,10,15
+"3.0, 1.0, 4.0, 0.0, 6.0, 0.0","absolute_longitude, horizontalError_log, depth_signed_log, net_us, nst_log, east_west",1.0,0.0095367431640625,0.625,1,10.6672,19487,19487,0.5,0.0005130319140564257,0,0
+"3.0, 0.0, 0.0, 5.0","depth_signed_log, net_us, east_west, station_coverage",1.0,0.0003200000000000001,0.2,1,12.6,19706,19491,0.3333333333333333,0.0006059886490467005,1,5
+"2.0, 2.0, 2.0, 2.0, 0.0, 7.0","dmin_log, horizontalError_log, depth_signed_log, depthError_log, east_west, station_coverage",1.0,1.0,1.0,1,1.0,19494,19494,0.5,4.809433722592861e-05,1,1
+"5.0, 5.0, 6.0, 0.0, 0.0","latitude, horizontalError_log, depthError_log, net_us, station_coverage",1.0,0.007307275211852007,0.5476190476190476,1,12.094767616,19495,19495,0.4166666666666667,0.0005816898323931447,0,0
+"5.0, 2.0, 2.0, 4.0, 2.0, 7.0","longitude, absolute_longitude, dmin_log, rms_log, horizontalError_log, station_coverage",1.0,1.0,1.0,1,16.0,19496,19496,0.5,0.0007695093956148577,1,1
+"7.0, 7.0, 7.0, 7.0, 1.0","longitude, absolute_longitude, dmin_log, depthError_log, station_coverage",3.0,1.0,1.0,1,15.304,19963,19497,0.4166666666666667,0.0007360357369056114,7,7
+"5.0, 5.0, 0.0","dmin_log, depthError_log, east_west",1.0,0.001903968584518355,0.2857142857142857,2,14.352,19989,19499,0.25,0.0013804998557330548,2,7
+"7.0, 5.0, 6.0, 6.0, 0.0, 4.0, 0.0, 5.0","latitude, dmin_log, rms_log, depthError_log, net_us, nst_log, east_west, station_coverage",2.0,1.0,1.0,1,12.0,19504,19504,0.6666666666666666,0.0005771320467111434,1,1
+"2.0, 2.0, 4.0, 1.0, 0.0, 6.0","latitude, absolute_longitude, rms_log, depthError_log, net_us, station_coverage",1.0,0.03125,0.5,1,9.5,19508,19508,0.5,0.0004568962036463218,1,2
+"0.0, 0.0, 4.0, 0.0, 0.0","latitude, absolute_longitude, horizontalError_log, net_us, east_west",3.0,0.07775999999999998,0.6,1,14.6,19707,19509,0.4166666666666667,0.0007021773234985577,3,5
+"2.0, 2.0, 3.0, 4.0","longitude, dmin_log, rms_log, horizontalError_log",1.0,1.0,1.0,1,12.0,19512,19512,0.3333333333333333,0.0005771320467111434,1,1
+"5.0, 5.0, 1.0, 6.0, 5.0, 4.0, 1.0","longitude, latitude, absolute_longitude, dmin_log, rms_log, depth_signed_log, station_coverage",1.0,1.0,1.0,1,11.0,19514,19514,0.5833333333333334,0.0005290377094852147,1,1
+"0.0, 7.0, 5.0, 1.0, 5.0","latitude, dmin_log, depth_signed_log, net_us, station_coverage",4.0,0.03125,0.5,1,8.5152,19878,19515,0.4166666666666667,0.0004095329003462273,4,8
+"7.0, 4.0, 7.0, 5.0, 4.0, 1.0, 1.0","longitude, absolute_longitude, horizontalError_log, depth_signed_log, depthError_log, net_us, east_west",4.0,0.0,0.0,1,28.0,19515,19515,0.5833333333333334,0.0013466414423260011,0,1
+"4.0, 2.0, 2.0, 0.0, 3.0","longitude, absolute_longitude, rms_log, net_us, nst_log",0.0,1.0,1.0,1,8.5,19967,19516,0.4166666666666667,0.0004088018664203932,2,2
+"6.0, 2.0, 4.0, 5.0","longitude, rms_log, depth_signed_log, nst_log",0.0,1.2860082304526745e-05,0.16666666666666666,1,7.720000000000001,19519,19519,0.3333333333333333,0.0003712882833841689,0,0
+"2.0, 5.0, 6.0, 0.0, 6.0","longitude, dmin_log, depthError_log, east_west, station_coverage",1.0,1.0,1.0,1,11.0,19828,19521,0.4166666666666667,0.0005290377094852147,1,1
+"0.0, 0.0, 4.0, 6.0, 0.0, 3.0, 0.0","latitude, absolute_longitude, dmin_log, depth_signed_log, net_us, nst_log, east_west",2.0,1.0,1.0,1,14.0,19524,19524,0.5833333333333334,0.0006733207211630006,1,1
+"2.0, 7.0, 5.0, 6.0, 0.0, 0.0","longitude, latitude, dmin_log, rms_log, net_us, east_west",2.0,0.004115226337448558,0.3333333333333333,1,13.84,19998,19525,0.5,0.000665625627206852,2,6
+"0.0, 5.0, 6.0, 7.0, 0.0","latitude, rms_log, horizontalError_log, depth_signed_log, net_us",3.0,0.1,1.0,1,16.2335616,19526,19526,0.4166666666666667,0.0007807423859682853,0,0
+"7.0, 7.0, 6.0, 7.0","longitude, rms_log, horizontalError_log, nst_log",5.0,0.6062776116457453,0.9047619047619048,1,18.070071724427187,19927,19527,0.3333333333333333,0.0008690681232113184,19,21
+"7.0, 7.0, 1.0, 7.0","dmin_log, rms_log, net_us, nst_log",5.0,0.4293934488306322,0.8444444444444444,1,17.136657428002586,19999,19527,0.3333333333333333,0.0008241761812675708,38,45
+"0.0, 6.0, 0.0","latitude, horizontalError_log, east_west",4.0,0.019403791345598595,0.45454545454545453,1,14.668415999999999,19814,19529,0.25,0.0007054677456742067,5,11
+"3.0, 7.0, 1.0","latitude, depth_signed_log, east_west",4.0,1.0,1.0,1,13.75,19863,19530,0.25,0.0006612971368565183,4,4
+0.0,nst_log,0.0,0.12324861859319845,0.6578947368421053,1,15.793731573429532,19970,19531,0.08333333333333333,0.000759589052348316,25,38
+"0.0, 0.0, 1.0, 0.0","rms_log, depth_signed_log, nst_log, east_west",0.0,1.0,1.0,1,18.72,19932,19534,0.3333333333333333,0.0009003259928693835,6,6
+"0.0, 0.0","dmin_log, rms_log",0.0,0.1590361251087416,0.6923076923076923,1,17.079170048,19970,19534,0.16666666666666666,0.0008214113638274914,9,13
+"7.0, 0.0, 7.0, 7.0, 7.0","longitude, latitude, dmin_log, rms_log, horizontalError_log",5.0,0.07204491900081343,0.5909090909090909,1,19.419315991570024,19999,19535,0.4166666666666667,0.000933959131995437,13,22
+"5.0, 2.0, 5.0, 3.0, 0.0, 7.0, 0.0, 1.0","latitude, absolute_longitude, rms_log, horizontalError_log, depth_signed_log, depthError_log, net_us, nst_log",2.0,1.0,1.0,1,11.0,19538,19538,0.6666666666666666,0.0005290377094852147,1,1
+"3.0, 0.0, 0.0","horizontalError_log, nst_log, east_west",0.0,0.1043582467665522,0.6363636363636364,1,17.973376000000002,19970,19539,0.25,0.0008644176064324119,7,11
+"5.0, 0.0, 0.0","latitude, nst_log, station_coverage",0.0,0.13168724279835387,0.6666666666666666,1,16.333333333333332,19738,19539,0.25,0.0007855408413568339,2,3
+"3.0, 0.0, 0.0","horizontalError_log, net_us, nst_log",0.0,0.07775999999999998,0.6,1,18.301056,19970,19541,0.25,0.0008801771588546041,6,10
+"3.0, 6.0, 5.0, 5.0, 1.0, 5.0","absolute_longitude, horizontalError_log, depthError_log, nst_log, east_west, station_coverage",5.0,0.1,1.0,1,6.5,19545,19545,0.5,0.00031261319196853595,0,0
+"7.0, 7.0, 7.0, 0.0, 7.0","dmin_log, horizontalError_log, nst_log, east_west, station_coverage",5.0,1.0,1.0,2,22.2,19891,19548,0.4166666666666667,0.00213538857283123,5,5
+"0.0, 7.0, 5.0, 4.0, 7.0, 0.0, 7.0","latitude, dmin_log, depth_signed_log, depthError_log, nst_log, east_west, station_coverage",5.0,1.0,1.0,1,22.0,19548,19548,0.5833333333333334,0.0010580754189704294,1,1
+"5.0, 5.0, 0.0, 0.0","dmin_log, depthError_log, net_us, east_west",1.0,0.0003200000000000001,0.2,1,17.4,19989,19549,0.3333333333333333,0.0008368414677311577,1,5
+"4.0, 7.0, 7.0","absolute_longitude, rms_log, depth_signed_log",4.0,0.3276800000000001,0.8,1,24.8,19724,19550,0.25,0.0011927395632030295,4,5
+"5.0, 1.0, 0.0, 0.0, 4.0","longitude, latitude, net_us, east_west, station_coverage",0,0.0,0.0,1,11.0,19554,19554,0.4166666666666667,0.0005290377094852147,0,1
+"0.0, 7.0, 6.0, 1.0, 4.0","latitude, dmin_log, horizontalError_log, net_us, station_coverage",4.0,1.0,1.0,1,12.5,19980,19559,0.4166666666666667,0.0006011792153241076,2,2
+"7.0, 7.0, 5.0, 4.0","longitude, dmin_log, depth_signed_log, station_coverage",4.0,1.0,1.0,2,13.32,19980,19559,0.3333333333333333,0.0012812331436987381,6,6
+"6.0, 1.0, 4.0, 0.0, 0.0","longitude, latitude, depth_signed_log, net_us, east_west",1,0.01734152991583261,0.4444444444444444,1,12.14272,19956,19567,0.4166666666666667,0.0005839960705200279,4,9
+"7.0, 5.0, 7.0, 6.0, 1.0","longitude, latitude, horizontalError_log, depthError_log, east_west",2,0.0009765625,0.25,1,14.25,19798,19572,0.4166666666666667,0.0006853443054694827,1,4
+"0.0, 2.0, 0.0, 2.0, 0.0","rms_log, horizontalError_log, net_us, nst_log, east_west",0.0,0.018593443208187066,0.7142857142857143,1,13.352,19575,19575,0.4166666666666667,0.0006421555906405988,0,0
+"1.0, 0.0, 2.0, 2.0, 0.0, 5.0","absolute_longitude, dmin_log, rms_log, horizontalError_log, net_us, station_coverage",1.0,0.1,1.0,1,3.5,19577,19577,0.5,0.00016833018029075014,0,0
+"3.0, 0.0, 2.0, 0.0, 3.0, 0.0","latitude, dmin_log, rms_log, net_us, nst_log, east_west",1.0,1.0,1.0,2,4.0,19867,19577,0.5,0.0003847546978074289,2,2
+"3.0, 3.0, 2.0, 0.0, 0.0","latitude, absolute_longitude, depth_signed_log, nst_log, east_west",1.0,1.0,1.0,1,14.0,19578,19578,0.4166666666666667,0.0006733207211630006,1,1
+"1.0, 0.0, 3.0","absolute_longitude, net_us, station_coverage",1.0,0.03125,0.5,1,11.0,19758,19585,0.25,0.0005290377094852147,1,2
+"7.0, 1.0, 0.0, 0.0, 1.0","longitude, latitude, absolute_longitude, east_west, station_coverage",3.0,1.0,1.0,1,7.666666666666667,19755,19587,0.4166666666666667,0.0003687232520654527,3,3
+"2.0, 3.0, 0.0","absolute_longitude, dmin_log, east_west",5,0.0,0.0,1,11.508105478144,19588,19588,0.25,0.0005534747056974139,0,16
+"5.0, 0.0, 0.0, 5.0","latitude, net_us, east_west, station_coverage",0.0,0.0008894625649883995,0.3888888888888889,1,13.24914767167488,19589,19589,0.3333333333333333,0.0006372089760776586,0,0
+"7.0, 7.0, 1.0, 0.0","dmin_log, horizontalError_log, net_us, east_west",4.0,0.019403791345598595,0.45454545454545453,1,16.3079936,19954,19590,0.3333333333333333,0.0007843221436766855,5,11
+"0.0, 7.0, 7.0, 7.0, 3.0","latitude, horizontalError_log, depth_signed_log, depthError_log, station_coverage",4.0,1.0,1.0,1,19.5,19954,19590,0.4166666666666667,0.0009378395759056079,2,2
+"7.0, 1.0, 3.0","longitude, latitude, station_coverage",4.0,1.0,1.0,1,11.0,19965,19592,0.25,0.0005290377094852147,1,1
+"0.0, 6.0, 0.0, 0.0","absolute_longitude, depth_signed_log, net_us, east_west",3.0,0.512908935546875,0.875,3,10.6736,19874,19594,0.3333333333333333,0.001540019153444015,7,8
+"6.0, 0.0, 6.0, 0.0","longitude, latitude, horizontalError_log, east_west",4.0,0.010240000000000003,0.4,1,15.6,19785,19597,0.3333333333333333,0.0007502716607244862,2,5
+"6.0, 1.0, 5.0, 4.0, 2.0, 0.0, 0.0","longitude, latitude, rms_log, horizontalError_log, depthError_log, net_us, east_west",3.0,1.0,1.0,1,4.0,19598,19598,0.5833333333333334,0.00019237734890371444,1,1
+"4.0, 7.0, 7.0, 4.0","absolute_longitude, horizontalError_log, depth_signed_log, station_coverage",4.0,1.0,1.0,1,19.0,19993,19602,0.3333333333333333,0.0009137924072926436,2,2
+"6.0, 3.0, 0.0, 0.0","longitude, depth_signed_log, net_us, east_west",1,0.1590361251087416,0.6923076923076923,1,18.725583871999998,19934,19604,0.3333333333333333,0.0009005945454923778,9,13
+"2.0, 4.0, 3.0, 3.0, 6.0, 3.0","longitude, latitude, rms_log, depthError_log, nst_log, station_coverage",2.0,1.0,1.0,1,11.0,19835,19605,0.5,0.0005290377094852147,1,1
+"2.0, 4.0, 3.0, 6.0","longitude, latitude, depthError_log, nst_log",2.0,1.0,1.0,1,11.0,19835,19605,0.3333333333333333,0.0005290377094852147,1,1
+"0.0, 6.0, 5.0, 7.0, 7.0, 0.0, 0.0, 1.0","longitude, latitude, rms_log, horizontalError_log, depthError_log, net_us, east_west, station_coverage",1.0,1.0,1.0,1,7.0,19606,19606,0.6666666666666666,0.0003366603605815003,1,1
+"0.0, 7.0, 7.0, 1.0, 7.0, 1.0","latitude, horizontalError_log, depth_signed_log, net_us, nst_log, east_west",4.0,0.004115226337448558,0.3333333333333333,1,19.07776,19892,19608,0.5,0.0009175322229553318,3,9
+"7.0, 0.0, 1.0, 1.0","depthError_log, net_us, east_west, station_coverage",3.0,1.0,1.0,1,16.0,19859,19613,0.3333333333333333,0.0007695093956148577,1,1
+"2.0, 3.0, 3.0, 0.0, 1.0","absolute_longitude, dmin_log, rms_log, horizontalError_log, depth_signed_log",2.0,0.0,0.0,1,8.0,19615,19615,0.4166666666666667,0.0003847546978074289,0,2
+"0.0, 6.0, 7.0, 7.0","longitude, dmin_log, horizontalError_log, depthError_log",2.0,0.07775999999999998,0.6,1,14.6,19888,19619,0.3333333333333333,0.0007021773234985577,3,5
+"3.0, 1.0, 0.0","longitude, horizontalError_log, net_us",2,0.0,0.0,1,13.36,19620,19620,0.25,0.0006425403453384062,0,6
+"7.0, 5.0, 7.0, 5.0","longitude, latitude, dmin_log, depth_signed_log",3.0,0.07775999999999998,0.6,1,12.341247999999998,19969,19622,0.3333333333333333,0.0005935441431008169,6,10
+"7.0, 7.0, 7.0, 1.0, 1.0","longitude, absolute_longitude, dmin_log, east_west, station_coverage",3.0,0.2994492622121735,0.7857142857142857,2,13.815080550400001,19969,19622,0.4166666666666667,0.0013288542855886102,11,14
+"2.0, 6.0, 7.0, 6.0, 0.0","longitude, dmin_log, depth_signed_log, depthError_log, east_west",1.0,1.0,1.0,1,7.0,19674,19623,0.4166666666666667,0.0003366603605815003,1,1
+"0.0, 3.0","east_west, station_coverage",1.0,0.025480396799999996,0.48,1,13.75546859007047,19971,19624,0.16666666666666666,0.011288046009846934,12,25
+"6.0, 4.0, 6.0, 7.0, 6.0, 5.0, 1.0, 7.0, 0.0, 6.0","latitude, absolute_longitude, dmin_log, rms_log, horizontalError_log, depthError_log, net_us, nst_log, east_west, station_coverage",0,0.1,1.0,1,6.0,19625,19625,0.8333333333333334,0.0002885660233555717,0,0
+"3.0, 3.0, 3.0, 4.0","longitude, latitude, absolute_longitude, depth_signed_log",1.0,0.1,1.0,1,12.0,19627,19627,0.3333333333333333,0.0005771320467111434,0,0
+"3.0, 3.0, 4.0, 0.0","latitude, absolute_longitude, depth_signed_log, net_us",1.0,0.03125,0.5,1,7.0,19893,19627,0.3333333333333333,0.0003366603605815003,1,2
+"1.0, 6.0, 6.0, 5.0, 6.0, 0.0, 0.0","longitude, latitude, dmin_log, horizontalError_log, depthError_log, net_us, east_west",1.0,0.0023078380428451597,0.47058823529411764,1,11.4754273738752,19628,19628,0.5833333333333334,0.0005519030739308062,0,0
+"6.0, 6.0, 0.0, 0.0","dmin_log, depthError_log, net_us, east_west",1.0,0.0015088388150337464,0.2727272727272727,2,12.685043199999999,19857,19628,0.3333333333333333,0.0012201574907725451,3,11
+"5.0, 4.0, 0.0, 0.0","absolute_longitude, depthError_log, net_us, east_west",0.0,0.03125,0.5,1,11.0,19894,19629,0.3333333333333333,0.0005290377094852147,2,4
+"5.0, 2.0, 0.0, 6.0","longitude, latitude, east_west, station_coverage",0,1.0,1.0,2,18.286399999999997,19985,19632,0.3333333333333333,0.0017589445764964416,8,8
+"1.0, 7.0","longitude, nst_log",2.0,4.018775720164608e-06,0.08333333333333333,1,8.448796159999999,19720,19635,0.16666666666666666,0.00040633925167217065,1,12
+"1.0, 6.0, 7.0, 5.0, 7.0, 7.0","longitude, latitude, rms_log, horizontalError_log, depth_signed_log, station_coverage",3.0,1.0,1.0,1,10.0,19842,19637,0.5,0.0004809433722592861,2,2
+"1.0, 7.0, 5.0, 7.0","longitude, rms_log, horizontalError_log, station_coverage",3.0,0.401877572016461,0.8333333333333334,2,10.36,19842,19637,0.3333333333333333,0.0009965146673212408,5,6
+"0.0, 6.0, 6.0, 1.0","longitude, dmin_log, depthError_log, station_coverage",2.0,1.0,1.0,1,15.0,19765,19639,0.3333333333333333,0.0007214150583889291,1,1
+"6.0, 6.0, 0.0, 3.0","latitude, dmin_log, net_us, nst_log",2,0.0,0.0,1,3.0,19639,19639,0.3333333333333333,0.00014428301167778584,0,1
+"0.0, 0.0, 1.0","rms_log, depth_signed_log, nst_log",0.0,1.0,1.0,1,18.75,19932,19641,0.25,0.0009017688229861615,4,4
+"0.0, 2.0, 1.0, 0.0","rms_log, horizontalError_log, nst_log, east_west",0.0,1.0,1.0,1,18.0,19801,19641,0.3333333333333333,0.0008656980700667149,1,1
+"1.0, 6.0, 0.0, 0.0","longitude, latitude, net_us, nst_log",0.0,1.0,1.0,2,17.0,19957,19648,0.3333333333333333,0.0016352074656815728,4,4
+"3.0, 4.0, 2.0, 0.0, 2.0, 1.0, 7.0","latitude, dmin_log, rms_log, horizontalError_log, depth_signed_log, depthError_log, nst_log",1.0,1.0,1.0,1,2.0,19650,19650,0.5833333333333334,9.618867445185722e-05,1,1
+"3.0, 7.0, 7.0, 1.0, 6.0","latitude, dmin_log, depth_signed_log, net_us, station_coverage",4.0,1.0,1.0,1,10.0,19863,19652,0.4166666666666667,0.0004809433722592861,1,1
+"7.0, 7.0, 1.0, 1.0","dmin_log, depthError_log, east_west, station_coverage",3.0,0.3276800000000001,0.8,1,12.8,19963,19653,0.3333333333333333,0.0006156075164918863,4,5
+"7.0, 7.0, 1.0, 1.0","longitude, depthError_log, east_west, station_coverage",3.0,0.3276800000000001,0.8,2,12.8,19963,19653,0.3333333333333333,0.0012312150329837725,4,5
+"1.0, 3.0, 2.0, 3.0","longitude, dmin_log, horizontalError_log, depthError_log",0.0,1.0,1.0,1,4.0,19654,19654,0.3333333333333333,0.00019237734890371444,1,1
+"0.0, 7.0, 7.0, 2.0","longitude, absolute_longitude, dmin_log, nst_log",4.0,0.0005810451002558458,0.35714285714285715,1,19.8776486912,19655,19655,0.3333333333333333,0.0009560023394131113,0,0
+"4.0, 0.0, 3.0","rms_log, east_west, station_coverage",1.0,0.13168724279835387,0.6666666666666666,1,15.666666666666666,19971,19663,0.25,0.0007534779498728815,2,3
+"5.0, 4.0, 0.0, 0.0","latitude, depthError_log, nst_log, east_west",0.0,0.03125,0.5,1,18.0,19738,19665,0.3333333333333333,0.0008656980700667149,1,2
+"0.0, 4.0, 7.0, 7.0, 1.0","latitude, absolute_longitude, horizontalError_log, depth_signed_log, net_us",4.0,0.18593443208187066,0.7142857142857143,1,19.808,19993,19667,0.4166666666666667,0.0009526526317711939,5,7
+"0.0, 7.0, 7.0, 7.0, 5.0","latitude, dmin_log, rms_log, horizontalError_log, depth_signed_log",5.0,0.46266436603796024,0.8571428571428571,1,17.808,19968,19668,0.4166666666666667,0.0008564639573193367,6,7
+"3.0, 4.0, 2.0, 0.0, 1.0, 0.0, 2.0","absolute_longitude, dmin_log, horizontalError_log, net_us, nst_log, east_west, station_coverage",1.0,1.0,1.0,1,6.0,19670,19670,0.5833333333333334,0.0002885660233555717,1,1
+"0.0, 6.0, 7.0, 0.0","latitude, horizontalError_log, depth_signed_log, east_west",4.0,0.004115226337448558,0.3333333333333333,2,17.333333333333332,19785,19671,0.3333333333333333,0.001667270357165525,1,3
+"6.0, 1.0, 3.0, 4.0, 0.0, 0.0","longitude, latitude, horizontalError_log, depth_signed_log, net_us, east_west",1,0.0,0.0,1,14.5,19673,19673,0.5,0.0006973678897759649,0,2
+"7.0, 6.0","latitude, depthError_log",1.0,0.10979242280002384,0.6428571428571429,1,18.0114962432,19938,19674,0.16666666666666666,0.0008662509742640071,9,14
+"1.0, 0.0, 6.0, 4.0, 4.0, 0.0, 1.0","longitude, latitude, absolute_longitude, horizontalError_log, depthError_log, net_us, station_coverage",1.0,0.1,1.0,1,5.5,19676,19676,0.5833333333333334,0.00026451885474260736,0,0
+"1.0, 4.0, 1.0, 5.0, 0.0, 6.0, 0.0, 6.0","absolute_longitude, dmin_log, horizontalError_log, depth_signed_log, net_us, nst_log, east_west, station_coverage",0.0,1.0,1.0,1,3.0,19680,19680,0.6666666666666666,0.00014428301167778584,1,1
+"7.0, 5.0, 7.0, 0.0, 7.0","dmin_log, depth_signed_log, nst_log, east_west, station_coverage",4,0.0,0.0,1,17.5,19682,19682,0.4166666666666667,0.0008416509014537506,0,2
+"1.0, 2.0, 3.0, 6.0, 0.0","latitude, rms_log, horizontalError_log, depth_signed_log, east_west",1,0.006092699470458736,0.5714285714285714,1,9.096,19683,19683,0.4166666666666667,0.00043746609140704666,0,0
+"1.0, 6.0, 0.0, 0.0","longitude, depthError_log, net_us, east_west",1.0,0.28462802079628785,0.7777777777777778,1,10.52128,19845,19685,0.3333333333333333,0.0005060139883684182,7,9
+"0.0, 5.0, 1.0, 0.0, 1.0","absolute_longitude, depth_signed_log, nst_log, east_west, station_coverage",3.0,0.03125,0.5,1,6.5,19687,19687,0.4166666666666667,0.00031261319196853595,1,2
+"0.0, 6.0, 0.0","latitude, nst_log, east_west",1.0,0.0,0.0,1,11.0,19689,19689,0.25,0.0005290377094852147,0,4
+"0.0, 6.0, 3.0, 0.0, 6.0, 0.0, 3.0","latitude, absolute_longitude, horizontalError_log, net_us, nst_log, east_west, station_coverage",1.0,0.07774644786533219,0.9444444444444444,1,9.0,19689,19689,0.5833333333333334,0.00043284903503335747,0,0
+"5.0, 7.0, 6.0, 1.0, 7.0","absolute_longitude, dmin_log, horizontalError_log, net_us, station_coverage",5.0,1.0,1.0,1,21.5,19939,19690,0.4166666666666667,0.001034028250357465,2,2
+"5.0, 6.0, 0.0","absolute_longitude, horizontalError_log, east_west",2.0,5.949901826619859e-05,0.14285714285714285,1,12.728,19972,19691,0.25,0.0006121447242116193,1,7
+"4.0, 1.0, 6.0, 4.0, 0.0, 5.0, 1.0, 4.0, 5.0","latitude, absolute_longitude, dmin_log, horizontalError_log, depth_signed_log, depthError_log, net_us, nst_log, station_coverage",2.0,1.0,1.0,1,2.0,19692,19692,0.75,9.618867445185722e-05,1,1
+"2.0, 3.0, 0.0, 7.0, 0.0, 7.0","latitude, absolute_longitude, horizontalError_log, nst_log, east_west, station_coverage",2.0,0.002384759252356226,0.47368421052631576,1,6.3807306211655686,19695,19695,0.5,0.0003068770102421458,0,0
+"3.0, 0.0, 1.0, 1.0, 0.0, 0.0, 4.0","latitude, dmin_log, rms_log, horizontalError_log, depthError_log, net_us, station_coverage",0.0,1.0,1.0,1,4.0,19697,19697,0.5833333333333334,0.00019237734890371444,1,1
+"2.0, 1.0, 6.0","dmin_log, depthError_log, station_coverage",1.0,0.03125,0.5,1,10.0,19699,19699,0.25,0.0004809433722592861,1,2
+"2.0, 1.0, 1.0, 0.0","latitude, absolute_longitude, depthError_log, east_west",1.0,0.0009765625,0.25,1,14.0,19868,19701,0.3333333333333333,0.0006733207211630006,1,4
+"0.0, 6.0, 3.0, 4.0","latitude, absolute_longitude, horizontalError_log, station_coverage",4,0.0002980232238769531,0.3125,1,7.541141856256,19703,19703,0.3333333333333333,0.0003626862195033413,0,0
+"3.0, 3.0, 4.0","absolute_longitude, horizontalError_log, depthError_log",1,0.03125,0.5,1,7.0,19704,19704,0.25,0.0003366603605815003,1,2
+"6.0, 1.0, 0.0, 0.0, 5.0","longitude, latitude, net_us, east_west, station_coverage",1,0.004115226337448558,0.3333333333333333,1,16.333333333333332,19826,19706,0.4166666666666667,0.0007855408413568339,1,3
+"4.0, 3.0, 3.0, 2.0, 1.0, 5.0, 0.0, 0.0","longitude, latitude, absolute_longitude, rms_log, horizontalError_log, depth_signed_log, net_us, east_west",2.0,1.0,1.0,1,2.0,19709,19709,0.6666666666666666,9.618867445185722e-05,1,1
+"0.0, 0.0, 0.0, 1.0","rms_log, depth_signed_log, net_us, nst_log",0.0,1.0,1.0,1,19.333333333333332,19932,19712,0.3333333333333333,0.0009298238530346197,3,3
+"1.0, 7.0, 6.0, 7.0, 1.0, 4.0","latitude, dmin_log, depth_signed_log, depthError_log, net_us, nst_log",4.0,1.0,1.0,1,2.0,19713,19713,0.5,9.618867445185722e-05,1,1
+"1.0, 6.0, 3.0, 4.0, 0.0, 0.0","longitude, latitude, dmin_log, depthError_log, net_us, nst_log",0.0,0.1,1.0,1,18.0,19714,19714,0.5,0.0008656980700667149,0,0
+"2.0, 5.0, 6.0, 0.0","longitude, absolute_longitude, depthError_log, east_west",1.0,0.18593443208187066,0.7142857142857143,1,18.352,19938,19716,0.3333333333333333,0.0008826272767702419,5,7
+"7.0, 7.0, 7.0, 5.0, 7.0","dmin_log, rms_log, horizontalError_log, depth_signed_log, nst_log",5.0,1.0,1.0,1,22.0,19946,19718,0.4166666666666667,0.0010580754189704294,3,3
+"1.0, 7.0, 7.0, 0.0","longitude, latitude, nst_log, east_west",1,0.002224185982668706,0.4605263157894737,1,11.279814422888446,19720,19720,0.3333333333333333,0.0005424951987002902,0,0
+"7.0, 5.0, 0.0, 7.0, 0.0","latitude, absolute_longitude, depthError_log, nst_log, east_west",2.0,1.0,1.0,1,18.0,19720,19720,0.4166666666666667,0.0008656980700667149,1,1
+"7.0, 7.0, 7.0, 6.0, 1.0, 7.0","longitude, dmin_log, rms_log, horizontalError_log, net_us, nst_log",5.0,0.3276800000000001,0.8,1,17.822976,19927,19721,0.5,0.0008571842181136322,8,10
+"3.0, 0.0, 4.0","horizontalError_log, net_us, station_coverage",1,0.0,0.0,1,15.5,19722,19722,0.25,0.0007454622270018934,0,2
+"5.0, 2.0, 2.0, 0.0","longitude, latitude, depth_signed_log, east_west",0,0.0,0.0,1,14.666666666666666,19725,19725,0.3333333333333333,0.0007053836126469529,0,3
+"7.0, 0.0, 0.0","absolute_longitude, nst_log, station_coverage",0.0,0.18593443208187066,0.7142857142857143,2,18.224,19897,19726,0.25,0.001752942403210646,5,7
+"5.0, 1.0, 4.0, 4.0, 0.0, 0.0, 0.0","latitude, horizontalError_log, depth_signed_log, depthError_log, net_us, nst_log, east_west",1.0,1.0,1.0,1,13.0,19729,19729,0.5833333333333334,0.0006252263839370719,1,1
+"1.0, 0.0","longitude, east_west",1.0,0.023847592523562257,0.47368421052631576,2,9.104081696260097,19989,19730,0.16666666666666666,0.0008757095504646746,9,19
+"5.0, 6.0, 0.0, 0.0, 6.0","dmin_log, depthError_log, net_us, east_west, station_coverage",1.0,0.13168724279835387,0.6666666666666666,1,10.0,19828,19730,0.4166666666666667,0.0004809433722592861,2,3
+"7.0, 0.0, 7.0, 5.0, 1.0","longitude, latitude, rms_log, depth_signed_log, net_us",5.0,0.095367431640625,0.625,1,21.6032,19946,19732,0.4166666666666667,0.001038991585959181,5,8
+"1.0, 6.0, 5.0","latitude, dmin_log, rms_log",4.0,0.03125,0.5,1,6.0,19735,19735,0.25,0.0002885660233555717,1,2
+"0.0, 7.0, 2.0, 0.0","longitude, absolute_longitude, rms_log, station_coverage",0.0,0.1,1.0,1,21.0,19738,19738,0.3333333333333333,0.0010099810817445008,0,0
+"6.0, 5.0, 2.0, 0.0, 3.0, 0.0, 4.0","rms_log, horizontalError_log, depth_signed_log, net_us, nst_log, east_west, station_coverage",1.0,1.0,1.0,1,2.0,19739,19739,0.5833333333333334,9.618867445185722e-05,1,1
+"1.0, 1.0, 3.0, 0.0, 1.0, 0.0, 5.0","latitude, absolute_longitude, dmin_log, horizontalError_log, depthError_log, net_us, nst_log",0.0,1.0,1.0,1,1.0,19744,19744,0.5833333333333334,4.809433722592861e-05,1,1
+"5.0, 5.0, 6.0, 0.0","absolute_longitude, dmin_log, depthError_log, east_west",1.0,0.3276800000000001,0.8,1,16.6,19938,19745,0.3333333333333333,0.000798365997950415,4,5
+"2.0, 3.0, 0.0, 0.0, 7.0, 7.0","absolute_longitude, rms_log, horizontalError_log, net_us, nst_log, station_coverage",1.0,0.07775999999999998,0.6,1,15.2,19873,19746,0.5,0.0007310339258341149,3,5
+"4.0, 4.0, 3.0, 3.0, 4.0","dmin_log, rms_log, depth_signed_log, depthError_log, station_coverage",2.0,1.0,1.0,1,18.0,19747,19747,0.4166666666666667,0.0008656980700667149,1,1
+"3.0, 0.0, 2.0, 2.0, 0.0, 3.0, 0.0","latitude, dmin_log, rms_log, horizontalError_log, net_us, nst_log, east_west",0,0.0,0.0,1,5.0,19750,19750,0.5833333333333334,0.00024047168612964306,0,1
+"3.0, 1.0, 0.0, 2.0, 2.0, 0.0, 0.0","latitude, absolute_longitude, dmin_log, rms_log, horizontalError_log, net_us, east_west",1.0,0.03125,0.5,1,4.5,19867,19750,0.5833333333333334,0.00021642451751667874,1,2
+"0.0, 7.0, 1.0, 1.0, 3.0","latitude, rms_log, net_us, east_west, station_coverage",4.0,0.05921379814728888,0.8984962406015038,1,12.993397205779022,19752,19752,0.4166666666666667,0.0006249088269251748,0,0
+"7.0, 7.0, 1.0, 3.0","longitude, dmin_log, net_us, station_coverage",4.0,1.0,1.0,2,15.5,19977,19752,0.3333333333333333,0.0014909244540037868,4,4
+"0.0, 3.0, 0.0","absolute_longitude, depth_signed_log, east_west",1.0,0.03125,0.5,1,18.115199999999998,19934,19753,0.25,0.0008712385377151418,4,8
+"4.0, 5.0, 0.0, 3.0","dmin_log, horizontalError_log, east_west, station_coverage",1.0,0.06833239160266004,0.9090909090909092,1,10.910131199999999,19753,19753,0.3333333333333333,0.0005247155291119251,0,0
+"1.0, 5.0, 6.0, 7.0, 0.0, 1.0","latitude, horizontalError_log, depth_signed_log, depthError_log, east_west, station_coverage",3.0,0.1,1.0,1,10.24,19755,19755,0.5,0.000492486013193509,0,0
+"0.0, 5.0, 0.0, 0.0","absolute_longitude, horizontalError_log, net_us, east_west",3.0,0.03125,0.5,1,17.0,19885,19755,0.3333333333333333,0.0008176037328407864,1,2
+"4.0, 0.0, 3.0","horizontalError_log, net_us, station_coverage",1.0,0.03125,0.5,1,15.0,19971,19758,0.25,0.0007214150583889291,1,2
+"5.0, 2.0, 2.0, 5.0, 6.0","longitude, latitude, absolute_longitude, depth_signed_log, station_coverage",0.0,1.0,1.0,1,21.0,19866,19759,0.4166666666666667,0.0010099810817445008,1,1
+"5.0, 2.0, 2.0, 0.0, 5.0, 6.0","longitude, latitude, absolute_longitude, net_us, nst_log, station_coverage",0.0,1.0,1.0,1,18.75,19985,19759,0.5,0.0009017688229861615,4,4
+"2.0, 7.0, 5.0, 0.0, 0.0","longitude, latitude, horizontalError_log, depthError_log, net_us",1.0,0.03125,0.5,1,10.5,19760,19760,0.4166666666666667,0.0005049905408722504,1,2
+"0.0, 7.0, 1.0, 7.0, 7.0","latitude, dmin_log, net_us, nst_log, station_coverage",5.0,0.7241964340209961,0.9375,1,21.666600292352,19946,19764,0.4166666666666667,0.0010420407809997806,15,16
+"7.0, 0.0, 7.0, 6.0, 4.0, 7.0, 1.0, 7.0","longitude, latitude, dmin_log, horizontalError_log, depthError_log, nst_log, east_west, station_coverage",5.0,1.0,1.0,1,33.0,19767,19767,0.6666666666666666,0.0015871131284556441,1,1
+"2.0, 1.0, 3.0, 2.0, 0.0, 4.0, 0.0, 5.0","dmin_log, horizontalError_log, depth_signed_log, depthError_log, net_us, nst_log, east_west, station_coverage",0.0,1.0,1.0,1,4.0,19769,19769,0.6666666666666666,0.00019237734890371444,1,1
+"2.0, 6.0, 7.0, 7.0, 5.0","longitude, rms_log, horizontalError_log, depthError_log, nst_log",3.0,0.1,1.0,1,2.25,19771,19771,0.4166666666666667,0.00010821225875833937,0,0
+"3.0, 0.0","depth_signed_log, east_west",1.0,0.001903968584518355,0.2857142857142857,1,10.591835016755939,19964,19772,0.16666666666666666,0.11632176877580447,6,21
+"7.0, 5.0, 7.0, 5.0, 7.0, 1.0","longitude, latitude, absolute_longitude, rms_log, horizontalError_log, east_west",3.0,0.1,1.0,1,13.8592,19774,19774,0.5,0.0006665490384815898,0,0
+"7.0, 7.0, 7.0, 0.0, 7.0, 7.0","latitude, rms_log, depth_signed_log, net_us, nst_log, station_coverage",3.0,0.004115226337448558,0.3333333333333333,1,24.0,19926,19776,0.5,0.0011542640934222867,1,3
+"7.0, 7.0, 5.0, 7.0, 0.0, 7.0, 0.0","latitude, rms_log, horizontalError_log, depth_signed_log, net_us, nst_log, east_west",3.0,0.004115226337448558,0.3333333333333333,1,24.0,19926,19776,0.5833333333333334,0.0011542640934222867,1,3
+"0.0, 6.0, 6.0, 1.0, 7.0, 6.0","latitude, horizontalError_log, depth_signed_log, net_us, nst_log, station_coverage",5.0,1.0,1.0,2,13.0,19927,19777,0.5,0.0012504527678741438,3,3
+"7.0, 7.0, 7.0, 6.0, 6.0, 7.0, 1.0","longitude, dmin_log, rms_log, horizontalError_log, depth_signed_log, nst_log, east_west",5.0,1.0,1.0,1,12.25,19927,19777,0.5833333333333334,0.0005891556310176255,4,4
+"5.0, 3.0, 1.0, 1.0, 1.0, 2.0","longitude, latitude, absolute_longitude, rms_log, depthError_log, station_coverage",0.0,0.03125,0.5,1,8.5,19778,19778,0.5,0.0004088018664203932,1,2
+"1.0, 0.0, 3.0, 5.0, 0.0","latitude, absolute_longitude, horizontalError_log, nst_log, east_west",0.0,1.0,1.0,1,13.0,19779,19779,0.4166666666666667,0.0006252263839370719,1,1
+"3.0, 1.0, 4.0, 4.0, 7.0, 1.0","latitude, absolute_longitude, dmin_log, horizontalError_log, depthError_log, station_coverage",1.0,1.0,1.0,1,2.0,19780,19780,0.5,9.618867445185722e-05,1,1
+"6.0, 7.0, 4.0, 0.0, 0.0","latitude, absolute_longitude, horizontalError_log, nst_log, station_coverage",0.0,1.0,1.0,1,16.0,19810,19782,0.4166666666666667,0.0007695093956148577,1,1
+"6.0, 0.0","horizontalError_log, east_west",4.0,9.5367431640625e-07,0.0625,1,9.669247021056,19814,19785,0.16666666666666666,0.0004650360269514729,1,16
+"0.0, 5.0, 7.0, 1.0, 0.0","longitude, rms_log, depth_signed_log, net_us, east_west",2.0,0.03125,0.5,1,9.0,19787,19787,0.4166666666666667,0.00043284903503335747,1,2
+"1.0, 6.0, 0.0","longitude, depthError_log, net_us",1.0,0.13168724279835387,0.6666666666666666,1,9.333333333333334,19845,19790,0.25,0.00044888048077533374,2,3
+"7.0, 5.0, 5.0, 0.0, 0.0","latitude, absolute_longitude, rms_log, net_us, east_west",1.0,0.024953435372426183,0.7575757575757576,1,11.139008599620237,19790,19790,0.4166666666666667,0.0005357232359526544,0,0
+"6.0, 1.0, 7.0, 7.0","horizontalError_log, net_us, nst_log, station_coverage",5.0,0.512908935546875,0.875,1,21.1072,19939,19793,0.3333333333333333,0.0010151367946951203,7,8
+"7.0, 7.0, 7.0, 6.0, 1.0","longitude, absolute_longitude, depth_signed_log, depthError_log, east_west",1.0,0.03125,0.5,1,15.0,19794,19794,0.4166666666666667,0.0007214150583889291,1,2
+1.0,latitude,1.0,0.004115226337448558,0.3333333333333333,2,11.587281371306393,19971,19796,0.08333333333333333,0.23550351098655742,7,21
+"4.0, 0.0","depthError_log, net_us",1,0.0054766078555798245,0.35294117647058826,1,16.1868220973056,19971,19796,0.16666666666666666,0.0007784944805639286,6,17
+"7.0, 7.0, 1.0, 1.0, 4.0","longitude, dmin_log, net_us, east_west, station_coverage",4.0,1.0,1.0,1,16.48,19993,19797,0.4166666666666667,0.0007925946774833035,6,6
+"5.0, 7.0, 6.0, 1.0","latitude, horizontalError_log, depthError_log, east_west",2,0.0,0.0,1,11.5,19798,19798,0.3333333333333333,0.000553084878098179,0,2
+"6.0, 1.0","longitude, latitude",0,0.008416533573215765,0.38461538461538464,1,16.397476863999998,19982,19800,0.16666666666666666,0.0007886257819515782,5,13
+"6.0, 1.0, 0.0, 4.0","longitude, latitude, net_us, station_coverage",0.0,1.0,1.0,1,14.5,19850,19800,0.3333333333333333,0.0006973678897759649,2,2
+"1.0, 0.0","absolute_longitude, net_us",1.0,0.0031404237068065523,0.3157894736842105,1,8.897424367484927,19937,19803,0.16666666666666666,0.00042791572797201466,6,19
+"1.0, 1.0, 1.0, 0.0","absolute_longitude, depth_signed_log, depthError_log, net_us",1.0,0.0,0.0,1,4.0,19804,19804,0.3333333333333333,0.00019237734890371444,0,1
+"7.0, 6.0, 7.0, 6.0, 7.0, 5.0, 7.0, 1.0","longitude, absolute_longitude, dmin_log, rms_log, horizontalError_log, depthError_log, nst_log, east_west",4.0,1.0,1.0,1,4.0,19805,19805,0.6666666666666666,0.00019237734890371444,1,1
+"7.0, 7.0, 7.0, 6.0, 1.0, 4.0","longitude, dmin_log, horizontalError_log, depthError_log, east_west, station_coverage",4.0,0.1,1.0,1,22.0,19806,19806,0.5,0.0010580754189704294,0,0
+"7.0, 1.0, 4.0","longitude, east_west, station_coverage",4.0,0.46266436603796024,0.8571428571428571,1,14.176,19993,19806,0.25,0.000681785324514764,6,7
+"7.0, 6.0, 7.0","longitude, horizontalError_log, nst_log",5.0,0.2373046875,0.75,1,18.106101759999998,19939,19807,0.25,0.0008708009638924194,9,12
+"1.0, 6.0, 7.0","longitude, dmin_log, depthError_log",1.0,0.007775999999999998,0.6,1,10.4,19809,19809,0.25,0.0005001811071496576,0,0
+"6.0, 7.0, 4.0, 0.0","latitude, absolute_longitude, horizontalError_log, nst_log",0.0,0.1,1.0,1,16.0,19810,19810,0.3333333333333333,0.0007695093956148577,0,0
+"6.0, 1.0, 5.0","longitude, latitude, depthError_log",0,0.0,0.0,1,10.0,19812,19812,0.25,0.0004809433722592861,0,1
+6.0,longitude,0,0.008023307944637018,0.38095238095238093,1,14.991816486952633,19982,19812,0.08333333333333333,0.039070625527114114,8,21
+"0.0, 0.0, 7.0, 6.0, 1.0, 5.0","longitude, latitude, dmin_log, rms_log, net_us, station_coverage",4.0,0.1,1.0,1,14.0,19813,19813,0.5,0.0006733207211630006,0,0
+"0.0, 7.0, 6.0, 5.0","longitude, dmin_log, rms_log, station_coverage",4.0,0.1,1.0,1,14.0,19813,19813,0.3333333333333333,0.0006733207211630006,0,0
+"7.0, 6.0, 1.0","rms_log, horizontalError_log, net_us",4.0,0.004115226337448558,0.3333333333333333,2,17.31104,19921,19814,0.25,0.0016651259909830783,3,9
+"7.0, 0.0, 6.0, 0.0","longitude, latitude, nst_log, east_west",4.0,0.0,0.0,1,15.0,19814,19814,0.3333333333333333,0.0007214150583889291,0,1
+"7.0, 5.0, 7.0, 1.0, 7.0, 1.0, 7.0","longitude, absolute_longitude, dmin_log, net_us, nst_log, east_west, station_coverage",5.0,0.13168724279835387,0.6666666666666666,1,20.666666666666668,19939,19815,0.5833333333333334,0.0009939496360025246,2,3
+"0.0, 5.0, 5.0, 5.0, 5.0, 1.0, 0.0, 1.0","longitude, dmin_log, rms_log, depth_signed_log, depthError_log, net_us, east_west, station_coverage",5,0.1,1.0,1,6.0,19816,19816,0.6666666666666666,0.0002885660233555717,0,0
+"7.0, 5.0, 1.0, 7.0, 7.0","dmin_log, depthError_log, net_us, nst_log, station_coverage",5.0,0.401877572016461,0.8333333333333334,1,23.119999999999997,19946,19817,0.4166666666666667,0.0011119410766634694,5,6
+"0.0, 6.0, 6.0, 0.0","longitude, latitude, dmin_log, net_us",2,1.0,1.0,1,15.0,19996,19818,0.3333333333333333,0.0007214150583889291,1,1
+"6.0, 7.0, 6.0, 5.0, 5.0, 1.0","latitude, absolute_longitude, horizontalError_log, depth_signed_log, depthError_log, east_west",4.0,1.0,1.0,1,10.0,19819,19819,0.5,0.0004809433722592861,1,1
+"6.0, 5.0, 4.0, 0.0, 2.0, 0.0, 1.0","longitude, latitude, rms_log, net_us, nst_log, east_west, station_coverage",2.0,1.0,1.0,1,8.0,19821,19821,0.5833333333333334,0.0003847546978074289,1,1
+"1.0, 6.0, 6.0, 5.0, 0.0, 0.0","longitude, latitude, absolute_longitude, horizontalError_log, net_us, nst_log",0.0,0.1,1.0,1,17.96302848,19823,19823,0.5,0.0008639199493160797,0,0
+"1.0, 0.0","longitude, east_west",2,6.209213230591552e-06,0.09090909090909091,1,9.1087616,19972,19825,0.16666666666666666,0.000438079852100989,1,11
+"1.0, 3.0, 0.0","longitude, nst_log, east_west",1.0,0.0095367431640625,0.625,1,9.3088,19825,19825,0.25,0.0004477005663687242,0,0
+"5.0, 2.0, 5.0, 6.0","longitude, latitude, nst_log, station_coverage",0,1.0,1.0,1,18.666666666666668,19985,19827,0.3333333333333333,0.0008977609615506675,3,3
+"0.0, 7.0, 7.0","latitude, horizontalError_log, depth_signed_log",5,0.010240000000000003,0.4,1,17.548672000000003,19999,19829,0.25,0.0008439917490352112,4,10
+"1.0, 6.0, 7.0, 5.0, 7.0","longitude, absolute_longitude, rms_log, horizontalError_log, station_coverage",3.0,1.0,1.0,1,11.0,19842,19833,0.4166666666666667,0.0005290377094852147,1,1
+"0.0, 6.0","net_us, nst_log",4,0.0,0.0,1,11.8137117917184,19835,19835,0.16666666666666666,0.0005681726388008341,0,17
+"2.0, 4.0, 3.0, 3.0, 6.0, 0.0, 3.0","longitude, latitude, rms_log, depthError_log, nst_log, east_west, station_coverage",2.0,0.05207939954516547,0.7647058823529411,1,12.9006076092416,19835,19835,0.5833333333333334,0.0006204461727782462,0,0
+"4.0, 2.0, 0.0, 0.0, 0.0","longitude, absolute_longitude, horizontalError_log, net_us, east_west",1.0,0.0,0.0,1,6.0,19837,19837,0.4166666666666667,0.0002885660233555717,0,5
+"6.0, 1.0, 0.0, 0.0","longitude, latitude, dmin_log, east_west",0,0.010240000000000003,0.4,2,16.8,19982,19838,0.3333333333333333,0.0016159697307912013,2,5
+"1.0, 3.0, 4.0","latitude, depth_signed_log, depthError_log",0.0,0.023981878600823053,0.7166666666666667,1,17.4,19838,19838,0.25,0.0008368414677311577,0,0
+"3.0, 0.0, 0.0, 0.0, 0.0","longitude, depth_signed_log, depthError_log, net_us, east_west",1.0,0.13168724279835387,0.6666666666666666,1,7.0,19884,19839,0.4166666666666667,0.0003366603605815003,2,3
+"2.0, 7.0, 5.0, 7.0, 0.0","longitude, latitude, absolute_longitude, nst_log, east_west",2.0,0.2373046875,0.75,1,19.5424,19998,19840,0.4166666666666667,0.0009398787758039872,6,8
+"7.0, 1.0, 1.0, 7.0","dmin_log, net_us, east_west, station_coverage",5.0,0.28462802079628785,0.7777777777777778,1,21.11392,19946,19841,0.3333333333333333,0.0010154599886412787,7,9
+"4.0, 2.0, 1.0, 6.0, 5.0, 0.0","latitude, rms_log, depth_signed_log, depthError_log, nst_log, east_west",2.0,1.0,1.0,1,6.0,19843,19843,0.5,0.0002885660233555717,1,1
+"7.0, 6.0, 0.0","latitude, depthError_log, net_us",1.0,0.07775999999999998,0.6,1,20.4,19938,19845,0.25,0.0009811244794089436,3,5
+"7.0, 5.0, 7.0, 0.0","longitude, latitude, absolute_longitude, depthError_log",3.0,0.036664783205320066,0.8181818181818182,1,14.8559104,19848,19848,0.3333333333333333,0.00071448516457578,0,0
+"7.0, 5.0, 7.0, 7.0, 0.0","longitude, latitude, absolute_longitude, horizontalError_log, net_us",3.0,1.0,1.0,1,11.0,19951,19848,0.4166666666666667,0.0005290377094852147,2,2
+"7.0, 5.0, 7.0, 5.0, 2.0, 1.0, 1.0","longitude, latitude, dmin_log, depth_signed_log, nst_log, east_west, station_coverage",4.0,0.0009765625,0.25,1,11.25,19849,19849,0.5833333333333334,0.0005410612937916968,1,4
+"6.0, 1.0, 0.0","longitude, latitude, net_us",0.0,0.00012860082304526745,0.16666666666666666,1,16.56,19982,19850,0.25,0.0007964422244613777,1,6
+"5.0, 1.0, 4.0, 1.0, 0.0","longitude, latitude, dmin_log, horizontalError_log, net_us",0.0,1.0,1.0,2,9.5,19914,19851,0.4166666666666667,0.0009137924072926436,2,2
+"4.0, 2.0, 1.0, 0.0, 7.0","longitude, absolute_longitude, depth_signed_log, net_us, station_coverage",3.0,0.02373046875,0.75,1,5.25,19852,19852,0.4166666666666667,0.0002524952704361252,0,0
+"5.0, 2.0, 5.0, 0.0","longitude, latitude, depth_signed_log, east_west",0,0.2373046875,0.75,1,17.25,19984,19854,0.3333333333333333,0.0008296273171472685,3,4
+"0.0, 5.0, 7.0, 1.0, 0.0","longitude, latitude, absolute_longitude, net_us, east_west",3.0,0.025126003423796485,0.7586206896551724,1,13.564791934243022,19855,19855,0.4166666666666667,0.0006523896776850403,0,0
+"2.0, 5.0, 6.0, 0.0, 0.0","longitude, absolute_longitude, depthError_log, net_us, east_west",1.0,0.03125,0.5,1,22.0,19938,19857,0.4166666666666667,0.0010580754189704294,2,4
+"3.0, 0.0, 3.0","horizontalError_log, net_us, nst_log",2.0,1.0,1.0,1,4.0,19858,19858,0.25,0.00019237734890371444,1,1
+"7.0, 0.0, 0.0, 4.0, 6.0, 0.0, 1.0","longitude, latitude, absolute_longitude, rms_log, depth_signed_log, east_west, station_coverage",2.0,1.0,1.0,1,12.0,19861,19861,0.5833333333333334,0.0005771320467111434,1,1
+"3.0, 7.0, 7.0, 1.0, 1.0","latitude, dmin_log, depth_signed_log, net_us, east_west",1,0.1,1.0,1,10.0,19863,19863,0.4166666666666667,0.0004809433722592861,0,0
+"4.0, 3.0, 0.0, 0.0, 6.0","absolute_longitude, dmin_log, horizontalError_log, net_us, station_coverage",0.0,0.1,1.0,1,15.0,19864,19864,0.4166666666666667,0.0007214150583889291,0,0
+"5.0, 2.0, 0.0, 0.0, 6.0","longitude, latitude, net_us, east_west, station_coverage",0,1.0,1.0,2,17.5,19985,19866,0.4166666666666667,0.0016833018029075012,2,2
+"3.0, 0.0, 2.0, 0.0, 3.0, 0.0, 4.0","latitude, dmin_log, rms_log, net_us, nst_log, east_west, station_coverage",1.0,0.1,1.0,1,4.0,19867,19867,0.5833333333333334,0.00019237734890371444,0,0
+"1.0, 0.0, 1.0, 1.0, 0.0","dmin_log, rms_log, depth_signed_log, nst_log, east_west",0.0,0.1,1.0,1,16.0,19869,19869,0.4166666666666667,0.0007695093956148577,0,0
+"6.0, 4.0","horizontalError_log, station_coverage",4.0,1.0,1.0,1,13.0,19980,19870,0.16666666666666666,0.0006252263839370719,1,1
+"7.0, 5.0, 7.0, 6.0, 1.0, 1.0","longitude, absolute_longitude, rms_log, horizontalError_log, net_us, east_west",4.0,0.0020745,0.45,1,19.4,19870,19870,0.5,0.000933030142183015,0,0
+"3.0, 4.0","longitude, nst_log",1,1.0,1.0,2,4.0,19918,19871,0.16666666666666666,0.0003847546978074289,1,1
+"1.0, 3.0, 0.0, 0.0, 7.0","dmin_log, rms_log, horizontalError_log, net_us, nst_log",0,0.0,0.0,1,6.0,19873,19873,0.4166666666666667,0.0002885660233555717,0,1
+"5.0, 2.0, 2.0, 0.0, 7.0","longitude, latitude, absolute_longitude, net_us, station_coverage",1.0,1.0,1.0,1,11.0,19966,19873,0.4166666666666667,0.0005290377094852147,1,1
+"0.0, 0.0, 0.0","absolute_longitude, net_us, east_west",3.0,0.004115226337448558,0.3333333333333333,1,15.64224,19949,19874,0.25,0.0007523031655289095,3,9
+"7.0, 7.0, 7.0, 5.0, 0.0, 2.0","absolute_longitude, horizontalError_log, depthError_log, nst_log, east_west, station_coverage",3.0,1.0,1.0,1,17.0,19875,19875,0.5,0.0008176037328407864,1,1
+"7.0, 5.0, 7.0, 6.0, 1.0, 7.0, 1.0, 7.0","longitude, absolute_longitude, dmin_log, horizontalError_log, net_us, nst_log, east_west, station_coverage",5.0,1.0,1.0,1,24.0,19939,19876,0.6666666666666666,0.0011542640934222867,1,1
+"7.0, 6.0, 1.0, 7.0, 7.0","dmin_log, depth_signed_log, net_us, nst_log, station_coverage",5.0,0.1,1.0,1,19.0,19876,19876,0.4166666666666667,0.0009137924072926436,0,0
+"0.0, 7.0, 1.0, 6.0","latitude, dmin_log, net_us, nst_log",4.0,0.0,0.0,1,10.0,19878,19878,0.3333333333333333,0.0004809433722592861,0,1
+"7.0, 1.0, 1.0, 5.0","dmin_log, net_us, east_west, station_coverage",4.0,0.022578499924532442,0.7371794871794872,1,11.322684308275687,19878,19878,0.3333333333333333,0.0005445569974249411,0,0
+"3.0, 4.0, 1.0, 1.0, 5.0","longitude, latitude, horizontalError_log, depth_signed_log, nst_log",1,0.02373046875,0.75,1,19.75,19879,19879,0.4166666666666667,0.00094986316021209,0,0
+"3.0, 4.0, 1.0, 0.0, 5.0","longitude, latitude, horizontalError_log, net_us, nst_log",1,0.02373046875,0.75,1,20.75,19879,19879,0.4166666666666667,0.0009979574974380186,0,0
+"6.0, 0.0, 0.0, 0.0","longitude, absolute_longitude, net_us, east_west",3.0,0.0,0.0,1,17.4,19885,19885,0.3333333333333333,0.0008368414677311577,0,5
+"7.0, 0.0, 6.0, 6.0, 7.0, 1.0, 6.0","longitude, latitude, horizontalError_log, depth_signed_log, nst_log, east_west, station_coverage",5.0,1.0,1.0,1,16.0,19927,19889,0.5833333333333334,0.0007695093956148577,1,1
+"7.0, 7.0, 7.0, 6.0, 6.0, 1.0, 7.0","longitude, dmin_log, rms_log, horizontalError_log, depth_signed_log, net_us, nst_log",5.0,1.0,1.0,1,16.0,19927,19889,0.5833333333333334,0.0007695093956148577,1,1
+"0.0, 7.0, 5.0, 7.0, 0.0, 7.0","latitude, dmin_log, depthError_log, nst_log, east_west, station_coverage",3,0.1,1.0,1,24.5,19891,19891,0.5,0.001178311262035251,0,0
+"0.0, 6.0, 7.0, 7.0, 1.0, 7.0","latitude, rms_log, horizontalError_log, depth_signed_log, net_us, nst_log",4.0,0.0,0.0,1,21.0,19892,19892,0.5,0.0010099810817445008,0,1
+"7.0, 4.0, 6.0, 7.0, 7.0, 7.0, 1.0","longitude, absolute_longitude, rms_log, horizontalError_log, depth_signed_log, depthError_log, net_us",4.0,0.13168724279835387,0.6666666666666666,1,19.0,19993,19892,0.5833333333333334,0.0009137924072926436,2,3
+"4.0, 0.0, 0.0","rms_log, net_us, nst_log",0.0,0.004115226337448558,0.3333333333333333,1,14.666666666666666,19894,19894,0.25,0.0007053836126469529,1,3
+"0.0, 0.0, 7.0, 0.0, 7.0","horizontalError_log, net_us, nst_log, east_west, station_coverage",2.0,0.0009765625,0.25,1,8.5,19948,19896,0.4166666666666667,0.0004088018664203932,1,4
+"3.0, 0.0, 1.0, 0.0, 7.0, 0.0, 7.0","absolute_longitude, horizontalError_log, depth_signed_log, net_us, nst_log, east_west, station_coverage",2.0,0.0039433647698722445,0.5238095238095238,1,4.763667597545964,19896,19896,0.5833333333333334,0.00022910543586860475,0,0
+"0.0, 7.0, 0.0, 0.0","longitude, absolute_longitude, nst_log, station_coverage",0.0,0.0,0.0,1,17.5,19897,19897,0.3333333333333333,0.0008416509014537506,0,2
+"3.0, 7.0, 6.0","latitude, dmin_log, nst_log",4.0,0.1,1.0,1,14.06270208,19898,19898,0.25,0.0006763363361432876,0,0
+"2.0, 2.0, 5.0","absolute_longitude, rms_log, depth_signed_log",0.0,1.0,1.0,3,11.25,19984,19901,0.25,0.0016231838813750906,4,4
+"7.0, 0.0, 7.0, 6.0, 7.0, 5.0","longitude, latitude, dmin_log, rms_log, horizontalError_log, depth_signed_log",4.0,1.0,1.0,1,14.5,19911,19906,0.5,0.0006973678897759649,2,2
+"4.0, 0.0, 6.0, 0.0, 2.0","horizontalError_log, net_us, nst_log, east_west, station_coverage",2.0,0.005292214940134467,0.5555555555555556,1,11.52048608739328,19907,19907,0.4166666666666667,0.0005540701428937112,0,0
+"2.0, 4.0, 0.0, 6.0, 0.0","longitude, horizontalError_log, net_us, nst_log, east_west",2.0,0.005292214940134467,0.5555555555555556,1,11.52048608739328,19907,19907,0.4166666666666667,0.0005540701428937112,0,0
+"2.0, 2.0, 1.0, 5.0","absolute_longitude, dmin_log, depth_signed_log, station_coverage",0.0,1.0,1.0,1,3.0,19908,19908,0.3333333333333333,0.00014428301167778584,1,1
+"5.0, 2.0, 0.0, 5.0, 6.0","longitude, latitude, net_us, nst_log, station_coverage",0,1.0,1.0,1,17.0,19985,19909,0.4166666666666667,0.0008176037328407864,1,1
+"5.0, 1.0, 0.0, 1.0, 0.0, 0.0","longitude, absolute_longitude, dmin_log, depthError_log, net_us, east_west",0.0,1.0,1.0,1,4.0,19910,19910,0.5,0.00019237734890371444,1,1
+"7.0, 7.0, 6.0, 7.0, 5.0, 1.0, 1.0","longitude, dmin_log, rms_log, horizontalError_log, depth_signed_log, net_us, east_west",4.0,0.0,0.0,1,4.0,19911,19911,0.5833333333333334,0.00019237734890371444,0,1
+"7.0, 0.0, 7.0, 5.0, 4.0","longitude, latitude, dmin_log, depth_signed_log, station_coverage",4.0,1.0,1.0,1,13.0,19980,19911,0.4166666666666667,0.0006252263839370719,1,1
+"0.0, 6.0, 5.0, 6.0, 0.0","longitude, dmin_log, rms_log, horizontalError_log, net_us",2,0.03591654751124945,0.8148148148148148,1,14.643877220997743,19913,19913,0.4166666666666667,0.0007042875693617597,0,0
+"0.0, 6.0, 0.0, 4.0, 2.0","longitude, dmin_log, net_us, nst_log, station_coverage",2,0.01991161489782947,0.7241379310344828,1,13.41924920952834,19913,19913,0.4166666666666667,0.0006453898968018319,0,0
+"5.0, 4.0, 1.0, 0.0, 3.0","longitude, dmin_log, horizontalError_log, net_us, station_coverage",0.0,0.1,1.0,1,9.5,19914,19914,0.4166666666666667,0.0004568962036463218,0,0
+"1.0, 0.0, 0.0","absolute_longitude, dmin_log, net_us",1.0,0.0,0.0,1,8.0,19917,19917,0.25,0.0003847546978074289,0,1
+"3.0, 4.0, 4.0","longitude, absolute_longitude, nst_log",1,0.1,1.0,1,4.0,19918,19918,0.25,0.00019237734890371444,0,0
+"7.0, 7.0, 7.0, 1.0","absolute_longitude, dmin_log, depthError_log, station_coverage",3.0,1.0,1.0,1,13.0,19963,19920,0.3333333333333333,0.0006252263839370719,2,2
+"7.0, 6.0, 5.0","rms_log, horizontalError_log, depth_signed_log",4.0,0.0,0.0,1,17.0,19921,19921,0.25,0.0008176037328407864,0,1
+"7.0, 0.0, 7.0, 1.0","longitude, latitude, dmin_log, east_west",5.0,0.048282842081079885,0.5454545454545454,1,17.0276608,19999,19922,0.3333333333333333,0.0008189340606839253,6,11
+"0.0, 7.0, 7.0, 7.0, 4.0, 1.0, 7.0, 7.0","latitude, rms_log, horizontalError_log, depth_signed_log, depthError_log, net_us, nst_log, station_coverage",5,0.1,1.0,1,23.0,19922,19922,0.6666666666666666,0.001106169756196358,0,0
+"7.0, 0.0","horizontalError_log, east_west",4.0,0.004115226337448558,0.3333333333333333,1,15.333333333333334,19954,19923,0.16666666666666666,0.0007374465041309054,1,3
+"0.0, 7.0, 7.0, 7.0","latitude, dmin_log, horizontalError_log, depth_signed_log",4.0,0.13168724279835387,0.6666666666666666,1,18.48,19993,19923,0.3333333333333333,0.0008887833519351607,4,6
+"2.0, 6.0, 0.0, 0.0","longitude, depthError_log, net_us, east_west",1.0,0.03125,0.5,1,21.0,19938,19924,0.3333333333333333,0.0010099810817445008,1,2
+"7.0, 6.0, 1.0","latitude, depthError_log, nst_log",1.0,0.013168724279835387,0.6666666666666666,1,20.0,19924,19924,0.25,0.0009618867445185722,0,0
+"1.0, 0.0","nst_log, east_west",0.0,0.1043582467665522,0.6363636363636364,1,11.7823872,19976,19925,0.16666666666666666,0.0005666661033232648,7,11
+"7.0, 5.0","rms_log, horizontalError_log",3.0,0.0,0.0,1,16.0,19926,19926,0.16666666666666666,0.0007695093956148577,0,4
+"7.0, 0.0, 7.0, 6.0, 6.0, 1.0, 7.0, 1.0, 6.0","longitude, latitude, dmin_log, horizontalError_log, depth_signed_log, net_us, nst_log, east_west, station_coverage",4,0.1,1.0,1,12.25,19927,19927,0.75,0.0005891556310176255,0,0
+"7.0, 6.0, 6.0, 7.0, 1.0","rms_log, horizontalError_log, depth_signed_log, nst_log, east_west",5.0,0.1,1.0,1,13.0,19927,19927,0.4166666666666667,0.0006252263839370719,0,0
+"7.0, 7.0, 1.0, 3.0, 3.0","longitude, dmin_log, net_us, nst_log, station_coverage",4.0,0.1,1.0,1,18.0,19930,19930,0.4166666666666667,0.0008656980700667149,0,0
+"0.0, 0.0, 0.0","net_us, nst_log, east_west",0.0,0.03125,0.5,2,17.75,19970,19931,0.25,0.0017073489715204657,2,4
+"3.0, 0.0, 1.0, 0.0","latitude, depth_signed_log, nst_log, east_west",0.0,0.0,0.0,1,8.0,19932,19932,0.3333333333333333,0.0003847546978074289,0,1
+"7.0, 6.0, 6.0, 7.0, 7.0, 7.0, 7.0","longitude, latitude, rms_log, horizontalError_log, depth_signed_log, depthError_log, nst_log",4.0,0.028462802079628785,0.7777777777777778,1,10.481280000000002,19933,19933,0.5833333333333334,0.0005040902148793811,0,0
+"6.0, 1.0, 3.0","longitude, latitude, depth_signed_log",1,0.0,0.0,1,22.0,19934,19934,0.25,0.0010580754189704294,0,1
+"0.0, 3.0, 0.0, 0.0","absolute_longitude, depthError_log, net_us, east_west",1.0,0.011563691288861436,0.6485507246376812,1,17.68,19934,19934,0.3333333333333333,0.0008503078821544178,0,0
+"2.0, 6.0, 7.0, 5.0, 5.0, 7.0","longitude, dmin_log, rms_log, horizontalError_log, depthError_log, station_coverage",2.0,1.0,1.0,1,12.0,19944,19936,0.5,0.0005771320467111434,2,2
+1.0,dmin_log,1.0,0.001903968584518355,0.2857142857142857,2,13.776,19994,19937,0.08333333333333333,0.001325095179248785,2,7
+"7.0, 1.0, 7.0, 7.0","dmin_log, net_us, nst_log, station_coverage",5.0,1.0,1.0,2,21.5,19946,19939,0.3333333333333333,0.00206805650071493,2,2
+"2.0, 5.0, 6.0, 7.0, 2.0, 0.0, 1.0, 0.0","longitude, absolute_longitude, dmin_log, rms_log, depth_signed_log, net_us, nst_log, east_west",1.0,1.0,1.0,1,5.0,19940,19940,0.6666666666666666,0.00024047168612964306,1,1
+"2.0, 7.0","longitude, latitude",2.0,1.0,1.0,1,20.666666666666668,19998,19944,0.16666666666666666,0.0009939496360025246,3,3
+"2.0, 7.0, 5.0, 6.0, 7.0, 5.0, 5.0, 7.0, 7.0","longitude, latitude, absolute_longitude, dmin_log, rms_log, horizontalError_log, depthError_log, nst_log, station_coverage",2.0,0.05352148138861872,0.7941176470588236,1,12.0,19944,19944,0.75,0.0005771320467111434,0,0
+"2.0, 5.0, 4.0, 5.0, 4.0, 4.0, 3.0, 0.0","longitude, latitude, absolute_longitude, dmin_log, rms_log, depthError_log, nst_log, east_west",2.0,1.0,1.0,1,2.0,19945,19945,0.6666666666666666,9.618867445185722e-05,1,1
+"7.0, 7.0, 7.0, 5.0, 1.0, 7.0, 7.0","dmin_log, rms_log, horizontalError_log, depth_signed_log, net_us, nst_log, station_coverage",5.0,0.1,1.0,1,22.0,19946,19946,0.5833333333333334,0.0010580754189704294,0,0
+"5.0, 1.0, 1.0, 0.0","longitude, rms_log, nst_log, east_west",0.0,0.0007415771484375,0.375,1,10.086400000000001,19950,19950,0.3333333333333333,0.00048509872299560636,0,0
+"5.0, 0.0, 0.0, 0.0","longitude, depthError_log, net_us, east_west",0.0,0.0,0.0,1,11.0,19950,19950,0.3333333333333333,0.0005290377094852147,0,1
+"6.0, 0.0, 7.0, 6.0, 0.0, 7.0, 0.0","longitude, absolute_longitude, dmin_log, horizontalError_log, depth_signed_log, nst_log, east_west",3.0,1.0,1.0,1,10.0,19953,19953,0.5833333333333334,0.0004809433722592861,1,1
+"0.0, 0.0, 7.0, 7.0, 7.0","latitude, absolute_longitude, dmin_log, horizontalError_log, depth_signed_log",4.0,0.1,1.0,1,19.5,19954,19954,0.4166666666666667,0.0009378395759056079,0,0
+"6.0, 4.0, 0.0, 0.0","longitude, depth_signed_log, net_us, east_west",1,0.0,0.0,1,19.0,19956,19956,0.3333333333333333,0.0009137924072926436,0,1
+"6.0, 1.0, 0.0, 4.0, 0.0, 0.0","longitude, latitude, dmin_log, depth_signed_log, net_us, east_west",4,0.001734152991583261,0.4444444444444444,1,12.14272,19956,19956,0.5,0.0005839960705200279,0,0
+"1.0, 1.0, 4.0, 5.0","absolute_longitude, dmin_log, rms_log, horizontalError_log",1.0,0.02994492622121735,0.7857142857142857,1,8.612780646400001,19959,19959,0.3333333333333333,0.000414225976860913,0,0
+3.0,depth_signed_log,1.0,0.0,0.0,1,11.0,19964,19964,0.08333333333333333,0.0005290377094852147,0,3
+"2.0, 2.0, 0.0, 0.0, 7.0","latitude, absolute_longitude, depthError_log, net_us, station_coverage",1.0,0.1,1.0,1,11.0,19966,19966,0.4166666666666667,0.0005290377094852147,0,0
+"0.0, 7.0, 7.0, 7.0, 7.0, 5.0","latitude, absolute_longitude, dmin_log, rms_log, horizontalError_log, depth_signed_log",4,0.04626643660379603,0.8571428571428571,1,17.808,19968,19968,0.5,0.0008564639573193367,0,0
+"0.0, 7.0, 7.0, 7.0, 5.0, 6.0","latitude, dmin_log, rms_log, horizontalError_log, depth_signed_log, nst_log",5.0,0.04626643660379603,0.8571428571428571,1,17.808,19968,19968,0.5,0.0008564639573193367,0,0
+"0.0, 0.0, 0.0","dmin_log, rms_log, net_us",0.0,0.0,0.0,1,18.0,19970,19970,0.25,0.0008656980700667149,0,1
+"6.0, 4.0, 4.0, 0.0","longitude, dmin_log, horizontalError_log, east_west",1.0,0.013745959538637526,0.6723163841807909,1,15.666666666666666,19971,19971,0.3333333333333333,0.0007534779498728815,0,0
+"1.0, 0.0, 4.0, 0.0","latitude, absolute_longitude, rms_log, east_west",1.0,0.013745959538637526,0.6723163841807909,1,16.438105619283455,19971,19971,0.3333333333333333,0.0007905797950092505,0,0
+"2.0, 4.0, 1.0, 0.0, 0.0, 2.0","longitude, depth_signed_log, depthError_log, net_us, east_west, station_coverage",1.0,1.0,1.0,1,1.0,19973,19973,0.5,4.809433722592861e-05,1,1
+"5.0, 1.0, 0.0, 1.0, 0.0","latitude, rms_log, net_us, nst_log, east_west",0.0,0.013168724279835387,0.6666666666666666,1,8.972480000000001,19975,19975,0.4166666666666667,0.0004315254788729,0,0
+"1.0, 0.0, 2.0","nst_log, east_west, station_coverage",0.0,1.0,1.0,2,19.0,19976,19975,0.25,0.0018275848145852872,1,1
+"3.0, 1.0, 0.0","rms_log, nst_log, east_west",0.0,0.016806999999999996,0.7,1,10.977984000000001,19976,19976,0.25,0.0005279788645568488,0,0
+"1.0, 4.0, 4.0, 0.0, 2.0","absolute_longitude, dmin_log, rms_log, horizontalError_log, depthError_log",3.0,0.1,1.0,1,9.5,19978,19978,0.4166666666666667,0.0004568962036463218,0,0
+"7.0, 0.0, 7.0, 5.0","longitude, latitude, dmin_log, depth_signed_log",4.0,0.1,1.0,1,13.32,19980,19980,0.3333333333333333,0.0006406165718493691,0,0
+"3.0, 3.0, 0.0, 0.0, 7.0","latitude, rms_log, horizontalError_log, depthError_log, station_coverage",3.0,1.0,1.0,1,6.0,19981,19981,0.4166666666666667,0.0002885660233555717,1,1
+"6.0, 0.0, 2.0, 0.0","longitude, dmin_log, rms_log, east_west",0,0.0010240000000000004,0.4,1,16.8,19982,19982,0.3333333333333333,0.0008079848653956006,0,0
+"2.0, 2.0, 2.0, 5.0","latitude, absolute_longitude, rms_log, depth_signed_log",0.0,1.0,1.0,1,17.0,19984,19984,0.3333333333333333,0.0008176037328407864,1,1
+"5.0, 2.0, 5.0, 0.0","longitude, latitude, nst_log, east_west",0,0.1,1.0,1,18.286399999999997,19985,19985,0.3333333333333333,0.0008794722882482208,0,0
+"2.0, 7.0, 5.0, 0.0","longitude, latitude, absolute_longitude, east_west",2.0,1.0,1.0,1,22.0,19998,19986,0.3333333333333333,0.0010580754189704294,1,1
+"2.0, 7.0, 7.0","longitude, latitude, nst_log",2.0,1.0,1.0,1,22.0,19998,19986,0.25,0.0010580754189704294,1,1
+"1.0, 6.0, 0.0","longitude, rms_log, east_west",1.0,1.0,1.0,2,10.0,19989,19988,0.25,0.0009618867445185722,1,1
+1.0,longitude,1.0,0.1,1.0,1,10.0,19989,19989,0.08333333333333333,0.0004809433722592861,0,0
+"0.0, 6.0, 6.0","longitude, dmin_log, horizontalError_log",2,0.060604181069958844,0.8666666666666667,1,12.135399367622671,19991,19991,0.25,0.0005836439895577656,0,0
+"1.0, 0.0","dmin_log, net_us",1.0,0.0001903968584518355,0.2857142857142857,1,13.776,19994,19994,0.16666666666666666,0.0006625475896243925,0,0
+"5.0, 1.0, 2.0, 3.0, 3.0, 2.0, 0.0, 5.0, 0.0, 6.0","longitude, latitude, dmin_log, rms_log, depth_signed_log, depthError_log, net_us, nst_log, east_west, station_coverage",0.0,1.0,1.0,1,6.0,19995,19995,0.8333333333333334,0.0002885660233555717,1,1
+"2.0, 7.0, 5.0","longitude, latitude, absolute_longitude",2.0,0.1,1.0,1,22.0,19998,19998,0.25,0.0010580754189704294,0,0
+"2.0, 7.0","longitude, latitude",3,0.1,1.0,1,20.666666666666668,19998,19998,0.16666666666666666,0.0009939496360025246,0,0
+"5.0, 1.0, 7.0, 1.0","absolute_longitude, net_us, nst_log, east_west",5.0,0.017525145137855438,0.7058823529411765,1,14.602050573107201,19999,19999,0.3333333333333333,0.0007022759444530819,0,0
